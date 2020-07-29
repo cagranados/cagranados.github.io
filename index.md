@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to my website
+I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu)
 
 You can use the [editor on GitHub](https://github.com/jcamilogranados/jcamilogranados.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
