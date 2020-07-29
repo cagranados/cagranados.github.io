@@ -5,8 +5,8 @@ My main areas of research are International Macroeconomics and International Fin
 
 # Research
 
-- Macroprudential Policy Coordination in Emerging Economies: A Multicountry Approach
-- Strategic Macroprudential Policy Setting in Emerging Economics: The Role of Coordination
+- Macroprudential Policy Coordination in Emerging Economies: A Multicountry Approach[pdf](/files/papers/MaPToyStatic.pdf)[slides](/files/papers/MaPToyStatic.pdf)
+- Strategic Macroprudential Policy Setting in Emerging Economics: The Role of Coordination[pdf](/files/papers/MaPToyStatic.pdf)
 
 # Teaching
 
