@@ -1,4 +1,4 @@
-## Welcome to my website
+# Welcome to my website
 I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu)
 
 My main areas of research are International Macroeconomics and International Finance. I am also very interested in applied econometrics and Macroeconomics in general. In my current research projects I study how to implement macroprudential policies in emerging economies. 
@@ -7,4 +7,6 @@ My main areas of research are International Macroeconomics and International Fin
 
 - Macroprudential Policy Coordination in Emerging Economies: A Multicountry Approach
 - Strategic Macroprudential Policy Setting in Emerging Economics: The Role of Coordination
+
+# Teaching
 
