@@ -1,5 +1,3 @@
-title: Welcome2
-
 ## Welcome to my website
 I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu)
 
