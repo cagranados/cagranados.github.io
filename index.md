@@ -44,15 +44,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-                <h2>Research</h2>
-
-
-                <ul>
-                    <li><a href="files/gallacher_jmpaper.pdf">Manufacturing Employment, Trade and Structural Change</a>
-
-                    <li><a href="files/draft_mpsc.pdf">Sectoral Wages, Reallocation Frictions and Trade Integration</a>
-
-                    <li><a href="files/remotework_dynamics.pdf">Remote Work and Employment Dynamics under Covid-19: Evidence from Canada</a>, with Iqbal Hossain. 
-		    <ul>
-      			<li>Forthcoming,
-<a href="https://utpjournals.press/doi/10.3138/cpp.2020-026">Canadian Public Policy.</a>
+ 
