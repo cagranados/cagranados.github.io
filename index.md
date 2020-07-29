@@ -7,9 +7,10 @@ My main areas of research are **International Macroeconomics** and **Internation
 
 In my current research projects I study how to implement macroprudential policies in emerging economies. 
 
-## Research [more](./ResearchPage.html)
+## Research 
 
 - Macroprudential Policy Coordination in Emerging Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
+
 - Strategic Macroprudential Policy Setting in Emerging Economics: The Role of Coordination. \[[slides](/files/papers/MaPdynSlides_JulyWorkshop.pdf)\]
 
 ##### Other 
