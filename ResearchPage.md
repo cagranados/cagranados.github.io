@@ -1,4 +1,4 @@
-      
+<h3> Working Papers </h3>      
 
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPToyStatic.pdf">Macroprudential Policy Coordination in Emerging Economies: A Multicountry Framework</a> <br><button class="accordion"> 
     Abstract   
@@ -20,7 +20,7 @@ regional incentives for coordination change meaningfully with the addition of ne
 <br><b>Repec link here:</b> https://ideas.repec.org/f/pgr313.html
 <p>
 <br>
-<h5>Pre-Ph.D. Research</h5></p>
+<h3>Pre-Ph.D. Research</h3></p>
 <p style="margin:0">
 <br>Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. Economics Research International, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
