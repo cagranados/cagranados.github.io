@@ -20,3 +20,15 @@ regional incentives for coordination change meaningfully with the addition of ne
 <h5>Pre-Ph.D. Research</h5>
 
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
+
+Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. Economics Research International, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
+
+Arteaga, C., Granados, J., and Ojeda, J., (2013). Are the Real Exchange Rate Dynamics Explained by its Fundamentals? (in spanish), Ensayos Sobre Politica Economica (ESPE) ´ , vol.
+31, No. 72, December. 
+
+Arteaga, C., Granados, J., and Ojeda, J., (2013). On the Determinants of Commodity Prices (in spanish), Ensayos Sobre Politica Economica (ESPE), vol. 31, No. 71, December.
+
+Melo, L., and Granados, J. (2012). Inflation Expectations and Risk Premium Under an Inflation Compensation Method (in spanish), El Trimestre Economico, vol. 79, No. 316,
+Fondo de Cultura Economica. M ´ ´exico. October - December.
+
+Melo, L., and Granados, J. (2011). Financial Regulation and Value at Risk (in spanish), Ensayos Sobre Politica Economica (ESPE), vol. 29, No. 64.
