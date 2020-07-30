@@ -1,4 +1,42 @@
+   <style>
+      button.accordion {
+      font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      cursor: pointer;
+      padding: 0px;
+      border: none;
+      text-align: left;
+      outline: none;
+      font-size: 100%;
+      transition: 0.3s;
+      background-color: #f8f8f8;
+      }
+      button.accordion.active, button.accordion:hover {
+      background-color: #f8f8f8;
+      }
+      button.accordion:after {
+      content: " [+] ";
+      font-size: 90%;
+      color:#777;
+      float: left;
+      margin-left: 1px;
+      }
 
+   button.accordion.active:after {
+      content: " [\2212] ";
+      }
+      div.panel {
+      padding: 0 20px;
+      margin-top: 5px;
+      display: none;
+      background-color: white;
+      font-size: 100%;
+      }
+      div.panel.show {
+      display: block !important;
+      }
+    </style>
+ <section>      
+ 
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://tyleransom.github.io/research/recruit_reject.pdf">Recruit to Reject? Harvard and African American Applicants</a> <br> with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a> and <a href="http://www.terry.uga.edu/directory/economics/josh-kinsler">Josh Kinsler</a> <br> <i>Under Review</i> (updated July 16, 2020) <br> Guest column at <a href="https://voxeu.org/article/recruiting-practices-elite-universities-case-harvard"><i>VoxEU</i></a> <br><button class="accordion"> 
     Abstract   
     </button>   
@@ -44,3 +82,4 @@
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> <a href="https://www.iza.org/publications/dp/13370/selective-migration-occupational-choice-and-the-wage-returns-to-college-majors">IZA Discussion Paper No. 13370</a> (June 2020) </p></div><br>
 
    <hr>
+ </section>
