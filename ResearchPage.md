@@ -19,6 +19,4 @@ regional incentives for coordination change meaningfully with the addition of ne
 
 <h5>Pre-Ph.D. Research</h5>
 
-asfasdasdf 
-
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
