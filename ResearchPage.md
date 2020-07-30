@@ -16,9 +16,11 @@ regional incentives for coordination change meaningfully with the addition of ne
     </button>
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In order to understand the strategic interactions between financial regulators in open emerging economies we set a multicountry general equilibrium model with multiple peripheries, a long-lived banking sector and dynamic macro-prudential policies. This framework allows us to perform a welfare accounting exercise that accounts for the totality of policy effects over time and to rank a variety of policy frameworks that differ by their degree of international policy coordination. We obtain that not every type of policy coordination would generate welfare gains with respect to inward looking policies. Instead, only schemes where the financial center of reference is cooperative will generate gains, impliying that emerging countries coalitions can be counterproductive. Furthermore, we show that in relation to lower ranked models, the best performing policy frameworks implement a countercyclical macroprudential policy, while at the same time the policies can comove with the cycle in some scenarios, a result that helps reconcile literature debates on the cyclicality of optimal macroprudential tools. Finally, we study the dynamic path of the optimal financial instruments and describe the features characterizing cooperative policy settings. </p></div>
 
+**Repec:** https://ideas.repec.org/f/pgr313.html
 <br>
-<h5>Pre-Ph.D. Research</h5>
 <p>
+<h5>Pre-Ph.D. Research</h5>
+<br>
 <br>Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. Economics Research International, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
 <br>Arteaga, C., Granados, J., and Ojeda, J., (2013). Are the Real Exchange Rate Dynamics Explained by its Fundamentals? (in spanish), Ensayos Sobre Política Económica (ESPE), vol. 31, No. 72, December. 
