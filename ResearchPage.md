@@ -1,3 +1,6 @@
+   
+<!doctype html>
+<html lang="en">
    <style>
       button.accordion {
       font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -83,3 +86,4 @@
 
    <hr>
  </section>
+ </html>
