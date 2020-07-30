@@ -20,6 +20,7 @@ regional incentives for coordination change meaningfully with the addition of ne
 <h5>Pre-Ph.D. Research</h5>
 
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
+<p>
 <br>
 <br>Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. Economics Research International, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
@@ -31,3 +32,4 @@ regional incentives for coordination change meaningfully with the addition of ne
 Fondo de Cultura Economica. México. October - December.
 <br>
 <br> Melo, L., and Granados, J. (2011). Financial Regulation and Value at Risk (in spanish), Ensayos Sobre Política Económica (ESPE), vol. 29, No. 64.
+</p>
