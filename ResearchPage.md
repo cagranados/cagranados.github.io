@@ -1,46 +1,4 @@
-   
-<!doctype html>
-<html lang="en">
-  <head>
-   <style>
-      button.accordion {
-      font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-      cursor: pointer;
-      padding: 0px;
-      border: none;
-      text-align: left;
-      outline: none;
-      font-size: 100%;
-      transition: 0.3s;
-      background-color: #f8f8f8;
-      }
-      button.accordion.active, button.accordion:hover {
-      background-color: #f8f8f8;
-      }
-      button.accordion:after {
-      content: " [+] ";
-      font-size: 90%;
-      color:#777;
-      float: left;
-      margin-left: 1px;
-      }
 
-   button.accordion.active:after {
-      content: " [\2212] ";
-      }
-      div.panel {
-      padding: 0 20px;
-      margin-top: 5px;
-      display: none;
-      background-color: white;
-      font-size: 100%;
-      }
-      div.panel.show {
-      display: block !important;
-      }
-    </style>
-  </head>
- <body>
  <section>      
 
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://tyleransom.github.io/research/divergent.pdf">Macroprudential Policy Coordination in Emerging Economies: A Multicountry Framework</a> <br><button class="accordion"> 
@@ -68,5 +26,4 @@ regional incentives for coordination change meaningfully with the addition of ne
 
    <hr>
  </section>
- </body>
- </html>
+
