@@ -1,5 +1,4 @@
-
- <section>      
+      
 
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPToyStatic.pdf">Macroprudential Policy Coordination in Emerging Economies: A Multicountry Framework</a> <br><button class="accordion"> 
     Abstract   
@@ -18,3 +17,10 @@ regional incentives for coordination change meaningfully with the addition of ne
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In order to understand the strategic interactions between financial regulators in open emerging economies we set a multicountry general equilibrium model with multiple peripheries, a long-lived banking sector and dynamic macro-prudential policies. This framework allows us to perform a welfare accounting exercise that accounts for the totality of policy effects over time and to rank a variety of policy frameworks that differ by their degree of international policy coordination. We obtain that not every type of policy coordination would generate welfare gains with respect to inward looking policies. Instead, only schemes where the financial center of reference is cooperative will generate gains, impliying that emerging countries coalitions can be counterproductive. Furthermore, we show that in relation to lower ranked models, the best performing policy frameworks implement a countercyclical macroprudential policy, while at the same time the policies can comove with the cycle in some scenarios, a result that helps reconcile literature debates on the cyclicality of optimal macroprudential tools. Finally, we study the dynamic path of the optimal financial instruments and describe the features characterizing cooperative policy settings. </p></div>
 
 
+<h5>Pre-Ph.D. Research</h5>
+
+   <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
+    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
+        <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
+            <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
+                <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
