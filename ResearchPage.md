@@ -1,6 +1,7 @@
    
 <!doctype html>
 <html lang="en">
+  <head>
    <style>
       button.accordion {
       font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -38,6 +39,8 @@
       display: block !important;
       }
     </style>
+  </head>
+ <body>
  <section>      
  
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://tyleransom.github.io/research/recruit_reject.pdf">HRecruit to Reject? Harvard and African American Applicants</a> <br> with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a> and <a href="http://www.terry.uga.edu/directory/economics/josh-kinsler">Josh Kinsler</a> <br> <i>Under Review</i> (updated July 16, 2020) <br> Guest column at <a href="https://voxeu.org/article/recruiting-practices-elite-universities-case-harvard"><i>VoxEU</i></a> <br><button class="accordion"> 
@@ -86,4 +89,5 @@
 
    <hr>
  </section>
+ </body>
  </html>
