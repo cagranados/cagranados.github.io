@@ -1,7 +1,5 @@
 # Teaching
 
-These are my teaching materials. The notes are subject to mistakes. Any feedback is appreciated.
-
 <h2> University of Washington </h2>
 
 - International Finance (FIN 579): Spr. 2019, Spr. 2020
