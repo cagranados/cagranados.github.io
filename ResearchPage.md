@@ -1,16 +1,3 @@
-<h2><a id="recent-papers-updated" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Papers</h2>
-    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://tyleransom.github.io/research/real_penalty.pdf">Asian American Discrimination in Harvard Admissions</a> <br> with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a> and <a href="http://www.terry.uga.edu/directory/economics/josh-kinsler">Josh Kinsler</a> <br> <i>Under Review</i> (updated June 10, 2020) <br><button class="accordion"> 
-    Abstract   
-    </button>   
-    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> Detecting racial discrimination using observational data is challenging because of the presence of unobservables that may be correlated with race. Using data made public in the <i>SFFA v. Harvard</i> case, we estimate discrimination in a setting where this concern is mitigated. Namely, we show that there is a substantial penalty against Asian Americans in admissions with limited scope for omitted variables to overturn the result. This is because <i>(i)</i> Asian Americans are substantially stronger than whites on the observables associated with admissions and <i>(ii)</i> the richness of the data yields a model that predicts admissions extremely well. Our preferred model shows that Asian Americans would be admitted at a rate 19% higher absent this penalty. Controlling for one of the primary channels through which Asian American applicants are discriminated against|the personal rating|cuts the Asian American penalty by less than half, still leaving a substantial penalty. </p></div>
-    <p style="margin:0"><button class="accordion">
-      Other versions
-    </button>
-    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> <a href="http://www.nber.org/papers/w27068">NBER Working Paper No. 27068</a> (April 2020) <br> <a href="https://www.iza.org/publications/dp/13172/asian-american-discrimination-in-harvard-admissions">IZA Discussion Paper No. 13172</a> (April 2020) </p></div>
-    <p style="margin:0"><button class="accordion">
-      Media coverage
-    </button>
-    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> <a href="https://marginalrevolution.com/marginalrevolution/2020/04/assorted-non-covid-links.html"><i>Marginal Revolution</i></a> <br> <a href="https://podcasts.apple.com/us/podcast/how-to-win-elections/id1042433083?i=1000473678098">Vox's <i>The Weeds</i> podcast (50:00 mark)</a> </p></div><br>
 
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://tyleransom.github.io/research/recruit_reject.pdf">Recruit to Reject? Harvard and African American Applicants</a> <br> with <a href="http://public.econ.duke.edu/~psarcidi/">Peter Arcidiacono</a> and <a href="http://www.terry.uga.edu/directory/economics/josh-kinsler">Josh Kinsler</a> <br> <i>Under Review</i> (updated July 16, 2020) <br> Guest column at <a href="https://voxeu.org/article/recruiting-practices-elite-universities-case-harvard"><i>VoxEU</i></a> <br><button class="accordion"> 
     Abstract   
