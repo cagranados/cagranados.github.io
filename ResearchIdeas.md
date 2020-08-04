@@ -1,6 +1,8 @@
+<!--- This files contains possible research ideas to be pursued -->
+
 # Research Ideas
 
-## [1] limiting regulatory arbitrage with regulation:
+## [1] limiting regulatory arbitrage with regulation: <!--- July 2020 -->
 
 Studies on effectiveness of MaP indicate that the effect of the tools may change greatly depending on the scope at which they are applied. For example, 
 LTV limits applied only on household deposits may lead to a switch towards non-bank (shadow) financial intermediaries or foreign banks by borrowers (IMF, iMaPP paper 2019 and presentation). It may be also the case that such arbitrage could be limited if, simultaneously, other policies are active, such as strict capital requirements on other banking activities. Then it could be that the MaPP should be applied in tandem, rather than independently. It can be interesting to check to what extent: 
