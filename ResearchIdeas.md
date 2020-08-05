@@ -14,3 +14,9 @@ arbitrage?).
 that want to be mitigaged. 
 
 To support this idea empirically, notice that the data (Cerutti, Claessens, et al (2017, JFS)) suggest that more MaPP tools have been used over time.
+
+
+## [2] Complementarity between MaPP and Sterilized Interventions in EMEs <!--- July 2020 -->
+
+Empirical studies show that the main regulatory concern for emerging economies is the currency risk and fragility to external shocks, this explains why in peripheries the MaPP tools that target financial institutions are more prevalent than borrower based tools (as in AEs). At the same time, EMEs Central Banks engage in active interventions in the FX markets and have accumulated substaintial amounts of foreign currency denominated assets, or foreign reserves. Furthermore, Fujiwara et al (2020) that these measures can be substitutable as there is a mapping between capital controls and sterilized interventions. It would be interesting to study whether it's convenient to fully substitute these measures or if, instead, these can be complementary and more efficient (effective and less constly) when applied simultaneously.
+<!--- Possible frameworks: SOE, or LOE with Center and Periphery. This work is highly motivated by the fact that EMEs care more about currency fluctuations when setting their macroprudential policies. That is one of the main features that distinguish them from AEs. -->
