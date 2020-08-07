@@ -23,7 +23,7 @@ Empirical studies indicate that the main regulatory concern for emerging economi
 
 ## [3] The Welfare Cost Of Shadowbanking in Emerging Economies
 
-The main macroprudential policy challenge at the moment is the existence of shadow-banking financial intermediaries. The presence of these firms limits the scope and possibly the effectiveness of the nacro-prudential tools. This paper aims to determine the degree in which the former holds true under different structures of the banking sector in an emergent economy. Furthermore, we analize which cases are more detrimental from a regulatory perspective by analyzing the welfare cost and resilience of the financial sector that is partially regulated.
+The main macroprudential policy challenge at the moment is the existence of shadow-banking financial intermediaries. The presence of these firms limits the scope and possibly the effectiveness of the macro-prudential tools. This paper aims to determine the degree in which the former holds true under different structures of the banking sector in an emergent economy. Furthermore, we analize which cases are more detrimental from a regulatory perspective by analyzing the welfare cost and resilience of the financial sector that is partially regulated.
 
 **Setup:** Two representative banks in an EME. One commercial bank that intermediates deposits and is subject to a MaP tax and a friction. One shadow bank that lends to firms but is funded with foreign lending. 
 
@@ -42,6 +42,6 @@ How effective is the MaPP in scenarios with a double layer of agency frictions? 
 
 By how much is compromised the recovery of the economy after a financial crisis? (is the recessionary effect stronger and more persistent?)
 
-**Hypothesis:** in a fully regulated banking sector the dependance on a financial center already creates a fragility of peripheral countries (global financial cycle). Such vulnerability may be amplified by the precense of an unregulated banking sector as renders the MaPP unable to mitigate the effects of external shocks and the financial frictions.
+**Hypothesis:** in a fully regulated banking sector the dependance on a financial center already creates a fragility of peripheral countries (global financial cycle). Such vulnerability may be amplified by the precense of an unregulated banking sector as it renders the MaPP unable to mitigate the effects of external shocks and the financial frictions.
 
 <!--- for empirical exploration: current stufies limited by the fact that MaPP sre dummies. Recently iMaPP produced statistics for the level of LTV across countries, yet they studied the]at variable at the individual country level. Something unprecedented, would be to perform the cross country effects analysis with the MaPP varisble that accounts for the intensity of the policy (in addition to the usual of counting types of policies used as proxy or MaPP tightening).-->
