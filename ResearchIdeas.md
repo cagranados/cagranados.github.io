@@ -40,6 +40,6 @@ What is the welfare cost of not being capable of regulating the whole banking se
 
 How effective is the MaPP in scenarios with a double layer of agency frictions? (policy debate between leaning towards Universal Banking or Separation)
 
-By how much is compromised the recovery of the economynafter a financial crisis? (is the recessionary effect stronger and more persistent?)
+By how much is compromised the recovery of the economy after a financial crisis? (is the recessionary effect stronger and more persistent?)
 
 **Hypothesis:** in a fully regulated banking sector the dependance on a financial center already creates a fragility of peripheral countries (global financial cycle). Such vulnerability may be amplified by the precense of an unregulated banking sector as renders the MaPP unable to mitigate the effects of external shocks and the financial frictions.
