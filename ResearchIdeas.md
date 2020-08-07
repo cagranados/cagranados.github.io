@@ -20,3 +20,26 @@ To support this idea empirically, notice that the data (Cerutti, Claessens, et a
 
 Empirical studies show that the main regulatory concern for emerging economies is the currency risk and fragility to external shocks, this explains why in peripheries the MaPP tools that target financial institutions are more prevalent than borrower based tools (as in AEs). At the same time, EMEs Central Banks engage in active interventions in the FX markets and have accumulated substaintial amounts of foreign currency denominated assets, or foreign reserves. Furthermore, Fujiwara et al (2020) that these measures can be substitutable as there is a mapping between capital controls and sterilized interventions. It would be interesting to study whether it's convenient to fully substitute these measures or if, instead, these can be complementary and more efficient (effective and less constly) when applied simultaneously.
 <!--- Possible frameworks: SOE, or LOE with Center and Periphery. This work is highly motivated by the fact that EMEs care more about currency fluctuations when setting their macroprudential policies. That is one of the main features that distinguish them from AEs. -->
+
+## The Welfare Cost Of Shadowbanking in Emerging Economies
+
+The main macroprudential policy challenge at the moment is the existence of shadow-banking financial intermediaries. The presence of these firms limits the scope and possibly the effectiveness of the nacro-prudential tools. This paper aims to determine the degree in which the former holds true under different structures of the banking sector in an emergent economy. Furthermore, we analize which cases are more detrimental from a regulatory perspective by analyzing the welfare cost and resilience of the financial sector that is partially regulated.
+
+**Setup:** Two representative banks in an EME. One commercial bank that intermediates deposits and is subject to a MaP tax and a friction. One shadow bank that lends to firms but is funded with foreign lending. 
+
+Several interesting scenarios/options:
+
+The two EME banks may or not be financially linked via domestic interbank lending. 
+
+Foreign lending may be subject to a country premium (due to agency friction) but also to currency risk.
+
+Limited domestic deposits, more reliance in foreign lending, but only one bank is regulated, still there are local balance sheet limks between the EME banks 
+
+
+What is the welfare cost of not being capable of regulating the whole banking sector?, welfare comparison with fully regulated banks (what if we could regulate the shadow bank? the cost could be ample, or null but implying stonger policies in the regulated fraction of the financial sector)
+
+How effective is the MaPP in scenarios with a double layer of agency frictions? (policy debate between leaning towards Universal Banking or Separation)
+
+By how much is compromised the recovery of the economynafter a financial crisis? (is the recessionary effect stronger and more persistent?)
+
+**Hypothesis:** in a fully regulated banking sector the dependance on a financial center already creates a fragility of peripheral countries (global financial cycle). Such vulnerability may be amplified by the precense of an unregulated banking sector as renders the MaPP unable to mitigate the effects of external shocks and the financial frictions.
