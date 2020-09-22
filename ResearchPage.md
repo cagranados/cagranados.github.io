@@ -11,7 +11,7 @@ for their distribution across economies. Finally, the framework allows to carry 
 regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block. </p></div>
 
    <p style="margin:0"> 
-   <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPdynSlides_JulyWorkshop.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
+   <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
  <br><button class="accordion">
       Abstract
     </button>
