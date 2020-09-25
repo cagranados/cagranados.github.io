@@ -1,5 +1,14 @@
 <h3> Working Papers </h3>      
 
+   <p style="margin:0"> 
+   <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a> (Job Market Paper)
+ <br><button class="accordion">
+      Abstract
+    </button>
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> I study the usefulness of coordinated macroprudential policy frameworks for emerging economies. Specifically, I look for the long-run gains of cooperative regimes and whether these can shield the emerging economies from external shocks. I do it by setting an open economy model of banks with financial frictions in an environment with multiple emerging countries and a center. I verify the cross-border policy effects and the new policy incentives under cooperation, then, I perform a welfare comparison of a number of policy regimes that vary by the degree of cooperation and explore their short-run performance. The results suggest that not every type of cooperation is beneficial with respect to inward-looking policies. Instead, only schemes where the financial center acts cooperatively would generate gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rates and a new incentive to substitute local with foreign intermediation at the Center. Both channels will improve the financial stability and the second will increase the efficiency of the capital flows. Finally, the short-run dynamics show these mechanisms allow for a better performance of the peripheries after a shock while generating leverage dynamics that favor a faster global recovery.
+<br></p></div>
+
+
    <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPToyStatic.pdf">Macroprudential Policy Coordination in Emerging Economies: A Multicountry Framework</a> <br><button class="accordion"> 
     Abstract   
     </button>   
@@ -10,13 +19,7 @@ instrument and welfare features of a variety of policy arrangements that differ 
 for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or
 regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block. </p></div>
 
-   <p style="margin:0"> 
-   <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a>
- <br><button class="accordion">
-      Abstract
-    </button>
-    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In order to understand the strategic interactions between financial regulators in open emerging economies we set a multicountry general equilibrium model with multiple peripheries, a long-lived banking sector and dynamic macro-prudential policies. This framework allows us to perform a welfare accounting exercise that accounts for the totality of policy effects over time and to rank a variety of policy frameworks that differ by their degree of international policy coordination. We obtain that not every type of policy coordination would generate welfare gains with respect to inward looking policies. Instead, only schemes where the financial center of reference is cooperative will generate gains, impliying that emerging countries coalitions can be counterproductive. Furthermore, we show that in relation to lower ranked models, the best performing policy frameworks implement a countercyclical macroprudential policy, while at the same time the policies can comove with the cycle in some scenarios, a result that helps reconcile literature debates on the cyclicality of optimal macroprudential tools. Finally, we study the dynamic path of the optimal financial instruments and describe the features characterizing cooperative policy settings.
-<br></p></div>
+
 
 <br><b>Repec link here:</b> https://ideas.repec.org/f/pgr313.html
 <p>
