@@ -1,7 +1,7 @@
 <h3> Working Papers </h3>      
 
    <p style="margin:0"> 
-   <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policy Setting: The Role of Coordination </a> (Job Market Paper)
+   <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policy Setting in Emerging Economies </a> (Job Market Paper)
  <br><button class="accordion">
       Abstract
     </button>
