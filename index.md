@@ -9,7 +9,7 @@ In my current research projects I study how to implement macroprudential policie
 
 ## Research 
 
-- Strategic Macroprudential Policy Setting in Emerging Economics. *Job Market Paper* \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_JulyWorkshop.pdf)\]
+- Strategic Macroprudential Policy Setting in Emerging Economics. **(Job Market Paper)** \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_JulyWorkshop.pdf)\]
 
 - Macroprudential Policy Coordination in Emerging Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
