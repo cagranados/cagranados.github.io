@@ -1,15 +1,16 @@
 <h3> Working Papers </h3>      
 
-   <p style="margin:0"> 
-   <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policy Setting in Emerging Economies </a> (Job Market Paper)
- <br><button class="accordion">
+<p style="margin:0"> 
+<br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policy Setting in Emerging Economies </a> 
+<br> (Job Market Paper)
+<br><button class="accordion">
       Abstract
     </button>
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> I study the usefulness of coordinated macroprudential policy frameworks for emerging economies. Specifically, I look for the long-run gains of cooperative regimes and whether these can shield the emerging economies from external shocks. I do it by setting an open economy model of banks with financial frictions in an environment with multiple emerging countries and a center. I verify the cross-border policy effects and the new policy incentives under cooperation, then, I perform a welfare comparison of a number of policy regimes that vary by the degree of cooperation and explore their short-run performance. The results suggest that not every type of cooperation is beneficial with respect to inward-looking policies. Instead, only schemes where the financial center acts cooperatively would generate gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rates and a new incentive to substitute local with foreign intermediation at the Center. Both channels will improve the financial stability and the second will increase the efficiency of the capital flows. Finally, the short-run dynamics show these mechanisms allow for a better performance of the peripheries after a shock while generating leverage dynamics that favor a faster global recovery.
 <br></p></div>
 
 
-   <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPToyStatic.pdf">Macroprudential Policy Coordination in Emerging Economies: A Multicountry Framework</a> <br><button class="accordion"> 
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPToyStatic.pdf">Macroprudential Policy Coordination in Emerging Economies: A Multicountry Framework</a> <br><button class="accordion"> 
     Abstract   
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> Motivated by the presence of financial spillovers from advanced economies on emerging markets, and the apparent difficulties of the latter to shield their economies from external shocks, I set up a three-country center-periphery model (with two emerging economies and one advanced economy) with banks and financial agency frictions à la Gertler and Karadi (2011). The key defining feature of an emerging economy will be the limited capacity of financial intermediation that leads to a financial dependency relation with the center. Each country will have access to a macroprudential instrument that affects directly its source of inefficiencies and allows to smooth the credit spread distortions. However, such regulation can be costly and interdependent, opening a potential scope for
