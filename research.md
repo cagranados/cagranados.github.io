@@ -22,7 +22,7 @@ regional incentives for coordination change meaningfully with the addition of ne
 
 
 
-<br><b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</b></a> 
+<br><b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
 <p>
 <br>
 <h3>Pre-Ph.D. Research</h3></p>
