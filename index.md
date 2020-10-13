@@ -14,6 +14,8 @@ My main areas of research are <u>International Macroeconomics</u> and <u>Interna
 
 In my current research projects I study how to implement macroprudential policies in emerging economies. 
 
+I am on the economics job market during the 2020-21 academic year.
+
 ## Research 
 
 - Strategic Macroprudential Policy Setting in Emerging Economics: Does Cooperation Pay Off? \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_JulyWorkshop.pdf)\]  **(Job Market Paper)**
