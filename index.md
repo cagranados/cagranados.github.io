@@ -1,3 +1,10 @@
+<html>
+  <head>
+   <meta name="google-site-verification" content="bbMdVhAUdt3ur64_7JqN5QeZCeKRwA2fWAXAeMBOyHI" />
+  </head>
+</html>
+
+
 ## Welcome
 I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu) (UW) where I work under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
 
