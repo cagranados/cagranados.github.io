@@ -18,7 +18,7 @@ I am on the economics job market during the 2020-21 academic year.
 
 ## Research 
 
-- Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_JulyWorkshop.pdf)\]  **(Job Market Paper)**
+- Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_BbagUW11272020.pdf)\]  **(Job Market Paper)**
 
 - Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
