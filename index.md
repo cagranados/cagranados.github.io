@@ -23,22 +23,8 @@ I am on the economics job market during the 2020-21 academic year.
 <button class="accordion">
       Abstract
     </button>
-    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>  The US Interstate Highway System had a significant impact on market accessibility and transportation costs between regions. Whether this should lead to increased clustering of economic activity due to increased ‘economic centripetal forces’ or a dispersal from ‘centrifugal forces’ depends on factors that differ by industry. This paper suggests the impact depends on truck transportation utilization and input-output linkages. Utilizing travel time data constructed using GIS techniques along with BEA data on the spatial distribution of economic activity, a simple panel estimation is conducted to test the theory. </p></div>
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>  TI study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential regulations. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation is not always beneficial relative to nationally-oriented policies. Instead, only schemes where the financial center acts cooperatively generate welfare gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a policy motive under cooperation (with a center) for steering larger investment flows to emerging economies. The first mechanism eliminates unnecessary movements in the policy instruments, and the second helps prevent capital retrenchments in the financial center. Finally, the short-run dynamics show these mechanisms lead to smoother and conservative policy responses that allow for a better performance of the peripheries after external shocks, while generating improved leverage dynamics that favor the global economic recovery. These results make a case for cooperation as a way to mitigate the potential adverse effects of excessive fluctuations in the macroprudential instruments.</p></div>
  
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    <script> 
-    var acc = document.getElementsByClassName("accordion");
-    var i;
-
-    for (i = 0; i < acc.length; i++) {
-        acc[i].onclick = function(){
-            this.classList.toggle("active");
-            this.parentNode.nextElementSibling.classList.toggle("show");
-      }
-    }
-
-    </script>
 
 - Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
