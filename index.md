@@ -26,5 +26,4 @@ I am on the economics job market during the 2020-21 academic year.
 
 - Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
-
-
+<span style="color:red">cardinals</span>
