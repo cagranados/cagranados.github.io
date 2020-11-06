@@ -20,6 +20,27 @@ I am on the economics job market during the 2020-21 academic year.
 
 - Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_BbagUW11272020.pdf)\]  **(Job Market Paper)**
 
+<button class="accordion">
+      Abstract
+    </button>
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>  The US Interstate Highway System had a significant impact on market accessibility and transportation costs between regions. Whether this should lead to increased clustering of economic activity due to increased ‘economic centripetal forces’ or a dispersal from ‘centrifugal forces’ depends on factors that differ by industry. This paper suggests the impact depends on truck transportation utilization and input-output linkages. Utilizing travel time data constructed using GIS techniques along with BEA data on the spatial distribution of economic activity, a simple panel estimation is conducted to test the theory. </p></div>
+ 
+      </section>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    <script> 
+    var acc = document.getElementsByClassName("accordion");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+        acc[i].onclick = function(){
+            this.classList.toggle("active");
+            this.parentNode.nextElementSibling.classList.toggle("show");
+      }
+    }
+
+    </script>
+
 - Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
 
