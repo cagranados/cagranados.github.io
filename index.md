@@ -29,7 +29,7 @@
   transition: max-height 0.2s ease-out;
 }
 </style>
-
+</head>
 <body>
 ## Welcome
 I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu) (UW) where I work under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
