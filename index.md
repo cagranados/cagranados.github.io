@@ -4,12 +4,6 @@
   </head>
 </html>  
 
-div#page-5dbed8e96b4e151dedcd0c64 .markdown-block h3 {
-    background: #f1f2f3;
-    padding: 10px;
-    border-radius: 10px;
-}
-
 ## Welcome
 I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu) (UW) where I work under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
 
@@ -32,5 +26,3 @@ Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/
 
 
 Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
-
-### +<span style="color:navy">COSTS AND HOW DO WE SIGN UP? (Tap for Details)</span>
