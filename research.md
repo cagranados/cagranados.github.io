@@ -73,8 +73,8 @@
 <h3> Working Papers </h3>      
 
 <p style="margin:0"> 
-<br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a> 
-<br> (Job Market Paper)
+<br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
+(Job Market Paper)
 <br><button class="accordion">
       Abstract
     </button>
