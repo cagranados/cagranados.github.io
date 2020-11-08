@@ -90,17 +90,16 @@ as to allow for strategic interactions between emerging countries at the regiona
 instrument and welfare features of a variety of policy arrangements that differ by their degree of cooperation. In particular, I look for gains of coordination, but also
 for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or
 regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block. </p></div>
-<br>
-<hr>
 
-
-<br><b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
 <br>
 <hr>
 <br>
+<b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
+<br>
+<hr>
+<br>
 
-  
-<h2><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D. Research</h2>
+<h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D. Research</h3>
 <p style="margin:0">
 Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
