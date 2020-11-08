@@ -70,8 +70,7 @@
   </head>
   <body>
 
-<h2> Working Papers </h2>
-<h3><a id="recent-papers-updated" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Papers</h3>
+<h2><a id="recent-papers-updated" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Papers</h2>
 <p style="margin:0"> 
 <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
 (Job Market Paper)
@@ -91,10 +90,12 @@ as to allow for strategic interactions between emerging countries at the regiona
 instrument and welfare features of a variety of policy arrangements that differ by their degree of cooperation. In particular, I look for gains of coordination, but also
 for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or
 regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block. </p></div>
-
+<br>
+<hr>
 
 
 <br><b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
+<br>
 <hr>
 <br>
 
