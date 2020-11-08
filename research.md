@@ -1,5 +1,5 @@
-<!html lang="en">
-  <!head>
+<html lang="en">
+  <head>
   <script src="https://use.fontawesome.com/baff6f55f5.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -126,5 +126,5 @@ Fondo de Cultura Economica. México. October - December.
       }
     }
     </script>
- <!/body>
-<!/html>
+ </body>
+</html>
