@@ -70,10 +70,10 @@
   </head>
   <body>
 
-<h2> Working Papers </h2>      
-
+<h2> Working Papers </h2>
+<h3><a id="recent-papers-updated" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Papers</h3>
 <p style="margin:0"> 
-<br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
+<a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
 (Job Market Paper)
 <br><button class="accordion">
       Abstract
@@ -95,10 +95,11 @@ regional incentives for coordination change meaningfully with the addition of ne
 
 
 <br><b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
-<p>
+<hr>
 <br>
-<h3>Pre-Ph.D. Research</h3></p>
-<h2><a id="published-papers-updated" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Published &amp; Forthcoming Papers</h2>
+
+  
+<h2><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D. Research</h2>
 <p style="margin:0">
 Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
