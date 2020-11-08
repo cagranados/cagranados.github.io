@@ -70,7 +70,7 @@
   </head>
   <body>
 
-<h3> Working Papers </h3>      
+<h2> Working Papers </h2>      
 
 <p style="margin:0"> 
 <br> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
