@@ -1,36 +1,9 @@
 <html>
   <head>
    <meta name="google-site-verification" content="bbMdVhAUdt3ur64_7JqN5QeZCeKRwA2fWAXAeMBOyHI" />
+  </head>
+</html>  
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-  transition: 0.4s;
-}
-
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
-</style>
-</head>
-<body>
 ## Welcome
 I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu) (UW) where I work under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
 
@@ -54,26 +27,3 @@ Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/
 
 Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
-<button class="accordion">Abstract</button>
-<div class="panel">
-  <p>I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential regulations. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation is not always beneficial relative to nationally-oriented policies. Instead, only schemes where the financial center acts cooperatively generate welfare gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a policy motive under cooperation (with a center) for steering larger investment flows to emerging economies. The first mechanism eliminates unnecessary movements in the policy instruments, and the second helps prevent capital retrenchments in the financial center. Finally, the short-run dynamics show these mechanisms lead to smoother and conservative policy responses that allow for a better performance of the peripheries after external shocks, while generating improved leverage dynamics that favor the global economic recovery. These results make a case for cooperation as a way to mitigate the potential adverse effects of excessive fluctuations in the macroprudential instruments.</p>
-</div>
-
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-</script>
-
-</body>
