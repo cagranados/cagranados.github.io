@@ -27,3 +27,4 @@ Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/
 
 Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
+### +<span style="color:navy">COSTS AND HOW DO WE SIGN UP? (Tap for Details)</span>
