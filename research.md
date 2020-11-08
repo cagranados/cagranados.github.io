@@ -1,10 +1,9 @@
-<!doctype html>
 <html lang="en">
   <head>
   <script src="https://use.fontawesome.com/baff6f55f5.js"></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Tyler Ransom by tyleransom</title>
+    <title>Camilo Granados</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/github-light.css">
