@@ -100,7 +100,7 @@ regional incentives for coordination change meaningfully with the addition of ne
 <h3>Pre-Ph.D. Research</h3></p>
 <h2><a id="published-papers-updated" class="anchor" href="#publications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Published &amp; Forthcoming Papers</h2>
 <p style="margin:0">
-<br>Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
+Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
 <br>Arteaga, C., Granados, J., and Ojeda, J., (2013). Are the Real Exchange Rate Dynamics Explained by its Fundamentals? (in spanish), <it> Ensayos Sobre Política Económica (ESPE) </it>, vol. 31, No. 72, December. 
 <br>
