@@ -2,7 +2,7 @@
 
 <h2> University of Washington </h2>
 
-<h3>Teaching Assistant</h3>
+<h3>Independent Instructor</h3>
 
 - Advanced Macroeconomics (ECON 401): Spr. 2021 (scheduled)
 
