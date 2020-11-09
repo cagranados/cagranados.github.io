@@ -2,6 +2,18 @@
 
 # Research Ideas
 
+## [New] Empirical Evidence of Strategic Financial Regulations
+
+Can be proven that in addition to responding to fundamentals, the macroprudential policies are also reacting directly to the regulations of other economies?
+Strategy: Policy Action_i as function of policy_action_AEs + controls **+ Compliance to Basel III**
+(refine)  compliance can be a proxy of cooperating. Then interaction of compliance with crossed policy actions coef could indicate how much strategic behaviour is mitigated by cooperation. It can also be a control, then it indicates (in eq. above) how policy actions react to other players' even after accounting for fundamentals and for regulatory mandates.
+
+
+## [New] Sustainability of Cooperative Policy Regimes
+
+Incentives to deviate from coordinated regimes, repeated interaction under commitment.
+Emerging Cooperation is hurtful. But, could it be used to coerce a Center into cooperating in the future?
+
 ## [1] limiting regulatory arbitrage with regulation: <!--- July 2020 -->
 
 Studies on effectiveness of MaP indicate that the effect of the tools may change greatly depending on the scope at which they are applied. For example, 
