@@ -8,7 +8,7 @@
 
 <h3>Teaching Assistant</h3>
 
-- Advanced Macroeconomics (ECON 401): Win. 2021 (scheduled)
+- Advanced Macroeconomics (ECON 401): Win. 2021 (currently)
 - International Finance (FIN 579): Spr. 2019, Spr. 2020
 - Microeconomics for Technology Managers (TMMBA 501A): Spr. 2020
 - Business Finance (FIN 350): Aut. 2018, Spr. 2019, Aut. 2019
