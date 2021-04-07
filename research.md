@@ -90,6 +90,15 @@ as to allow for strategic interactions between emerging countries at the regiona
 instrument and welfare features of a variety of policy arrangements that differ by their degree of cooperation. In particular, I look for gains of coordination, but also
 for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or
 regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block. </p></div>
+<br>
+
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPInteractions.pdf">Macroprudential Policy Interactions Across Countries: What Has Changned Since the Global Financial Crisis?</a> <br><button class="accordion"> 
+    Abstract   
+    </button>   
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> We study the empirical international policy interactions between macroprudential regulators with the objective of determining whether these adjust their policies with cross-border strategic considerations in mind. For that, we analyze the policy-to-policy interactions for a panel of 65 economies using a local projection approach. Our findings suggest that domestic regulators do react in response to foreign policy changes positively and on average will tighten their domestic tools in response to stricter foreign financial regulations (tightenings). We apply additional specifications to disentangle the average policy effect and obtain that: (i) regulators react mainly to policy changes in advanced economies, (ii) the reaction to foreign policy changes is stronger in advanced economies, (iii) reactions to emerging regulations are less important, but can exist at the regional level (emerging-to-emerging). Additionally, results by type of foreign policy instruments suggest that, other than the typical positive response in our baseline, there can also be occasional loosening adjustments in emerging economies after foreign policy tightenings of some prudential instruments. Our results point to the existence of important policy interactions that can create the scope for coordinated policy frameworks aimed to mitigate inefficiencies in the level of macroprudential interventionism. </p></div>
+
+<br>
+
 
 <br>
 <hr>
