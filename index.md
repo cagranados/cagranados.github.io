@@ -28,6 +28,6 @@ Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/
 Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPToyStatic.pdf)\] \[[slides](/files/papers/MaPToySlidesApr15_GeneralExamCamiloGranados.pdf)\]
 
 
-Macroprudential Policy Interactions Across Countries: What Has Changed Since the Global Financial Crisis?. \[[pdf](/files/papers/MaPInteractions.pdf)\] \[[slides](/files/papers/MaPInteractions_BbagApr2021.pdf)\]
+Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis? . \[[pdf](/files/papers/MaPInteractions.pdf)\] \[[slides](/files/papers/MaPInteractions_BbagApr2021.pdf)\]
 
 
