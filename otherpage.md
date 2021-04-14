@@ -1,5 +1,6 @@
 # Other
-Study Notes and Other Materials
+Study Notes and Other Materials. 
+These are posted here for my own reference. But can be useful for other people. Clearly, all errors are my own and I appreciate any feedback. 
 
 ## Study notes from graduate courses
 
