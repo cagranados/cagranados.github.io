@@ -4,6 +4,7 @@ Study Notes and Other Materials
 ## Study notes from graduate courses
 
 Macroeconomics graduate sequence \[[pdf](/files/other/MacroNotes.pdf)\] 
+
 International Finance and International Macroeconomics \[[pdf](/files/other/InternationalFinanceNotes.pdf)\]
 
 ## Other materials
