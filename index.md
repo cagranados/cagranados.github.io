@@ -5,7 +5,7 @@
 </html>  
 
 ## Welcome
-I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu) (UW) where I work under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
+I am a Ph.D. candidate in Economics at the [University of Washington](https://econ.washington.edu) (UW) where I work under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/). And Fabio Ghironi.
 
 Before UW I worked as an economist at the Central Bank of Colombia while completing post-graduate studies at the National University of Colombia.
 
