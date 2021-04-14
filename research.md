@@ -81,7 +81,7 @@
 <br></p></div>
 <br>
 
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPToyStatic.pdf">Macroprudential Policy Coordination in Open Economies: A Multicountry Framework</a> <br><button class="accordion"> 
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPCoordFinite.pdf">Macroprudential Policy Coordination in Open Economies: A Multicountry Framework</a> <br><button class="accordion"> 
     Abstract   
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> Motivated by the presence of financial spillovers from advanced economies on emerging markets, and the apparent difficulties of the latter to shield their economies from external shocks, I set up a three-country center-periphery model (with two emerging economies and one advanced economy) with banks and financial agency frictions à la Gertler and Karadi (2011). The key defining feature of an emerging economy will be the limited capacity of financial intermediation that leads to a financial dependency relation with the center. Each country will have access to a macroprudential instrument that affects directly its source of inefficiencies and allows to smooth the credit spread distortions. However, such regulation can be costly and interdependent, opening a potential scope for
