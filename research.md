@@ -101,7 +101,7 @@ regional incentives for coordination change meaningfully with the addition of ne
 
 <hr>
 <h3><a class="anchor" aria-hidden="true"><span class="octicon octicon-link"></span></a>Work in Progress</h3>
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/VolSpilloversLatam.pdf">Price Stability and Macroeconomic Volatility in Latin America </a> <br><button class="accordion"> 
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/VolSpilloversLatam.pdf">Prices Stability and Macroeconomic Volatility in Latin America </a> <br><button class="accordion"> 
     Abstract   
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In order to determine the presence of volatility spillovers among macroeconomic variables a Vector Autorregresive (VAR) model with multivariate GARCH effects is carried out for five countries in Latin America. The variables considered are real activity, price level, interest rate, and exchange rate. The results indicate that there are few within country volatility spillovers. Those that are significant are usually sizable and point to the relevance of international shocks in spreading volatility to other countries rather than local effects. Finally, we obtain that the volatility of inflation is not generally affected by the uncertainty shocks in the exchange rate, this result is noticeable as the price instability effects of the exchange rate fluctuations is usually the justification behind exchange rate intervention programs in these economies. </p></div>
