@@ -2,8 +2,8 @@
 
 # Research Ideas
 
-
-## [New] Comparison between Macroprudential Policies and Capital Controls <!--- Sept 2021 --->
+<!--- Sept 2021 --->
+## [New] Comparison between Macroprudential Policies and Capital Controls 
 How do macroprudential regulation compares with capital controls? which one is more impactful, effective, and less costly/enforceable?. Intuition would dictate it depends on the source of frictions to mitigate, but also that regulating the banking sector where the frictions originate may be more convenient than regulating the households. 
 *Starting point:* Taxes on Balance Sheet components of banks VS. Taxes on Capital Flows
 # Background: 
