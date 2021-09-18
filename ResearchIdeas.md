@@ -5,26 +5,29 @@
 <!--- Sept 2021 --->
 ## [New] Comparison between Macroprudential Policies and Capital Controls 
 How do macroprudential regulation compares with capital controls? which one is more impactful, effective, and less costly/enforceable?. Intuition would dictate it depends on the source of frictions to mitigate, but also that regulating the banking sector where the frictions originate may be more convenient than regulating the households. 
-*Starting point:* Taxes on Balance Sheet components of banks VS. Taxes on Capital Flows
-# Background: 
+
+**Starting point:** Taxes on Balance Sheet components of banks VS. Taxes on Capital Flows
+
+### Background: 
 1. I find regulation effects of bankign taxes are sizable due to profits retention which implies the effect of the instruments are long lasting in the net worth of the banks. That allows me to obtain sizable welfare differences between different cooperative regimes.
 2. Ippei's work on equivalence of sterilized interventions and capital controls
 (Potential nuances: does either have relevant ER implications?)
 
-
-## [1] Empirical Evidence of Strategic Financial Regulations <!--- Jan 2021 --->
+<!--- Jan 2021 --->
+## [1] Empirical Evidence of Strategic Financial Regulations 
 
 Can be proven that in addition to responding to fundamentals, the macroprudential policies are also reacting directly to the regulations of other economies?
 Strategy: Policy Action_i as function of policy_action_AEs + controls **+ Compliance to Basel III**
 (refine)  compliance can be a proxy of cooperating. Then interaction of compliance with crossed policy actions coef could indicate how much strategic behaviour is mitigated by cooperation. It can also be a control, then it indicates (in eq. above) how policy actions react to other players' even after accounting for fundamentals and for regulatory mandates.
 
-
-## [2] Sustainability of Cooperative Policy Regimes <!--- Jan 2021 --->
+<!--- Jan 2021 --->
+## [2] Sustainability of Cooperative Policy Regimes 
 
 Incentives to deviate from coordinated regimes, repeated interaction under commitment.
 Emerging Cooperation is hurtful. But, could it be used to coerce a Center into cooperating in the future?
 
-## [3] limiting regulatory arbitrage with regulation: <!--- July 2020 -->
+<!--- July 2020 -->
+## [3] limiting regulatory arbitrage with regulation: 
 
 Studies on effectiveness of MaP indicate that the effect of the tools may change greatly depending on the scope at which they are applied. For example, 
 LTV limits applied only on household deposits may lead to a switch towards non-bank (shadow) financial intermediaries or foreign banks by borrowers (IMF, iMaPP paper 2019 and presentation). It may be also the case that such arbitrage could be limited if, simultaneously, other policies are active, such as strict capital requirements on other banking activities. Then it could be that the MaPP should be applied in tandem, rather than independently. It can be interesting to check to what extent: 
@@ -37,8 +40,8 @@ that want to be mitigaged.
 
 To support this idea empirically, notice that the data (Cerutti, Claessens, et al (2017, JFS)) suggest that more MaPP tools have been used over time.
 
-
-## [4] Complementarity between MaPP and Sterilized Interventions in EMEs <!--- July 2020 -->
+<!--- July 2020 -->
+## [4] Complementarity between MaPP and Sterilized Interventions in EMEs 
 
 The currency risk and the fragility to external shocks consitutes a primary concern in EMEs. That explains why the financial institutions targeted tools that aim to limit the volume of lending in foreign currency are more prevalent than borrower based tools in these economies. Unsurprisingly, the Central Banks in these economies have intervened actively in foreign currency markets and consequently have increased substantially their holdings of foreign denoninated assets. Still if sterilized, these interventions can be costly imply a policy tradeoff. Thus, it is interesting to determine whether MaPP can be used as a substitute of these interventions in a similar spirit as Fujiwara, Davis, and Wang (2021) show for capital controls. It would be also interesting to study whether it matters for these policies to be applied in isolation or in tandem.
 <!--- Possible frameworks: SOE, or LOE with Center and Periphery. This work is highly motivated by the fact that EMEs care more about currency fluctuations when setting their macroprudential policies. That is one of the main features that distinguish them from AEs. -->
