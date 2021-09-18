@@ -107,13 +107,15 @@ regional incentives for coordination change meaningfully with the addition of ne
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In order to determine the presence of volatility spillovers among macroeconomic variables a Vector Autorregresive (VAR) model with multivariate GARCH effects is carried out for five countries in Latin America. The variables considered are real activity, price level, interest rate, and exchange rate. The results indicate that there are few within country volatility spillovers. Those that are significant are usually sizable and point to the relevance of international shocks in spreading volatility to other countries rather than local effects. Finally, we obtain that the volatility of inflation is not generally affected by the uncertainty shocks in the exchange rate, this result is noticeable as the price instability effects of the exchange rate fluctuations is usually the justification behind exchange rate intervention programs in these economies. </p></div>
 <br>
-    
+
+<!---
 <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/VolSpilloversLatam.pdf">Exchange Rate Dynamics
 and the Central Bank’s Balance Sheet </a> (with Guillermo Gallacher and Janelle Mann) <br><button class="accordion"> 
     Abstract   
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities. We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. The nonlinear cointegration technique will allow us to determine whether central bank debt matters for understanding exchange rate dynamics and to determine whether passthrough is symmetric. </p></div>
 <br>   
+--->
     
 <hr>
    
