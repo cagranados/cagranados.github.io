@@ -122,7 +122,7 @@ and the Central Bank’s Balance Sheet </a> (with Guillermo Gallacher and Janell
 <br>   
     
   <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://cagranados.github.io/research.html">Financial Regulation and Income Inequality</a> (with Jasmine Jiang) <br><button class="accordion"> 
-    Abstract   
+ <---!   Abstract   --->
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>  </p></div>
 <br>   
