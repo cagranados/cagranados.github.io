@@ -121,11 +121,14 @@ and the Central Bank’s Balance Sheet </a> (with Guillermo Gallacher and Janell
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> I analyze the short-run resilience and financial stability properties of an array of cooperative policy regimes relative to nationally-oriented regulations. I show that countries that rely on internationally coordinated policies are more insulated to the negative effects of international financial downturns like the global financial crisis. Additionally, cooperative policies allow countries to increase the countercyclicality of the prudential policies, to lower the required level of interventionism to deal with crises, and to mitigate the deleveraging processes after a financial crisis. All of these properties imply that smoother and less volatile policy responses can be compatible with improved economic performance after external shocks which makes a case for the implementation of coordinated policy schemes that go beyond the potential welfare gains involved in these initiatives. </p></div>
 <br>   
     
-  <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://cagranados.github.io/research.html">Financial Regulation and Income Inequality</a> (with Jasmine Jiang) <br><button class="accordion"> 
- <---!   Abstract   --->
+  <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://cagranados.github.io/research.html">Financial Regulation and Income Inequality</a> (with Jasmine Jiang) 
+<!--   
+    <br><button class="accordion"> 
+   Abstract  
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>  </p></div>
 <br>   
+ -->
     
 <hr>
    
