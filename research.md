@@ -72,12 +72,12 @@
 
 <h1><a id="recent-papers-updated" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Papers</h1>
 <p style="margin:0"> 
-<a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/MaPDynamic.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
+<a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/DynCoop.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
 (Job Market Paper)
 <br><button class="accordion">
       Abstract
     </button>
-    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential regulations. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation is not always beneficial relative to nationally-oriented policies. Instead, only schemes where the financial center acts cooperatively generate welfare gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a policy motive under cooperation (with a center) for steering larger investment flows to emerging economies. The first mechanism eliminates unnecessary movements in the policy instruments, and the second helps prevent capital retrenchments in the financial center. Finally, the short-run dynamics show these mechanisms lead to smoother and conservative policy responses that allow for a better performance of the peripheries after external shocks, while generating improved leverage dynamics that favor the global economic recovery. These results make a case for cooperation as a way to mitigate the potential adverse effects of excessive fluctuations in the macroprudential instruments.
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential policies. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation can generate welfare gains but is not always beneficial relative to nationally-oriented policies. Instead, only regimes where the financial center acts cooperatively generate welfare gains. When present, two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a motive for steering capital flows to emerging economies. The first mechanism eliminates unnecessary policy fluctuations and the second helps prevent capital retrenchments in the center. These effects can be quantitatively relevant as good cooperation regimes can reduce the welfare losses induced by a financial friction between 60% and 80%.
 <br></p></div>
 <br>
 
@@ -108,14 +108,24 @@ regional incentives for coordination change meaningfully with the addition of ne
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In order to determine the presence of volatility spillovers among macroeconomic variables a Vector Autorregresive (VAR) model with multivariate GARCH effects is carried out for five countries in Latin America. The variables considered are real activity, price level, interest rate, and exchange rate. The results indicate that there are few within country volatility spillovers. Those that are significant are usually sizable and point to the relevance of international shocks in spreading volatility to other countries rather than local effects. Finally, we obtain that the volatility of inflation is not generally affected by the uncertainty shocks in the exchange rate, this result is noticeable as the price instability effects of the exchange rate fluctuations is usually the justification behind exchange rate intervention programs in these economies. </p></div>
 <br>
 
-<!---
-<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/VolSpilloversLatam.pdf">Exchange Rate Dynamics
+<p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/conversion_er.pdf">Exchange Rate Dynamics
 and the Central Bank’s Balance Sheet </a> (with Guillermo Gallacher and Janelle Mann) <br><button class="accordion"> 
     Abstract   
     </button>   
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities. We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. The nonlinear cointegration technique will allow us to determine whether central bank debt matters for understanding exchange rate dynamics and to determine whether passthrough is symmetric. </p></div>
 <br>   
---->
+
+ <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/DynResilience.pdf">Enhancing Economic Resiliency Through Prudential Cooperation</a> <br><button class="accordion"> 
+    Abstract   
+    </button>   
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p> I analyze the short-run resilience and financial stability properties of an array of cooperative policy regimes relative to nationally-oriented regulations. I show that countries that rely on internationally coordinated policies are more insulated to the negative effects of international financial downturns like the global financial crisis. Additionally, cooperative policies allow countries to increase the countercyclicality of the prudential policies, to lower the required level of interventionism to deal with crises, and to mitigate the deleveraging processes after a financial crisis. All of these properties imply that smoother and less volatile policy responses can be compatible with improved economic performance after external shocks which makes a case for the implementation of coordinated policy schemes that go beyond the potential welfare gains involved in these initiatives. </p></div>
+<br>   
+    
+  <p style="margin:0"> <a style="margin:0; font-size:100%; font-weight:bold" href="https://cagranados.github.io/research.html">Financial Regulation and Income Inequality</a> (with Jasmine Jiang) <br><button class="accordion"> 
+    Abstract   
+    </button>   
+    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>  </p></div>
+<br>   
     
 <hr>
    
