@@ -14,7 +14,7 @@ My main areas of research are <u>International Macroeconomics</u> and <u>Interna
 
 <!-- In my current research projects I study how to implement macroprudential policies in emerging economies. -->
 
-**I am on the economics job market during the 2021-22 academic year.**
+* <span style="color:red">I am on the economics job market during the 2021-22 academic year</span> *
 
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
 #### [Curriculum Vitae (PDF)](Granados_CV.pdf)
