@@ -39,7 +39,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 -->
 
- ----
  <details>
   <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> (job market paper) </summary>
   
@@ -80,7 +79,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <br> 
 ### Work in Progress
 
- ---- 
  <details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
     
