@@ -8,9 +8,13 @@
 
 
 ## Welcome
-I am an Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the [University of Washington](https://econ.washington.edu) (UW) in July 2021 under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
+I am an Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the [University of Washington](https://econ.washington.edu) (UW) in July 2021. My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
 
-My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
+In my current research projects I study the international dimension of macroprudential regulations and the best policy implementation setups that can be applied in financially integrated economies.
+
+<!-- under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/). -->
+
+
 
 <!-- In my current research projects I study how to implement macroprudential policies in emerging economies. -->
 
