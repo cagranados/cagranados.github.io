@@ -19,10 +19,7 @@ My main areas of research are <u>International Macroeconomics</u> and <u>Interna
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
 #### <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
 
-#### References:
-Professor Yu-chin Chen (advisor), Professor Ippei Fujiwara (advisor), Professor Fabio Ghironi (committee member).
-
-#### References:
+**References:**
 Professor <a href="http://faculty.washington.edu/yuchin/wordpress/" target="_blank">Yu-chin Chen</a> (advisor), Professor <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> (advisor), Professor <a href="http://faculty.washington.edu/ghiro/" target="_blank">Fabio Ghironi</a> (committee member).
 
 
