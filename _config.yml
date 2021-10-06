@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: <h1> Camilo Granados </h1>
 logo: /files/MainPicWebsite.JPG
-description: Ph.D. in Economics <br> University of Washington <br> <font size="1"> Email 1 &#58  <a href="mailto:jcgc@uw.edu">cagranados8 [at] gmail.com</a> <br> Email 2 &#58  <a href="mailto:jcgc@uw.edu">jcgc [at] uw.edu</a> </font> <p><h3><a href="./Granados_CV.pdf"> Curriculum Vitae </a></h3></p> <p><h3><a href="https://cagranados.github.io/research.html">Research</a></h3></p> <p><h3><a href="./teaching.html">Teaching</a></h3></p> <p><h3><a href="./otherpage.html">Other</a></h3></p>
+description: Ph.D. in Economics - University of Washington <br> <font size="1"> Email 1 &#58  <a href="mailto:jcgc@uw.edu">cagranados8 [at] gmail.com</a> <br> Email 2 &#58  <a href="mailto:jcgc@uw.edu">jcgc [at] uw.edu</a> </font> <p><h4><a href="./Granados_CV.pdf"> Curriculum Vitae </a></h4></p> <p><h3><a href="https://cagranados.github.io/research.html">Research</a></h3></p> <p><h3><a href="./teaching.html">Teaching</a></h3></p> <p><h3><a href="./otherpage.html">Other</a></h3></p>
 github: is\_project\_page:false
