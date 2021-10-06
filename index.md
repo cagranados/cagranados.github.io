@@ -5,11 +5,14 @@
 </html>  
 
 ## Welcome
-I am a Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the [University of Washington](https://econ.washington.edu) (UW) where I worked under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
+I am a Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the [University of Washington](https://econ.washington.edu) (UW) in July 2021 under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
 
-My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics in general. In my current research projects I study how to implement macroprudential policies in emerging economies. 
+My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. In my current research projects I study how to implement macroprudential policies in emerging economies. 
 
-I am on the economics job market during the 2020-21 academic year. 
+I am on the economics job market during the 2021-22 academic year.
+
+<font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
+### [Curriculum Vitae (PDF)](Granados_CV.pdf)
 
 ## Research 
 
