@@ -1,10 +1,12 @@
 {::options parse_block_html="true" /}
 
+<!--
 <html>
   <head>
    <meta name="google-site-verification" content="bbMdVhAUdt3ur64_7JqN5QeZCeKRwA2fWAXAeMBOyHI" />
   </head>
 </html>  
+-->
 
 ## Welcome
 I am a Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the [University of Washington](https://econ.washington.edu) (UW) in July 2021 under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
