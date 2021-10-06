@@ -18,7 +18,7 @@ In my current research projects I study the international dimension of macroprud
 
 <!-- In my current research projects I study how to implement macroprudential policies in emerging economies. -->
 
-<span style="color:blue">I am on the economics job market during the 2021-22 academic year</span> 
+<span style="color:black"><b> I am on the economics job market during the 2021-22 academic year </b></span> 
 
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
 #### <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
