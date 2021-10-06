@@ -22,6 +22,7 @@ I am on the economics job market during the 2021-22 academic year.
 
 ## Research 
 
+<!--
 Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_BbagUW11272020.pdf)\]  **(Job Market Paper)**
 <p>
 <details><summary><span style="color:blue; font-size:0.85em"> View/Hide Abstract </span></summary>
@@ -34,9 +35,11 @@ Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. 
 
 Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis? \[[pdf](/files/papers/MaPInteractions.pdf)\] \[[slides](/files/papers/MaPInteractions_BbagApr2021.pdf)\]
 
+-->
+
  ----
  <details>
-  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font></summary>
+  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> (job market paper) </summary>
   <!--
   <font color="black"><i>MPRA Paper</i> No. 107593, November 2020</font>
   <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
@@ -47,6 +50,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   | <font color="black">I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential policies. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation can generate welfare gains but is not always beneficial relative to nationally-oriented policies. Instead, only regimes where the financial center acts cooperatively generate welfare gains. When present, two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a motive for steering capital flows to emerging economies. The first mechanism eliminates unnecessary policy fluctuations and the second helps prevent capital retrenchments in the center. These effects can be quantitatively relevant as good cooperation regimes can reduce the welfare losses induced by a financial friction between 60% and 80%.</font> |
   
  </details>
+ <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> /
  <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> 
  
 
