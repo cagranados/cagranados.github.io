@@ -51,10 +51,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_BbagUW11272020.pdf" target="_blank"><u>[Slides (60 min)]</u></a> / 
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides (35 min)]</u></a> 
  
-  <!--
-  <font color="black"><i>MPRA Paper</i> No. 107593, November 2020</font>
-  <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
-  -->
 
  ----
  <details>
