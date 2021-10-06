@@ -19,7 +19,6 @@ I am on the economics job market during the 2021-22 academic year.
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
 #### [Curriculum Vitae (PDF)](Granados_CV.pdf)
 
-----
 
 <br>
 ### Working Papers
