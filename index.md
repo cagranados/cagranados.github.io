@@ -36,18 +36,18 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
  ----
  <details>
-  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
-  
+  <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font>
+  <!--
   <font color="black"><i>MPRA Paper</i> No. 107593, November 2020</font>
-  
   <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
+  -->
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delivers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare.</font> |
+  | <font color="black">Motivated by the presence of financial spillovers from advanced economies on emerging markets, and the apparent difficulties of the latter to shield their economies from external shocks, I set up a three-country center-periphery model (with two emerging economies and one advanced economy) with banks and financial agency frictions à la Gertler and Karadi (2011). The key defining feature of an emerging economy will be the limited capacity of financial intermediation that leads to a financial dependency relation with the center. Each country will have access to a macroprudential instrument that affects directly its source of inefficiencies and allows to smooth the credit spread distortions. However, such regulation can be costly and interdependent, opening a potential scope for coordination or strategic interactions. The addition of a second emerging country is relevant to enhance the interaction leverage of the peripheric block, as well as to allow for strategic interactions between emerging countries at the regional level. Within this framework, I aim to evaluate the optimal macroprudential instrument and welfare features of a variety of policy arrangements that differ by their degree of cooperation. In particular, I look for gains of coordination, but also for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block.</font> |
   
  </details>
- <a href="https://mpra.ub.uni-muenchen.de/107588/1/MPRA_paper_107588.pdf" target="_blank"><u>[Paper (11/2020)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[SSRN]</u></a>
+ <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf" target="_blank"><u>[Paper (6/2021)]</u></a> 
  
  ---- 
  <details>
