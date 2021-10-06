@@ -34,6 +34,31 @@ Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. 
 
 Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis? \[[pdf](/files/papers/MaPInteractions.pdf)\] \[[slides](/files/papers/MaPInteractions_BbagApr2021.pdf)\]
 
----
+ ----
+ <details>
+  <summary markdown="span"><font color="blue">Parental Time Investment and Intergenerational Mobility</font>
+  
+  <font color="black"><i>MPRA Paper</i> No. 107593, November 2020</font>
+  
+  <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This paper constructs a quantitative model of intergenerational mobility in which lifetime income mobility is shaped by various channels including parental time investments in children. The calibrated model delivers positive educational gradients in parental time investment, as observed in the data, and also successfully accounts for untargeted distributional aspects of income mobility, captured in the income quintile transition matrix. The model implies that removing the positive educational gradients in parental time investment during the whole childhood would reduce intergenerational income persistence nearly by 40 percent. Policy experiments suggest that subsidies to childhood investments that can diminish positive educational gradients in parental time investments would increase intergenerational mobility, and that there are better ways of subsidizing investments to achieve greater mobility in terms of aggregate output and welfare.</font> |
+  
+ </details>
+ <a href="https://mpra.ub.uni-muenchen.de/107588/1/MPRA_paper_107588.pdf" target="_blank"><u>[Paper (11/2020)]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3862378" target="_blank"><u>[SSRN]</u></a>
+ 
+ ---- 
+ <details>
+  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models.</font> |
+  
+ </details>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (01/2021)]</u></a>
+ 
 
 
