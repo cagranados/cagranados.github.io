@@ -21,6 +21,7 @@ I am on the economics job market during the 2021-22 academic year.
 
 ----
 
+<br>
 ### Working Papers
 
 <!--
@@ -74,7 +75,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a>
+ ----
  
+<br> 
 ### Work in Progress
 
  ---- 
@@ -87,3 +90,4 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper (06/2021)]</u></a>
+ ----
