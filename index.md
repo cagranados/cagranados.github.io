@@ -114,8 +114,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
- ----
- 
   <details>
   <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
    </summary>
@@ -126,8 +124,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper (10/2021)]</u></a>
- 
- ----
  
  ----
  
