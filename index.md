@@ -26,33 +26,14 @@ Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/
 <p>
 <details><summary><span style="color:blue; font-size:0.85em"> View/Hide Abstract </span></summary>
   <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>
-  I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential regulations. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation is not always beneficial relative to nationally-oriented policies. Instead, only schemes where the financial center acts cooperatively generate welfare gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a policy motive under cooperation (with a center) for steering larger investment flows to emerging economies. The first mechanism eliminates unnecessary movements in the policy instruments, and the second helps prevent capital retrenchments in the financial center. Finally, the short-run dynamics show these mechanisms lead to smoother and conservative policy responses that allow for a better performance of the peripheries after external shocks, while generating improved leverage dynamics that favor the global economic recovery. These results make a case for cooperation as a way to mitigate the potential adverse effects of excessive fluctuations in the macroprudential instruments. <br></p></div></details>
+  I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential regulations. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation is not always beneficial relative to nationally-oriented policies. Instead, only schemes where the financial center acts cooperatively generate welfare gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a policy motive under cooperation (with a center) for steering larger investment flows to emerging economies. The first mechanism eliminates unnecessary movements in the policy instruments, and the second helps prevent capital retrenchments in the financial center. Finally, the short-run dynamics show these mechanisms lead to smoother and conservative policy responses that allow for a better performance of the peripheries after external shocks, while generating improved leverage dynamics that favor the global economic recovery. These results make a case for cooperation as a way to mitigate the potential adverse effects of excessive fluctuations in the macroprudential instruments. <br></p></div>
+</details>
 </p>
 
 Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPCoordFinite.pdf)\] \[[slides](/files/papers/MaPToySlides_WUSTL.pdf)\]
 
 Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis? \[[pdf](/files/papers/MaPInteractions.pdf)\] \[[slides](/files/papers/MaPInteractions_BbagApr2021.pdf)\]
 
-<details>
-  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </font>
-  
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential regulations. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation is not always beneficial relative to nationally-oriented policies. Instead, only schemes where the financial center acts cooperatively generate welfare gains. Two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a policy motive under cooperation (with a center) for steering larger investment flows to emerging economies. The first mechanism eliminates unnecessary movements in the policy instruments, and the second helps prevent capital retrenchments in the financial center. Finally, the short-run dynamics show these mechanisms lead to smoother and conservative policy responses that allow for a better performance of the peripheries after external shocks, while generating improved leverage dynamics that favor the global economic recovery. These results make a case for cooperation as a way to mitigate the potential adverse effects of excessive fluctuations in the macroprudential instruments. </font> |
-  
- </details>
- <a href="/files/papers/MaPDynamic.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> / <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16271#" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a> / <a href="https://minchulyum.github.io/papers/Espe_June2021.pdf" target="_blank"><u>[Slides]</u></a> /  \[[slides](/files/papers/MaPToySlides_WUSTL.pdf)\]
- 
- ---- 
- <details>
-  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font></summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models.</font> |
-  
- </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (01/2021)]</u></a>
- 
- ---- 
+---
+
 
