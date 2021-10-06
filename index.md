@@ -17,7 +17,7 @@ My main areas of research are <u>International Macroeconomics</u> and <u>Interna
 <span style="color:blue">I am on the economics job market during the 2021-22 academic year</span> 
 
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
-<a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
+#### <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
 
 
 <font color="scarlet"><i><small>&bull; Click title to see abstract.</small></i></font> 
