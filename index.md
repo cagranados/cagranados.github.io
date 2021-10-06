@@ -43,6 +43,16 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="/files/papers/MaPDynamic.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> / <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16271#" target="_blank"><u>[CEPR DP]</u></a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3866660" target="_blank"><u>[SSRN]</u></a> / <a href="https://minchulyum.github.io/papers/Espe_June2021.pdf" target="_blank"><u>[Slides]</u></a> /  \[[slides](/files/papers/MaPToySlides_WUSTL.pdf)\]
  
- ----
-
+ ---- 
+ <details>
+  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models.</font> |
+  
+ </details>
+ <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (01/2021)]</u></a>
+ 
+ ---- 
 
