@@ -21,7 +21,6 @@ My main areas of research are <u>International Macroeconomics</u> and <u>Interna
 #### [Curriculum Vitae (PDF)](Granados_CV.pdf)
 
 
-<br>
 <font color="scarlet"><i><small>&bull; Click title to see abstract.</small></i></font> 
 ### Working Papers
 
