@@ -129,7 +129,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
   <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
-    (with <a href="https://www.reed.edu/faculty-profiles/profiles/jiang-zhe.html" target="_blank">Jasmine Jiang</a>)
+    (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>)
   </summary>
    
   
