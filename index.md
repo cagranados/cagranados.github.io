@@ -46,7 +46,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 -->
 
  <details>
-  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> (job market paper) </summary>
+  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> <b>(job market paper)</b> </summary>
   
     
   | **Abstract**          |
@@ -54,7 +54,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   | <font color="black">I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential policies. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation can generate welfare gains but is not always beneficial relative to nationally-oriented policies. Instead, only regimes where the financial center acts cooperatively generate welfare gains. When present, two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a motive for steering capital flows to emerging economies. The first mechanism eliminates unnecessary policy fluctuations and the second helps prevent capital retrenchments in the center. These effects can be quantitatively relevant as good cooperation regimes can reduce the welfare losses induced by a financial friction between 60% and 80%.</font> |
   
  </details>
- <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> /
+ <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (09/2021)]</u></a> /
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_BbagUW11272020.pdf" target="_blank"><u>[Slides (60 min)]</u></a> / 
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides (30 min)]</u></a> 
  
@@ -117,24 +117,23 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
  
   <details>
-  <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
-  </summary>
+  <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
+   </summary>
     
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities. We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. The nonlinear cointegration technique will allow us to determine whether central bank debt matters for understanding exchange rate dynamics and to determine whether passthrough is symmetric.</font> |
   
  </details>
- <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper (10/2021)]</u></a>
+ <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper (10/2021)]</u></a>
  
  ----
  
  ----
  
   <details>
-  <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
+  <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
+    (with <a href="https://www.reed.edu/faculty-profiles/profiles/jiang-zhe.html" target="_blank">Jasmine Jiang</a>)
   </summary>
     
   | **Abstract**          |
@@ -142,6 +141,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   | <font color="black">In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities. We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. The nonlinear cointegration technique will allow us to determine whether central bank debt matters for understanding exchange rate dynamics and to determine whether passthrough is symmetric.</font> |
   
  </details>
- <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper (10/2021)]</u></a>
+ <a href="https://cagranados.github.io/research.html"><u>[Paper (10/2021)]</u></a>
  
  ----
