@@ -36,7 +36,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
  ----
  <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font>
+  <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font></summary>
   <!--
   <font color="black"><i>MPRA Paper</i> No. 107593, November 2020</font>
   <font color="black">Reject & Resubmit, <b><i>International Economic Review</i></b></font></summary>
