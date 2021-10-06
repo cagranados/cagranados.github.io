@@ -46,7 +46,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 -->
 
  <details>
-  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> <span style="color:blue"> <b>(job market paper)</b> </span> </summary>
+  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> <span style="color:black"> <b>(job market paper)</b> </span> </summary>
   
     
   | **Abstract**          |
