@@ -8,7 +8,7 @@
 
 
 ## Welcome
-I am a Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the [University of Washington](https://econ.washington.edu) (UDub) in July 2021 under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
+I am a Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the [University of Washington](https://econ.washington.edu) (UW) in July 2021 under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/).
 
 My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
 
