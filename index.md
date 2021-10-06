@@ -51,14 +51,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ---- 
  <details>
-  <summary markdown="span"><font color="blue">Aggregate Fluctuations in a Model of Indivisible Labor Supply with Endogenous Workweek Length</font></summary>
+  <summary markdown="span"><font color="blue">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This paper studies aggregate fluctuations in a simple extension of the classical indivisible labor supply model of Rogerson (1988) and Hansen (1985). The model allows a firm to choose hours as well as employment in the presence of a nonlinear mapping from hours worked to labor services and employment adjustment costs. Households take as given state-dependent hours per worker, which are optimally chosen by the firm, and make intertemporal labor supply decisions along the extensive margin. Although the model does not explicitly allow households to choose desired hours worked, the preference parameter governing the intensive margin Frisch elasticity of households shapes aggregate labor market fluctuations along both intensive and extensive margins, in contrast to pure indivisible labor models.</font> |
+  | <font color="black">We study the empirical international policy interactions between macroprudential regulators with the objective of determining whether these adjust their policies with cross-border strategic considerations in mind. For that, we analyze the policy-to-policy interactions for a panel of 65 economies using a local projection approach. Our findings suggest that domestic regulators do react in response to foreign policy changes positively and on average will tighten their domestic tools in response to stricter foreign financial regulations (tightenings). We apply additional specifications to disentangle the average policy effect and obtain that: (i) regulators react mainly to policy changes in advanced economies, (ii) the reaction to foreign policy changes is stronger in advanced economies, (iii) reactions to emerging regulations are less important, but can exist at the regional level (emerging-to-emerging). Additionally, results by type of foreign policy instruments suggest that, other than the typical positive response in our baseline, there can also be occasional loosening adjustments in emerging economies after foreign policy tightenings of some prudential instruments. Our results point to the existence of important policy interactions that can create the scope for coordinated policy frameworks aimed to mitigate inefficiencies in the level of macroprudential interventionism.</font> |
   
  </details>
- <a href="https://www.vwl.uni-mannheim.de/media/Lehrstuehle/vwl/Yum/Paper/IndivisibleLaborStateDepHours_v3_revised.pdf"><u>[Paper (01/2021)]</u></a>
+ <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a>
  
 
 
