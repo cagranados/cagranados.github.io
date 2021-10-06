@@ -19,6 +19,7 @@ I am on the economics job market during the 2021-22 academic year.
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
 #### [Curriculum Vitae (PDF)](Granados_CV.pdf)
 
+----
 
 ### Working Papers
 
@@ -74,15 +75,15 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a>
  
-## Work in Progress
+### Work in Progress
 
  ---- 
  <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
+  <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">We study the empirical international policy interactions between macroprudential regulators with the objective of determining whether these adjust their policies with cross-border strategic considerations in mind. For that, we analyze the policy-to-policy interactions for a panel of 65 economies using a local projection approach. Our findings suggest that domestic regulators do react in response to foreign policy changes positively and on average will tighten their domestic tools in response to stricter foreign financial regulations (tightenings). We apply additional specifications to disentangle the average policy effect and obtain that: (i) regulators react mainly to policy changes in advanced economies, (ii) the reaction to foreign policy changes is stronger in advanced economies, (iii) reactions to emerging regulations are less important, but can exist at the regional level (emerging-to-emerging). Additionally, results by type of foreign policy instruments suggest that, other than the typical positive response in our baseline, there can also be occasional loosening adjustments in emerging economies after foreign policy tightenings of some prudential instruments. Our results point to the existence of important policy interactions that can create the scope for coordinated policy frameworks aimed to mitigate inefficiencies in the level of macroprudential interventionism.</font> |
+  | <font color="black">In order to determine the presence of volatility spillovers among macroeconomic variables a Vector Autorregresive (VAR) model with multivariate GARCH effects is carried out for five countries in Latin America. The variables considered are real activity, price level, interest rate, and exchange rate. The results indicate that there are few within country volatility spillovers. Those that are significant are usually sizable and point to the relevance of international shocks in spreading volatility to other countries rather than local effects. Finally, we obtain that the volatility of inflation is not generally affected by the uncertainty shocks in the exchange rate, this result is noticeable as the price instability effects of the exchange rate fluctuations is usually the justification behind exchange rate intervention programs in these economies.</font> |
   
  </details>
- <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a>
+ <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper (06/2021)]</u></a>
