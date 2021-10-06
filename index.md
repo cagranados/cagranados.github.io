@@ -53,17 +53,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
 
  ----
- <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font></summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">Motivated by the presence of financial spillovers from advanced economies on emerging markets, and the apparent difficulties of the latter to shield their economies from external shocks, I set up a three-country center-periphery model (with two emerging economies and one advanced economy) with banks and financial agency frictions à la Gertler and Karadi (2011). The key defining feature of an emerging economy will be the limited capacity of financial intermediation that leads to a financial dependency relation with the center. Each country will have access to a macroprudential instrument that affects directly its source of inefficiencies and allows to smooth the credit spread distortions. However, such regulation can be costly and interdependent, opening a potential scope for coordination or strategic interactions. The addition of a second emerging country is relevant to enhance the interaction leverage of the peripheric block, as well as to allow for strategic interactions between emerging countries at the regional level. Within this framework, I aim to evaluate the optimal macroprudential instrument and welfare features of a variety of policy arrangements that differ by their degree of cooperation. In particular, I look for gains of coordination, but also for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block.</font> |
-  
- </details>
- <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf" target="_blank"><u>[Paper (6/2021)]</u></a> 
  
- ---- 
  <details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
     
@@ -73,6 +63,18 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a>
+ 
+ ----
+ 
+ <details>
+  <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font></summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">Motivated by the presence of financial spillovers from advanced economies on emerging markets, and the apparent difficulties of the latter to shield their economies from external shocks, I set up a three-country center-periphery model (with two emerging economies and one advanced economy) with banks and financial agency frictions à la Gertler and Karadi (2011). The key defining feature of an emerging economy will be the limited capacity of financial intermediation that leads to a financial dependency relation with the center. Each country will have access to a macroprudential instrument that affects directly its source of inefficiencies and allows to smooth the credit spread distortions. However, such regulation can be costly and interdependent, opening a potential scope for coordination or strategic interactions. The addition of a second emerging country is relevant to enhance the interaction leverage of the peripheric block, as well as to allow for strategic interactions between emerging countries at the regional level. Within this framework, I aim to evaluate the optimal macroprudential instrument and welfare features of a variety of policy arrangements that differ by their degree of cooperation. In particular, I look for gains of coordination, but also for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block.</font> |
+  
+ </details>
+ <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf" target="_blank"><u>[Paper (6/2021)]</u></a> 
  
  ----
  
@@ -101,6 +103,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   | <font color="black">In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities. We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. The nonlinear cointegration technique will allow us to determine whether central bank debt matters for understanding exchange rate dynamics and to determine whether passthrough is symmetric.</font> |
   
  </details>
- <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper (06/2021)]</u></a>
+ <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper (10/2021)]</u></a>
  
  ----
