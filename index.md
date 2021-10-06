@@ -11,11 +11,11 @@ My main areas of research are <u>International Macroeconomics</u> and <u>Interna
 
 I am on the economics job market during the 2021-22 academic year.
 
-<font color="scarlet"><i><small>&diams; Click below to download CV.</small></i></font> 
-### [Curriculum Vitae (PDF)](Granados_CV.pdf)
+<font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
+#### [Curriculum Vitae (PDF)](Granados_CV.pdf)
+
 
 ## Research 
-
 
 Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_BbagUW11272020.pdf)\]  **(Job Market Paper)**
 <p>
