@@ -56,7 +56,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> /
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_BbagUW11272020.pdf" target="_blank"><u>[Slides (60 min)]</u></a> / 
- <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides (35 min)]</u></a> 
+ <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides (30 min)]</u></a> 
  
 
  ----
