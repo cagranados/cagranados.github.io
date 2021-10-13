@@ -101,20 +101,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
  
   <details>
-  <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities. We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. The nonlinear cointegration technique will allow us to determine whether central bank debt matters for understanding exchange rate dynamics and to determine whether passthrough is symmetric.</font> |
-  
- </details>
- <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper (10/2021)]</u></a>
- 
- ----
- 
-  <details>
   <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
    </summary>
     
@@ -125,6 +111,21 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper (10/2021)]</u></a>
  
+ ----
+ 
+   <details>
+  <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
+    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities. We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. The nonlinear cointegration technique will allow us to determine whether central bank debt matters for understanding exchange rate dynamics and to determine whether passthrough is symmetric.</font> |
+  
+ </details>
+ <!--
+ <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper (10/2021)]</u></a>
+ -->
  ----
  
   <details>
