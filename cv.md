@@ -59,4 +59,4 @@ Financial Regulation and Income Inequality (with Jasmine Jiang).
 - Scholarship for outstanding graduate students (M.Sc. in Economics) - U. Nacional de Colombia, 2014.
 - Award for outstanding employee performance - Central Bank of Colombia, 2014.
 - Automatic Admission to postgraduate studies, Universidad Nacional de Colombia, 2011.
--- Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105).
+    - Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105).
