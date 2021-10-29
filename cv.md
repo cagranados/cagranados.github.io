@@ -1,4 +1,5 @@
-# Camilo Granados  (in PDF format: <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">CV </a>)
+# Camilo Granados 
+(in PDF format: <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">CV </a>)
 
 ## Research interests:
 
@@ -28,7 +29,7 @@ University of Washington, Seattle, Sep 2016 - Jun 2021
 
 ## Working Papers
 
-Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? (Job Market Paper).
+Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? (Job Market Paper). <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (09/2021)]</u></a>
 
 Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.
 
