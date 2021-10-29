@@ -1,4 +1,4 @@
-### **CAMILO GRANADOS**
+## **Camilo Granados**
 
 #### CV in PDF format <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">(Link)</a>
 
