@@ -28,11 +28,25 @@ I study whether emerging economies can navigate the global financial cycle more 
  
 ### WORKING PAPERS
 
-**"Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?"** <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[(link)]</u></a> \
+**"Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?"** <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[link]</u></a> 
 
-**"Macroprudential Policy Coordination in Open Economies: A Multicountry Approach"** <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf"><u>[(link)]</u></a> \
+**"Macroprudential Policy Coordination in Open Economies: A Multicountry Approach"** <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf"><u>[link]</u></a> 
 
 ### WORK IN PROGRESS
+
+**"Prices Stability and Macroeconomic Volatility Spillovers in Latin America"**
+
+**"Enhancing Economic Resiliency Through Prudential Cooperation"**
+
+**"Exchange Rate Dynamics and the Central Bank’s Balance Sheet"** (with Guillermo Gallacher and Jannelle Mann)
+
+**"Financial Regulation and Income Inequality"** (with Jasmine Jiang)
+
+
+
+
+
+
 
 <details>
   <summary markdown="span"><font color="black">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font><a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a></summary>
