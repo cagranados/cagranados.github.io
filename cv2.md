@@ -10,16 +10,16 @@ M.A. in Economics (2017)
 
 **Universidad Nacional de Colombia**, Bogotá, Colombia\
 M.S. in Economics (2015)\
-Graduate Diploma in Statistics \
+Graduate Diploma in Statistics (2012) \
 B.S. in Economics (2010)
 
-### FIELDS
+### RESEARCH FIELDS
 
-Econometrics, Labor Economics
+International Macroeconomics, International Finance, Macroeconomics, Applied Econometrics
 
 ### JOB MARKET PAPER
 
-**"Testing for Idiosyncratic Treatment Effect Heterogeneity\"** (coming
+**"Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?\"** (coming
 soon)
 
 ### WORKING PAPERS
