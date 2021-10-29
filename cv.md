@@ -1,6 +1,6 @@
 ### **CAMILO GRANADOS**
 
-CV in PDF format <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">(Link)</a>
+#### CV in PDF format <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">(Link)</a>
 
 [Email 1: cagranados8@gmail.com](mailto:cagranados8@gmail.com) \
 [Email 2: jcgc@uw.edu](mailto:jcgc@uw.edu)
