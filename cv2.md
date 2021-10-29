@@ -60,7 +60,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 
 **University of Washington**, Seattle, WA\
 \
-*Instructor*
+*Independent Instructor*
 -   Advanced Macroeconomics (*Undergraduate*), Spring 2021
 
 *Teaching Assistant*
