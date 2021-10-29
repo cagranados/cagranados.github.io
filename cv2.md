@@ -39,7 +39,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 
 **"Prices Stability and Macroeconomic Volatility Spillovers in Latin America"** <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Link]</u></a>
 
-**"Enhancing Economic Resiliency Through Prudential Cooperation"** <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper (10/2021)]</u></a>
+**"Enhancing Economic Resiliency Through Prudential Cooperation"** <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Link]</u></a>
 
 **"Exchange Rate Dynamics and the Central Bank’s Balance Sheet"** (with Guillermo Gallacher and Jannelle Mann)
 
@@ -71,7 +71,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Introduction to Macroeconomics: Aut. 2017, Win. 2018, Spr. 2018
 - Elements of Statistical Methods: Aut. 2016, Win. 2017, Spr. 2017
 
-**Universidad Nacional de Colombia**, Bogota.
+**Universidad Nacional de Colombia**, Bogota.\
 \
 *Teaching Assistant*
 - Microeconomics III: 2015-I
@@ -80,7 +80,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Modern Firm Theory: 2008-II, 2009-I
 - Economics Principles: 2007 - II
 
-**CESA: Colegio Superior de Estudios en Administración (Colombia)**
+**CESA: Colegio Superior de Estudios en Administración (Colombia)**\
 \
 *Independent Instructor*
 - Macroeconomics: 2010-I 
@@ -109,6 +109,7 @@ Scholarship for outstanding students  - U. Nacional, Colombia, 2014 \
 Award for outstanding performance - Central Bank of Colombia, 2014. \
 Automatic Admission to graduate studies, U. Nacional, 2011. \
 *Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105)*
+<sub><sup>Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105)</sup></sub>
 
 
 ### SEMINARS AND CONFERENCE PRESENTATIONS
