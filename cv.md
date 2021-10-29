@@ -1,4 +1,4 @@
-# Camilo Granados  (in PDF format: <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">CV (PDF)</a>)
+# Camilo Granados  (in PDF format: <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">CV </a>)
 
 ## Research interests:
 
