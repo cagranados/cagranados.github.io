@@ -119,7 +119,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Introduction to Macroeconomics (ECON 201): Aut. 2017, Win. 2018, Spr. 2018
 - Elements of Statistical Methods (STAT 301): Aut. 2016, Win. 2017, Spr. 2017
 
-**Universidad Nacional de Colombia*, Bogota.
+**Universidad Nacional de Colombia**, Bogota.
 \
 *Teaching Assistant*
 - Microeconomics III: 2015-I
@@ -154,16 +154,26 @@ Carola Pessino and Ernesto Stein*
 *Research Assistant to Leonardo Villar, Roberto Steiner, Natalia
 Salazar, and Adolfo Barajas*
 
+**Banco de la República, Colombia** (Central Bank of Colombia) July 2009–Present \
+Junior Researcher, Department of Macroeconomic Modeling, July 2021 – Present \
+Economist, Department of Inflation, September 2012–July 2021 \
+    - Economist (on study leave for Ph.D. studies), August 2015–June 2021 \
+Junior Economist, Department of Inflation, June 2010–September 2012 \
+Research Assistant, Econometrics Unit, July 2009–May 2010 \
+
+**University of Washington**, Seattle, WA, USA. Sept 2016–June 2021 \
+Graduate teaching assistant and instructor
+
 ### HONORS & AWARDS
 
-UW - Economics, Dissertation Fellowship (declined due to conflicting TA commitment), 2020. \
-Grover and Greta Ensley Fellowship in Economic Policy - UW (dissertation fellowship), 2019. \
-Corkery Fellowship - Economics Department, University of Washington, 2015-16, 2019. \
-Lauchlin Currie Scholarship for Ph.D. studies - Central Bank of Colombia, 2015-19. \
-Scholarship for outstanding graduate students (M.Sc. in Economics) - U. Nacional de Colombia, 2014. \
-Award for outstanding employee performance - Central Bank of Colombia, 2014. \
-Automatic Admission to postgraduate studies, Universidad Nacional de Colombia, 2011. \
-   -Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105).
+UW - Economics, Dissertation Fellowship (declined), 2020 \
+Grover and Greta Ensley Fellowship in Economic Policy - UW, 2019 \
+Corkery Fellowship, UW, 2015-16, 2019. \
+Lauchlin Currie Scholarship - Central Bank of Colombia, 2015-19. \
+Scholarship for outstanding graduate students  - U. Nacional, Colombia, 2014 \
+Award for outstanding performance - Central Bank of Colombia, 2014. \
+Automatic Admission to graduate studies, U. Nacional, 2011. \
+   - Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105).
 
 
 ### SEMINARS AND CONFERENCE PRESENTATIONS
@@ -178,22 +188,14 @@ American Economic Association, Econometric Society, Western Economic Association
 
 ### SERVICE
 
-Referee for: Oxford Bulletin of Economics and Statistics\
-Conference Organizer: Southern California Graduate Conference in Applied
-Economics, 2021\
-Discussant: Los Angeles Conference in Applied Economics, 2019
-
-Member of Economics Diversity Task Force, UCSB, 2020\
-Mentor: Economics Graduate Student Association, UCSB, 2019\
-Community outreach: California Forum for Diversity in Graduate Education
-at CSU Channel Islands, 2017\
-Mentor: National University of Colombia Alumni Program, 2017
+Conference Secretary. 6th International Macroeconomics and Finance Conference (Keio U, CEPR). 2021 \
+Workshop organizer. UW Summer brownbag in Macroeconomics and International Finance. Summer 2020. \
+Organization team member. West Coast Meetings in International Finance (University of Washington). 2019 
 
 
 ### COMPUTER SKILLS
 
-Proficient: R, Stata, Matlab\
-Working knowledge: Python, PySpark, Eviews
+R, Matlab, Stata, Eviews, Mathematica\
 
 ### LANGUAGES
 
