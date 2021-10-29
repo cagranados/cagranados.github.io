@@ -1,16 +1,17 @@
-### **JAIME RAMIREZ-CUELLAR**
-2019 North Hall, Santa Barbara, CA 93106-9210, USA\
-[Email: jrc\@econ.ucsb.edu](mailto:jrc@econ.ucsb.edu)
+### **CAMILO GRANADOS**
+[Email 1: cagranados8@gmail.com](mailto:cagranados8@gmail.com) \
+[Email 2: jcgc@uw.edu](mailto:jcgc@uw.edu)
 
 ### EDUCATION
 
-**University of California**, Santa Barbara, CA\
-Ph.D. (c) in Economics (expected)\
-M.A. in Economics
+**University of Washington**, Seattle, WA, USA.\
+Ph.D. in Economics (2021)\
+M.A. in Economics (2017)
 
-**National University of Colombia**, Bogotá, Colombia\
-M.S. in Economics\
-B.S. in Economics
+**Universidad Nacional de Colombia**, Bogotá, Colombia\
+M.S. in Economics (2015)\
+Graduate Diploma in Statistics \
+B.S. in Economics (2010)
 
 ### FIELDS
 
