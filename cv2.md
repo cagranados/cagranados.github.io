@@ -131,7 +131,7 @@ Organization team member. West Coast Meetings in International Finance (Universi
 
 ### COMPUTER SKILLS
 
-R, Matlab, Stata, Eviews, Mathematica\
+R, Matlab, Stata, Eviews, Mathematica
 
 ### LANGUAGES
 
