@@ -149,31 +149,27 @@ Salazar, and Adolfo Barajas*
 
 ### HONORS & AWARDS
 
-Graduate Student Prize, UCSB, Fall 2020\
-Research Quarter Fellowship, UCSB, Fall 2019\
-Costas Fellowship, UCSB, Spring 2019\
-Gretler Fellowship, UCSB, Summer 2018\
-Jennifer Jo Williamson Fellowship, UCSB, Fall 2017\
-UC Regents Fellowship, UCSB, 2016-2017\
-Distinction in Ph.D. Preliminary Examination in Econometrics and
-Microeconomics, UCSB, 2017\
-Fulbright and Colfuturo's Excellence Group, 2012\
-Scholarship for Master Studies, Fedesarrollo, Feb-May 2012
+UW - Economics, Dissertation Fellowship (declined due to conflicting TA commitment), 2020. \
+Grover and Greta Ensley Fellowship in Economic Policy - UW (dissertation fellowship), 2019. \
+Corkery Fellowship - Economics Department, University of Washington, 2015-16, 2019. \
+Lauchlin Currie Scholarship for Ph.D. studies - Central Bank of Colombia, 2015-19. \
+Scholarship for outstanding graduate students (M.Sc. in Economics) - U. Nacional de Colombia, 2014. \
+Award for outstanding employee performance - Central Bank of Colombia, 2014. \
+Automatic Admission to postgraduate studies, Universidad Nacional de Colombia, 2011. \
+   -Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105).
 
-### CONFERENCE PRESENTATIONS
 
-2020: American Causal Inference Conference (postponed)\
-2019: Advances in Field Experiments (U Chicago), California Econometrics
-Conference (UC Davis), Econometric Society's Latin American Meetings
-(Puebla), Los Angeles Conference in Applied Economics (USC)
+### SEMINARS AND CONFERENCE PRESENTATIONS
 
-### AFFILIATIONS
+2021: University of Washington, European Economic Association (EEA-ESEM), LACEA-LAMES (Econometric Society), University of Surrey, University of Manitoba (scheduled) \
+2020: Washington University in St. Louis - Economics Graduate Student Conference, University of Washington (seminar brownbag), Central Bank of Colombia \
+2019: University of Washington (seminar brownbag)
 
-American Economic Association, Econometric Society, Latin American and
-Caribbean Economic Association, Broom Center for Demography, American
-Society of Hispanic Economists
+### MEMBERSHIPS
 
-### PROFESSIONAL ACTIVITIES
+American Economic Association, Econometric Society, Western Economic Association International
+
+### SERVICE
 
 Referee for: Oxford Bulletin of Economics and Statistics\
 Conference Organizer: Southern California Graduate Conference in Applied
@@ -186,11 +182,6 @@ Community outreach: California Forum for Diversity in Graduate Education
 at CSU Channel Islands, 2017\
 Mentor: National University of Colombia Alumni Program, 2017
 
-### SHORT COURSES & WORKSHOPS TAUGHT
-
-Stata Workshop, Broom Center, UCSB, Dec 2020\
-Stata Skills, UCSB (Undergraduate), Summer 2020\
-Data Hack in R, UCSB (Undergraduate), Summers 2018, 2019
 
 ### COMPUTER SKILLS
 
