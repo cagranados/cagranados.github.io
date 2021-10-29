@@ -94,7 +94,7 @@ Junior Researcher, Dept. of Macroeconomic Modeling, July 2021 – Present \
 Economist (*on study leave for Ph.D. studies*), August 2015–June 2021 \
 Economist, Department of Inflation, September 2012–July 2021 \
 Junior Economist, Department of Inflation, June 2010–September 2012 \
-Research Assistant, Econometrics Unit, July 2009–May 2010 \
+Research Assistant, Econometrics Unit, July 2009–May 2010 
 
 **University of Washington**, Seattle, WA, USA. Sept 2016–June 2021 \
 Graduate teaching assistant and instructor
@@ -108,7 +108,7 @@ Lauchlin Currie Scholarship - Central Bank of Colombia, 2015-19. \
 Scholarship for outstanding students  - U. Nacional, Colombia, 2014 \
 Award for outstanding performance - Central Bank of Colombia, 2014. \
 Automatic Admission to graduate studies, U. Nacional, 2011. \
-(Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105))
+*Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105)*
 
 
 ### SEMINARS AND CONFERENCE PRESENTATIONS
