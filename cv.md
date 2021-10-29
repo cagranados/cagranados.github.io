@@ -13,7 +13,11 @@ Ph.D., Economics - University of Washington, Seattle (2021)
 
 M.A., Economics - University of Washington, Seattle (2021)
 
-B.Sc., Economics - Universidad Nacional de Colombia (2010)
+M.Sc., Economics - Universidad Nacional de Colombia, Bogotá (2015)
+
+Diploma, Statistics - Universidad Nacional de Colombia, Bogotá (2010)
+
+B.Sc., Economics - Universidad Nacional de Colombia, Bogotá (2010)
 
 ## Employment
 
@@ -31,9 +35,9 @@ University of Washington, Seattle, Sep 2016 - Jun 2021
 
 Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? (Job Market Paper). <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (09/2021)]</u></a>
 
-Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.
+Macroprudential Policy Interactions: What Has Changed Since the Global Financial Crisis?. <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf" target="_blank"><u>[Paper (06/2021)]</u></a>
 
-Macroprudential Policy Interactions: What Has Changed Since the Global Financial Crisis?.
+Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.  <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a> 
 
 ## Work in Progress
 
