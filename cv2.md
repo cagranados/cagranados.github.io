@@ -71,7 +71,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Introduction to Macroeconomics: Aut. 2017, Win. 2018, Spr. 2018
 - Elements of Statistical Methods: Aut. 2016, Win. 2017, Spr. 2017
 
-**Universidad Nacional de Colombia**, Bogota.\
+**Universidad Nacional de Colombia**, Bogotá.\
 \
 *Teaching Assistant*
 - Microeconomics III: 2015-I
@@ -80,7 +80,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Modern Firm Theory: 2008-II, 2009-I
 - Economics Principles: 2007 - II
 
-**CESA: Colegio Superior de Estudios en Administración (Colombia)**\
+**CESA: Colegio Superior de Estudios en Administración**, Bogotá, Colombia.\
 \
 *Independent Instructor*
 - Macroeconomics: 2010-I 
