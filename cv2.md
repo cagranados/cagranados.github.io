@@ -28,11 +28,11 @@ I study whether emerging economies can navigate the global financial cycle more 
  
 ### WORKING PAPERS
 <details>
-  <summary markdown="span"><font color="black">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
+  <summary markdown="span"><font color="black">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font><a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a></summary>
     
   <font color="black">We study the empirical international policy interactions between macroprudential regulators with the objective of determining whether these adjust their policies with cross-border strategic considerations in mind. For that, we analyze the policy-to-policy interactions for a panel of 65 economies using a local projection approach. Our findings suggest that domestic regulators do react in response to foreign policy changes positively and on average will tighten their domestic tools in response to stricter foreign financial regulations (tightenings). We apply additional specifications to disentangle the average policy effect and obtain that: (i) regulators react mainly to policy changes in advanced economies, (ii) the reaction to foreign policy changes is stronger in advanced economies, (iii) reactions to emerging regulations are less important, but can exist at the regional level (emerging-to-emerging). Additionally, results by type of foreign policy instruments suggest that, other than the typical positive response in our baseline, there can also be occasional loosening adjustments in emerging economies after foreign policy tightenings of some prudential instruments. Our results point to the existence of important policy interactions that can create the scope for coordinated policy frameworks aimed to mitigate inefficiencies in the level of macroprudential interventionism.</font> 
  </details>
- <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper (06/2021)]</u></a>
+
  
  <details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font></summary>
@@ -41,8 +41,6 @@ I study whether emerging economies can navigate the global financial cycle more 
   
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf" target="_blank"><u>[Paper (06/2021)]</u></a> 
- 
- ----
  
 <br> 
 
@@ -56,9 +54,7 @@ I study whether emerging economies can navigate the global financial cycle more 
  </details>
  <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper (06/2021)]</u></a>
  
- ----
- 
-  <details>
+ <details>
   <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
    </summary>
     
@@ -67,9 +63,7 @@ I study whether emerging economies can navigate the global financial cycle more 
  </details>
  <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper (10/2021)]</u></a>
  
- ----
- 
-   <details>
+  <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
     (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
   </summary>
@@ -81,17 +75,13 @@ I study whether emerging economies can navigate the global financial cycle more 
  <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper (10/2021)]</u></a>
  -->
  
- ----
- 
   <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>)
   </summary>
    
-  
- </details>
+  </details>
  
- ----
 
 
 
@@ -100,7 +90,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 
 **References**
 -   **Associate Professor Yu-chin Chen**, UW (Advisor)\
-&nbsp; Email: [yuchin\@uw.edu](mailto:yuchin@uw.edu)
+&nbsp; Email: [yuchin@uw.edu](mailto:yuchin@uw.edu)
 -   **Professor Ippei Fujiwara**, Keio University / Australian National Unviersity (Advisor)\
 &nbsp; Email: <ippei.fujiwara@keio.jp>
 -   **Professor Fabio Ghironi**, UW\
@@ -123,9 +113,8 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Elements of Statistical Methods (STAT 301): Aut. 2016, Win. 2017, Spr. 2017
 
 **Universidad Nacional de Colombia*, Bogota.
-
+\
 *Teaching Assistant*
-
 - Microeconomics III: 2015-I
 - Advanced Econometrics (master level): 2015-I
 - Advanced Microeconomics (master level): 2014-II
@@ -138,7 +127,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Macroeconomics: 2010-I 
 - Principles of Economics: 2010-I
 
-### RELEVANT EXPERIENCE
+### EXPERIENCE
 
 **University of California**, Santa Barbara, CA \
 *Research Assistant to Dick Startz, Doug Steigerwald, Finn Kydland*\
