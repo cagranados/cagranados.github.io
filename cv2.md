@@ -98,26 +98,20 @@ I study whether emerging economies can navigate the global financial cycle more 
 
 ### REFERENCES
 
-**Dissertation Committee**
--   **Professor Richard Startz**, UCSB\
-&nbsp; Email: [startz\@econ.ucsb.edu](mailto:startz@ucsb.edu)
--   **Professor Douglas Steigerwald**, UCSB\
-&nbsp; Email: <doug@ucsb.edu>
--   **Professor Clément de Chaisemartin**, Sciences Po\
-&nbsp; Email: <clement.dechaisemartin@sciencespo.fr>
+**References**
+-   **Associate Professor Yu-chin Chen**, UW (Advisor)\
+&nbsp; Email: [yuchin\@uw.edu](mailto:yuchin@uw.edu)
+-   **Professor Ippei Fujiwara**, Keio University / Australian National Unviersity (Advisor)\
+&nbsp; Email: <ippei.fujiwara@keio.jp>
+-   **Professor Fabio Ghironi**, UW\
+&nbsp; Email: <fabio.ghironi.1@gmail.com>
 
-**Placement Director**: Professor Sevgi Yuksel, UCSB,
-Email: [sevgi.yuksel\@econ.ucsb.edu](mailto:sevgi.yuksel@ucsb.edu)\
-**Graduate Coordinator**: Mark Patterson, UCSB,
-Email: [econ-jobmarket\@ucsb.edu](mailto:econ-jobmarket@ucsb.edu
-)
 
 ### TEACHING EXPERIENCE
 
-**University of California**, Santa Barbara, CA\
-*Lecturer*
--   Financial Management (*Undergraduate*), Winter 2019
--   Math Boot Camp (*Graduate*), Summer 2018
+**University of Washington**, Seattle, WA\
+*Instructor*
+-   Advanced Macroeconomics (*Undergraduate*), Spring 2021
 
 *Teaching Assistant*
 -   Principles of Macroeconomics (*Undergraduate*), Fall 2020
