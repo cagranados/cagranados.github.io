@@ -110,33 +110,44 @@ I study whether emerging economies can navigate the global financial cycle more 
 ### TEACHING EXPERIENCE
 
 **University of Washington**, Seattle, WA\
+\
 *Instructor*
 -   Advanced Macroeconomics (*Undergraduate*), Spring 2021
 
 *Teaching Assistant*
--   Principles of Macroeconomics (*Undergraduate*), Fall 2020
--   Econometrics (*Undergraduate*, Head TA), Jul 2020-Jun 2021
--   Econometric Theory - Causal Inference (*Graduate*), Spring 2020
--   Principles of Macroeconomics (*Undergraduate*), Winter 2020
--   Financial Management (*Undergraduate*), Fall 2018
--   Econometric Theory - Causal Inference (*Graduate*), Spring 2018
--   Econometric Theory - Linear Models (*Graduate*), Winter 2018
--   Econometric Theory - Probability and Statistics (*Graduate*), Fall
-    2017
 
-**Los Andes University**, Bogotá, Colombia\
-*Lecturer*, Macroeconomics I (*Undergraduate*), Aug-Nov 2013\
-*Teaching Assistant*, Financial Markets (*Undergraduate*), Feb-May 2014
+- Advanced Macroeconomics (ECON 401): Win. 2021 
+- International Finance (FIN 579): Spr. 2019, Spr. 2020
+- Microeconomics for Technology Managers (TMMBA 501A): Spr. 2020
+- Business Finance (FIN 350): Aut. 2018, Spr. 2019, Aut. 2019
+- Introduction to Macroeconomics (ECON 201): Aut. 2017, Win. 2018, Spr. 2018
+- Elements of Statistical Methods (STAT 301): Aut. 2016, Win. 2017, Spr. 2017
 
-**Rosario University**, Bogotá, Colombia\
-*Lecturer*, International Trade (*Undergraduate*), Feb-Jun 2011
+<h3>Teaching Assistant</h3>
 
-**National University of Colombia**, Bogotá, Colombia\
-*Teaching Assistant*
--   Advanced Microeconomics (*Graduate*), Feb-May 2010
--   Econometrics II (*Undergraduate*), Feb-May 2009
--   Macroeconomics II (*Undergraduate*), Feb-May 2009
--   General Equilibrium Theory (*Undergraduate*), Aug 2007-Nov 2008
+- Advanced Macroeconomics (ECON 401): Win. 2021 
+- International Finance (FIN 579): Spr. 2019, Spr. 2020
+- Microeconomics for Technology Managers (TMMBA 501A): Spr. 2020
+- Business Finance (FIN 350): Aut. 2018, Spr. 2019, Aut. 2019
+- Introduction to Macroeconomics (ECON 201): Aut. 2017, Win. 2018, Spr. 2018
+- Elements of Statistical Methods (STAT 301): Aut. 2016, Win. 2017, Spr. 2017
+
+<h2> National University of Colombia </h2>
+
+<h3>Teaching Assistant</h3>
+
+- Microeconomics III: 2015-I
+- Advanced Econometrics (master level): 2015-I
+- Advanced Microeconomics (master level): 2014-II
+- Modern Firm Theory: 2008-II, 2009-I
+- Economics Principles: 2007 - II
+
+<h2> CESA: Colegio Superior de Estudios en Administración (Colombia) </h2>
+
+<h3>Independent Instructor</h3>
+
+- Macroeconomics: 2010-I 
+- Principles of Economics: 2010-I
 
 ### RELEVANT EXPERIENCE
 
