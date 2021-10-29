@@ -6,9 +6,9 @@ International Macroeconomics, International Finance, Macroeconomics, Applied Eco
 
 ## Education
 
-Ph.D., Economics - University of Washington, Seattle (2021) \n
-Dissertation: Essays on International Macroprudential Policy Interactions
-Committee: Yu-chin Chen (advisor), Ippei Fujiwara (advisor), Fabio Ghironi, Philip Brock
+Ph.D., Economics - University of Washington, Seattle (2021) 
+- Dissertation: Essays on International Macroprudential Policy Interactions
+- Committee: Yu-chin Chen (advisor), Ippei Fujiwara (advisor), Fabio Ghironi, Philip Brock
 
 M.A., Economics - University of Washington, Seattle (2021)
 
