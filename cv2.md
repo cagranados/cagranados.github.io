@@ -24,6 +24,8 @@ International Macroeconomics, International Finance, Macroeconomics, Applied Eco
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides (30 min)]</u></a> /
  <a href="https://www.youtube.com/watch?v=xX1YCaek0s0" target="_blank"><u>[Video (until 21:48)]</u></a>
  
+I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential policies. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation can generate welfare gains but is not always beneficial relative to nationally-oriented policies. Instead, only regimes where the financial center acts cooperatively generate welfare gains. When present, two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a motive for steering capital flows to emerging economies. The first mechanism eliminates unnecessary policy fluctuations and the second helps prevent capital retrenchments in the center. These effects can be quantitatively relevant as good cooperation regimes can reduce the welfare losses induced by a financial friction between 60% and 80%.
+ 
 
 ### WORKING PAPERS
 
@@ -31,16 +33,7 @@ International Macroeconomics, International Finance, Macroeconomics, Applied Eco
 Small-Strata Experiments?\"** (with Clément de Chaisemartin). Revision
 Requested in the *American Economic Journal: Applied Economics*.
 
-In paired experiments, units are matched into pairs, and one unit of
-each pair is randomly assigned to treatment. To estimate the treatment
-effect, researchers often regress their outcome on a treatment indicator
-and pair fixed effects, clustering standard errors at the
-unit-of-randomization level. We show that the variance estimator in this
-regression may be severely downward biased: under constant treatment
-effect, its expectation equals 1/2 of the true variance. Instead,
-researchers should cluster their standard errors at the pair level.
-Using simulations, we show that those results extend to stratified
-experiments with few units per strata.
+
 
 ### REFERENCES
 
