@@ -108,7 +108,6 @@ Lauchlin Currie Scholarship - Central Bank of Colombia, 2015-19. \
 Scholarship for outstanding students  - U. Nacional, Colombia, 2014 \
 Award for outstanding performance - Central Bank of Colombia, 2014. \
 Automatic Admission to graduate studies, U. Nacional, 2011. \
-*Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105)*
 <sub><sup>Awarded upon graduating within the best 5% of the bachelor cohort (ranking: 3/105)</sup></sub>
 
 
