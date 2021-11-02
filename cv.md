@@ -80,7 +80,7 @@ I study whether emerging economies can navigate the global financial cycle more 
 - Modern Firm Theory: 2008-II, 2009-I
 - Economics Principles: 2007 - II
 
-**CESA: Colegio Superior de Estudios en Administración**, Bogotá, Colombia.\
+**CESA: Colegio Superior de Estudios en Administración**, Bogotá.\
 \
 *Independent Instructor*
 - Macroeconomics: 2010-I 
