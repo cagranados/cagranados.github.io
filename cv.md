@@ -23,7 +23,7 @@ International Macroeconomics, International Finance, Macroeconomics, Applied Eco
 ### JOB MARKET PAPER
 
 **"Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?\"** 
- <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (09/2021)]</u></a> /
+ <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper (10/2021)]</u></a> /
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides (30 min)]</u></a> /
  <a href="https://www.youtube.com/watch?v=xX1YCaek0s0" target="_blank"><u>[Video (until 21:48)]</u></a>
  
