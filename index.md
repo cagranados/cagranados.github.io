@@ -13,12 +13,10 @@ I am an Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economi
 My current research explores the international dimension of macroprudential regulations and the best policy implementation setups that can be applied in financially integrated economies.
 
 <!-- under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/). -->
-
-
-
 <!-- In my current research projects I study how to implement macroprudential policies in emerging economies. -->
-
-<span style="color:black"><b> I am on the economics job market during the 2021-22 academic year </b></span> 
+<!-- <span style="color:black"><b> I am on the economics job market during the 2021-22 academic year </b></span> -->
+<!-- -->
+<span style="color:black"><i> I will join the University of Texas at Dallas as an Assistant Professor of Economics in the Fall of 2022 </b></span> 
 
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
 #### <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
