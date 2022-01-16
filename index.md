@@ -15,7 +15,8 @@ My current research explores the international dimension of macroprudential regu
 <!-- under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/). -->
 <!-- In my current research projects I study how to implement macroprudential policies in emerging economies. -->
 <!-- <span style="color:black"><b> I am on the economics job market during the 2021-22 academic year </b></span> -->
-<!-- <span style="color:gray"><i> I will join the University of Texas at Dallas as an Assistant Professor of Economics in the Fall of 2022 </i></span>  -->
+
+<-- <span style="color:gray"><i> I will join the <a href="https://epps.utdallas.edu/" target="_blank">University of Texas at Dallas</a> as an Assistant Professor of Economics in the Fall of 2022 </i></span>  -->
 
 
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
