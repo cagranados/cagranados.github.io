@@ -8,7 +8,7 @@
 
 
 ## Welcome
-I am an Economist at the Central Bank of Colombia. I obtained a Ph.D. in Economics at the <a href="https://econ.washington.edu" target="_blank">University of Washington</a> (UW) in July 2021. My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
+I am an Assistant Professor of Economics in the School of Economics, Political and Policy Sciences (<a href="https://epps.utdallas.edu/" target="_blank">EPPS</a>) at the <a href="https://utdallas.edu/" target="_blank">University of Texas at Dallas</a>. I obtained a Ph.D. in Economics at the <a href="https://econ.washington.edu" target="_blank">University of Washington</a> (UW) in 2021. My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
 
 My current research explores the international dimension of macroprudential regulations and the best policy implementation setups that can be applied in financially integrated economies.
 
@@ -16,7 +16,7 @@ My current research explores the international dimension of macroprudential regu
 <!-- In my current research projects I study how to implement macroprudential policies in emerging economies. -->
 <!-- <span style="color:black"><b> I am on the economics job market during the 2021-22 academic year </b></span> -->
 
-<span style="color:gray"><i> I will join the <a href="https://epps.utdallas.edu/" target="_blank">University of Texas at Dallas</a> as an Assistant Professor of Economics in the Fall of 2022 </i></span>  
+<!-- <span style="color:gray"><i> I will join the <a href="https://epps.utdallas.edu/" target="_blank">University of Texas at Dallas</a> as an Assistant Professor of Economics in the Fall of 2022 </i></span> --> 
 
 
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
