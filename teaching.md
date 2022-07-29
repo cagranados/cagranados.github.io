@@ -1,5 +1,9 @@
 # Teaching
 
+<h2> University of Texas at Dallas </h2>
+
+- International Finance: Fall 2022
+
 <h2> University of Washington </h2>
 
 <h3>Independent Instructor</h3>
