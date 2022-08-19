@@ -1,15 +1,11 @@
 ## Economics 4382: International Finance
 Fall 2022
 
-**Instructor:** Camilo Granados
-
-**Class Time and Location:** Monday and Wednesday 1:00PM-2:15PM 
-
-**Course Office Hours:**  Monday and Wednesday 2:30PM-3:30PM  or by appointment
-
-**Email:** Camilo.granados@utdallas.edu
-
-**Website:** https://cagranados.github.io/intfin4382.html
+**Instructor:** Camilo Granados \
+**Class Time and Location:** Monday and Wednesday 1:00PM-2:15PM \
+**Course Office Hours:**  Monday and Wednesday 2:30PM-3:30PM  or by appointment \
+**Email:** Camilo.granados@utdallas.edu \
+**Website:** <a href="https://cagranados.github.io/files/intfinfall22/IntFinanceFall22_syllabus"><u>https://cagranados.github.io/intfin4382.html</u></a> 
 
 
 ### Course Description
