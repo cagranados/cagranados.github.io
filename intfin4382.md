@@ -1,5 +1,5 @@
 ## Economics 4382: International Finance
-# Fall 2022
+### Fall 2022
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday and Wednesday 1:00PM-2:15PM \
