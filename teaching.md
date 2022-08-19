@@ -2,7 +2,7 @@
 
 <h2> University of Texas at Dallas </h2>
 
-- International Finance: Fall 2022  <a href="https://cagranados.github.io/intfin4382.html" target="_blank"><u>[link]</u></a>
+- International Finance: Fall 2022  <a href="https://cagranados.github.io/intfin4382.html" ><u>[link]</u></a>
 
 <h2> University of Washington </h2>
 
