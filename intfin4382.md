@@ -1,11 +1,11 @@
 ## Economics 4382: International Finance
-Fall 2022
+# Fall 2022
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday and Wednesday 1:00PM-2:15PM \
 **Course Office Hours:**  Monday and Wednesday 2:30PM-3:30PM  or by appointment \
 **Email:** Camilo.granados@utdallas.edu \
-**Website:** <a href="https://cagranados.github.io/files/intfinfall22/IntFinanceFall22_syllabus"><u>https://cagranados.github.io/intfin4382.html</u></a> 
+**Website:** <a href="https://cagranados.github.io/intfin4382.html"><u>https://cagranados.github.io/intfin4382.html</u></a> 
 
 
 ### Course Description
@@ -15,7 +15,7 @@ This course explores the functioning of the international financial system. For 
 As we will see, these topics are not independent of the governments and policy decision making. Thus, we also cover the determination of exchange rate regimes, international financial regulations, and even international monetary theory, among others. Finally, some emphasis is put on the financial and trade interlinks between economies that are integrated to the global financial market and how these will imply that the economic outcomes between countries are interrelated too.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/intfinfall22/IntFinanceFall22_syllabus"><u>[pdf]</u></a>
+### Syllabus:  <a href="https://cagranados.github.io/files/intfinfall22/IntFinanceFall22_syllabus.pdf"><u>[pdf]</u></a>
 
 
 ### Outline:
