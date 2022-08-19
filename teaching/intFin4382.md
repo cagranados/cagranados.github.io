@@ -9,7 +9,7 @@ Fall 2022
 
 **Email:** Camilo.granados@utdallas.edu
 
-**Website:** https://cagranados.github.io/teaching.html
+**Website:** https://cagranados.github.io/teaching/intFin4382.html
 
 
 ### Course Description
@@ -37,20 +37,31 @@ Part I. EXCHANGE RATES (FT CHAPTERS 12-15)
 •	Impossible Trinity of International Economics or Mundellian Trilemma
 
 Part II. BALANCE OF PAYMENTS (FT CHAPTERS 16-18)
+
 •	Open-Economy national income accounting
+
 •	Current account, unbalanced trade, and national wealth
+
 •	International Assets: Borrowing and Lending
+
 •	Intertemporal consumption smoothing
 
 Part III. APPLICATIONS OF THE THEORIES AND ECONOMIC POLICY (FT CHAPTERS 19-21)
+
 •	Exchange Rate Regimes
+
 •	History of the Exchange Rates
+
 •	International Crises
+
 •	The Eurozone
 
 Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
+
 •	The Global Financial Crisis and its impact on global markets
+
 •	The COVID crisis 
+
 •	Other selected topics
 
 
