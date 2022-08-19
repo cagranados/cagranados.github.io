@@ -9,7 +9,7 @@ Fall 2022
 
 **Email:** Camilo.granados@utdallas.edu
 
-**Website:** https://cagranados.github.io/intFin4382.html
+**Website:** https://cagranados.github.io/intfin4382.html
 
 
 ### Course Description
