@@ -7,9 +7,7 @@
 </html>  
 
 
-![logo](/files/BusCasProfPicCG.jpg "logo")
-
-<img src="/files/BusCasProfPicCG.jpg" alt="pic logo" style="height: 100px; width:100px;"/>
+<img src="/files/BusCasProfPicCG.jpg" alt="pic logo" style="height: 100px; width:120px;"/>
 
 
 ## Welcome
