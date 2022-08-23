@@ -20,7 +20,7 @@ My current research explores the international dimension of macroprudential regu
 
 
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
-#### <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
+#### <a href="https://cagranados.github.io/GranadosCV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
 
 **References:**
 Professor <a href="http://faculty.washington.edu/yuchin/wordpress/" target="_blank">Yu-chin Chen</a> (advisor), Professor <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> (advisor), Professor <a href="http://faculty.washington.edu/ghiro/" target="_blank">Fabio Ghironi</a> (committee member).
