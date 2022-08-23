@@ -1,6 +1,6 @@
 ## **Camilo Granados**
 
-#### CV in PDF format <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">(Link)</a>
+#### CV in PDF format <a href="https://cagranados.github.io/GranadosCV.pdf" target="_blank">(Link)</a>
 
 [Email 1: cagranados8@gmail.com](mailto:cagranados8@gmail.com) \
 [Email 2: camilo.granados@utdallas.edu](mailto:camilo.granados@utdallas.edu)
