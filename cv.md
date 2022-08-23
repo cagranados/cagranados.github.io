@@ -3,7 +3,7 @@
 #### CV in PDF format <a href="https://cagranados.github.io/Granados_CV.pdf" target="_blank">(Link)</a>
 
 [Email 1: cagranados8@gmail.com](mailto:cagranados8@gmail.com) \
-[Email 2: jcgc@uw.edu](mailto:jcgc@uw.edu)
+[Email 2: camilo.granados@utdallas.edu](mailto:camilo.granados@utdallas.edu)
 
 ### EDUCATION
 
@@ -89,7 +89,10 @@ I study whether emerging economies can navigate the global financial cycle more 
 
 ### EXPERIENCE
 
-**Banco de la República** (Central Bank of Colombia) July 2009–Present \
+**The University of Texas at Dallas**, Richardson, TX, USA. August 2022 - Present \
+Assistant Professor of Economics
+
+**Banco de la República** (Central Bank of Colombia) July 2009–June 2022 \
 Junior Researcher, Dept. of Macroeconomic Modeling, July 2021 – Present \
 Economist (*on study leave for Ph.D. studies*), August 2015–June 2021 \
 Economist, Department of Inflation, September 2012–July 2021 \
