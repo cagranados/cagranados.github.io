@@ -7,7 +7,7 @@
 </html>  
 
 
-<img src="/files/BusCasProfPicCG.jpg" alt="pic logo" style="height: 100px; width:120px;"/>
+<img src="/files/BusCasProfPicCG.jpg" alt="pic logo" style="height: 120px; width:100px;"/>
 
 
 ## Welcome
