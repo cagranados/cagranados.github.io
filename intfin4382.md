@@ -53,6 +53,9 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
+**Now:** L2 (Lecture 2) - Part 1: Arbitrage, CIP and UIP \
+**Next:** L3 - Part 1: The Exchange Rates in the Long Run: PPP
+
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 Lecture 2: <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER.pdf"><u>[Slides]</u></a> 
