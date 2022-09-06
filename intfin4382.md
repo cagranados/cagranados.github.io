@@ -48,13 +48,26 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 -	The COVID crisis 
 -	Other selected topics
 
+### Assignments, Exams and Deadlines
+
+**Problem set 1:** due date 9/19 <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 2:** (tentative) due date 10/15 \
+**Problem set 3:** (tentative) due date 10/24 \
+**Problem set 4:** (tentative) due date 11/9 \
+**Problem set 5:** (tentative) due date 11/28
+
+**Midterm 1:** 10/5 \
+**Midterm 2:** 11/9 \
+**Final exam:** Wednesday 12/14 2:00 PM (GR. 3.606)
+
+
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L2 (Lecture 2) - Part 1: Arbitrage, CIP and UIP (Aug 29) \
-**Next:** L3 - Part 1: The Exchange Rates in the Long Run: PPP
+**Now:** L3 - Part 1: The Exchange Rates in the Long Run: PPP \
+**Next:** L4 - Part 1: The Exchange Rates in the Short Run
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
@@ -63,3 +76,5 @@ Lecture 2: <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER.
 
 Lecture 3: <a href="https://cagranados.github.io/files/intfinfall22/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L1_part2_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+
+
