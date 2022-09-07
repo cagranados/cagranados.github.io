@@ -75,6 +75,6 @@ Lecture 2: <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER.
 <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 Lecture 3: <a href="https://cagranados.github.io/files/intfinfall22/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L1_part2_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<a href="https://cagranados.github.io/files/intfinfall22/L3_part1_ERLongRun_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 
