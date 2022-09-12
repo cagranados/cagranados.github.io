@@ -51,12 +51,12 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Assignments, Exams and Deadlines
 
 **Problem set 1:** due date 9/19 <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 2:** due date 10/15 <a href="https://cagranados.github.io/files/intfinfall22/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 2:** due date 10/5 <a href="https://cagranados.github.io/files/intfinfall22/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 3:** (tentative) due date 10/24 \
 **Problem set 4:** (tentative) due date 11/9 \
 **Problem set 5:** (tentative) due date 11/28
 
-**Midterm 1:** 10/5 \
+**Midterm 1:** 10/10 \
 **Midterm 2:** 11/9 \
 **Final exam:** Wednesday 12/14 2:00 PM (GR. 3.606)
 
