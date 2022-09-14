@@ -33,7 +33,7 @@ Part II. BALANCE OF PAYMENTS (FT CHAPTERS 16-18)
 -	Open-Economy national income accounting
 -	Current account, unbalanced trade, and national wealth
 -	International Assets: Borrowing and Lending
--	Intertemporal consumption smoothing
+-	Intertemporal budget constraint and consumption smoothing
 
 Part III. APPLICATIONS OF THE THEORIES AND ECONOMIC POLICY (FT CHAPTERS 19-21)
 
