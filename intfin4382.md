@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L3 - Part 1: The Exchange Rates in the Long Run: PPP \
-**Next:** L4 - Part 1: The Exchange Rates in the Short Run
+**Now:** L4 - Part 1: The Exchange Rates in the Short Run \
+**Next:** Part 2 Lectures - Balance of Payments
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
