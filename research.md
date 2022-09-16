@@ -73,7 +73,6 @@
 <h1><a id="recent-papers-updated" class="anchor" href="#workingpapers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Working Papers</h1>
 <p style="margin:0"> 
 <a style="margin:0; font-size:100%; font-weight:bold" href="files/papers/DynCoop.pdf">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? </a>  
-(Job Market Paper)
 <br><button class="accordion">
       Abstract
     </button>
