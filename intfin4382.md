@@ -1,4 +1,4 @@
-## Economics 4382: International Finance
+## Economics 4382: International Finance (UTD)
 ### Fall 2022
 
 **Instructor:** Camilo Granados \
