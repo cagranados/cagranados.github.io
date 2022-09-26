@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L4 - Part 1: The Exchange Rates in the Short Run \
-**Next:** Part 2 Lectures - Balance of Payments
+**Now:** L5 - Part 2: NIPAs and the Balance of Payments \
+**Next:** L6 - Part 2: Long-run budget constraint and the gains from financial globalization
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
@@ -81,7 +81,7 @@ Lecture 4: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERS
 <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 Lecture 5: <a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 <!-- Lecture 6: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
