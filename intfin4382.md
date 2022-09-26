@@ -80,8 +80,8 @@ Lecture 3: <a href="https://cagranados.github.io/files/intfinfall22/L3_part1_ERL
 Lecture 4: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
 <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
-<!-- Lecture 5: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Lecture 5: <a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP.pdf"><u>[Slides]</u></a>
+<!-- <a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 <!-- Lecture 6: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
