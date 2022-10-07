@@ -57,7 +57,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 5:** (tentative) due date 11/28
 
 **Midterm 1:** 10/10 \
-**Midterm 2:** 11/9 \
+**Midterm 2:** 11/14 \
 **Final exam:** Wednesday 12/14 2:00 PM (GR. 3.606)
 
 
