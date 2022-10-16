@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L5 - Part 2: NIPAs and the Balance of Payments \
-**Next:** L6 - Part 2: Long-run budget constraint and the gains from financial globalization
+**Now:** L6: Long-run budget constraint and the gains from financial globalization (consumption smoothing) \
+**Next:** L6 (cont.): gains from financial globalization, investment efficiency and risk diversification)
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
@@ -87,4 +87,13 @@ Lecture 6: <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRB
 <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 <!-- Lecture 7: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
+<!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+
+<!-- Lecture 8: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
+<!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+
+<!-- Lecture 9: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
+<!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+
+<!-- Lecture 10: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
