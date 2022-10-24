@@ -86,8 +86,8 @@ Lecture 5: <a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP
 Lecture 6: <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
-Lecture 7: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Lecture 7: <a href="https://cagranados.github.io/files/intfinfall22/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
+<!-- <a href="https://cagranados.github.io/files/intfinfall22/L7_part2_OpenEcPolicySR_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 <!-- Lecture 8: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
