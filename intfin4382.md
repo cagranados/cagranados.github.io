@@ -52,7 +52,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 **Problem set 1:** due date 9/19 <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
 **Problem set 2:** due date 10/5 <a href="https://cagranados.github.io/files/intfinfall22/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 3:** due date 10/24 <a href="https://cagranados.github.io/files/intfinfall22/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 10/24 <a href="https://cagranados.github.io/files/intfinfall22/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 4:** (tentative) due date 11/9 <a href="https://cagranados.github.io/files/intfinfall22/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** (tentative) due date 11/28
 
@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L6: Long-run budget constraint and the gains from financial globalization (consumption smoothing) \
-**Next:** L6 (cont.): gains from financial globalization, investment efficiency and risk diversification)
+**Now:** L6 (cont.): gains from financial globalization, investment efficiency and risk diversification) \
+**Next:** L7: Open Economy Macroeconomic Policy in the Short Run
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
