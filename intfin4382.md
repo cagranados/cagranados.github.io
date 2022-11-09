@@ -89,7 +89,7 @@ Lecture 6: <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRB
 Lecture 7: <a href="https://cagranados.github.io/files/intfinfall22/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
 <a href="https://cagranados.github.io/files/intfinfall22/L7_part2_OpenEcPolicySR_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
-Lecture 8: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a>
+Lecture 8: <a href="https://cagranados.github.io/files/intfinfall22/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 <!-- Lecture 9: <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> -->
