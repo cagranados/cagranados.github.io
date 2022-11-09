@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L6 (cont.): gains from financial globalization, investment efficiency and risk diversification) \
-**Next:** L7: Open Economy Macroeconomic Policy in the Short Run
+**Now:** L7: Open Economy Macroeconomic Policy in the Short Run (Exam covers until here) \
+**Next:** Part 3 - L8: Fixed vs. Floating Exchabge Rate Regimes
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
