@@ -26,7 +26,7 @@ My current research explores the international dimension of macroprudential regu
 #### <a href="https://cagranados.github.io/GranadosCV.pdf" target="_blank">Curriculum Vitae (PDF)</a>
 
 **References:**
-Professor <a href="http://faculty.washington.edu/yuchin/wordpress/" target="_blank">Yu-chin Chen</a> (advisor), Professor <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a> (advisor), Professor <a href="http://faculty.washington.edu/ghiro/" target="_blank">Fabio Ghironi</a> (committee member).
+Professor <a href="http://faculty.washington.edu/yuchin/wordpress/" target="_blank">Yu-chin Chen</a>, Professor <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank">Ippei Fujiwara</a>, Professor <a href="http://faculty.washington.edu/ghiro/" target="_blank">Fabio Ghironi</a>.
 
 
 <font color="scarlet"><i><small>&bull; Click title to see abstract.</small></i></font> 
@@ -48,7 +48,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 -->
 
  <details>
-  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> <span style="color:black"> <b>(job market paper)</b> </span> </summary>
+  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> <span style="color:black"> <b></b> </span> </summary>
   
     
   | **Abstract**          |
