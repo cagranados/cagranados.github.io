@@ -57,7 +57,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 5:** due date 11/30 <a href="https://cagranados.github.io/files/intfinfall22/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 10/10 <a href="https://cagranados.github.io/files/intfinfall22/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 11/14 \
+**Midterm 2:** 11/14 <a href="https://cagranados.github.io/files/intfinfall22/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** Wednesday 12/14 2:00 PM (GR. 3.606)
 
 
