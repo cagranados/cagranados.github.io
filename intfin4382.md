@@ -35,12 +35,12 @@ Part II. BALANCE OF PAYMENTS (FT CHAPTERS 16-18)
 -	International Assets: Borrowing and Lending
 -	Intertemporal budget constraint and consumption smoothing
 
-Part III. APPLICATIONS OF THE THEORIES AND ECONOMIC POLICY (FT CHAPTERS 19-21)
+Part III. APPLICATIONS OF THE THEORIES AND ECONOMIC POLICY (FT CHAPTERS 19-20)
 
 - Exchange Rate Regimes
+- Exchange Rate Systems
 -	History of the Exchange Rates
 -	International Crises
--	The Eurozone
 
 Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L7: Open Economy Macroeconomic Policy in the Short Run (Exam covers until here) \
-**Next:** Part 3 - L8: Fixed vs. Floating Exchabge Rate Regimes
+**Now:** L8: Fixed vs. Floating Exchabge Rate Regimes \
+**Next:** Exchange Rate Systems and the Gold Standard
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
