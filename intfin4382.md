@@ -93,7 +93,7 @@ Lecture 8: <a href="https://cagranados.github.io/files/intfinfall22/L8_part3_Fix
 <a href="https://cagranados.github.io/files/intfinfall22/L8_part3_FixedAndFloatingER_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 Lecture 9: <a href="https://cagranados.github.io/files/intfinfall22/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L9_part3_ERPegs_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<a href="https://cagranados.github.io/files/intfinfall22/L9_part3_ERPegs_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 <!-- Lecture 10: <a href="https://cagranados.github.io/files/intfinfall22/L10_part3_TheEuro.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L10_part3_TheEuro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
