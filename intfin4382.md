@@ -54,7 +54,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 2:** due date 10/5 <a href="https://cagranados.github.io/files/intfinfall22/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 10/24 <a href="https://cagranados.github.io/files/intfinfall22/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 4:** due date 11/9 <a href="https://cagranados.github.io/files/intfinfall22/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 5:** due date 11/30 <a href="https://cagranados.github.io/files/intfinfall22/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>
+**Problem set 5:** due date 11/30 <a href="https://cagranados.github.io/files/intfinfall22/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>
 
 **Midterm 1:** 10/10 <a href="https://cagranados.github.io/files/intfinfall22/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 11/14 <a href="https://cagranados.github.io/files/intfinfall22/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** L8: Fixed vs. Floating Exchabge Rate Regimes \
-**Next:** Exchange Rate Systems and the Gold Standard
+**Now:** L8: The Gold Standard and Exchange Rate Crises \
+**Next:** Optional presentations module
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
