@@ -129,6 +129,28 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
+   <details>
+  <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
+			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
+   </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We study the effectiveness of capital flow management measures (CFMs) in curbing the capital flows’ fluctuations in Emerging Market Economies (EMEs) caused by monetary policy shocks. In particular, we examine i) the extent to which CFMs mitigate the impact of US monetary shocks and ii) whether the mitigating effect differs between net capital flows and gross capital flows. Our results, based on a local projection panel estimation for the period 2000-2018, indicate that CFMs effectively reduce the fluctuations of both gross capital inflows and outflows when there are monetary policy shocks from the US. Our findings also show that the effect is greater when we check in gross flows rather than net. In contrast to the effects in gross flows, the mitigating effects on net flows are ambiguous in most specifications. </font> |
+  
+ </details>
+ 
+ ----
+ 
+   <details>
+  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) </font>
+   </summary>
+    
+  
+ </details>
+ 
+ ----
+ 
   <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>)
