@@ -3,7 +3,7 @@
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday and Wednesday 1:00PM-2:15PM \
-**Course Office Hours:**  Monday and Wednesday 2:30PM-3:30PM  or by appointment \
+**Course Office Hours:**  Monday and Wednesday 2:30PM-3:30PM or by appointment, GR 2.820 \
 **Email:** Camilo.granados@utdallas.edu \
 **Website:** <a href="https://cagranados.github.io/intfin4382.html"><u>https://cagranados.github.io/intfin4382.html</u></a> 
 
