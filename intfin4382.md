@@ -58,7 +58,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 **Midterm 1:** 10/10 <a href="https://cagranados.github.io/files/intfinfall22/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 11/14 <a href="https://cagranados.github.io/files/intfinfall22/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Final exam:** Wednesday 12/14 2:00 PM (GR. 3.606)
+**Final exam:** Wednesday 12/14 2:00 PM (GR. 3.606) <a href="https://cagranados.github.io/files/intfinfall22/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 
 
 
