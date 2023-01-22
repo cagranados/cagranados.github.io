@@ -3,7 +3,7 @@
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday 7:00-9:45 PM, CB 1.102 \
-**Course Office Hours:**  GR 2.820, Monday 6:00-7:00 PM, Tuesday 1:30-2:30 PM or by appointment (in person and on Teams)
+**Course Office Hours:**  GR 2.820, Monday 6:00-7:00 PM, Tuesday 1:30-2:30 PM or by appointment (in person and on Teams) \
 **Email:** Camilo.granados@utdallas.edu \
 **Website:** <a href="https://cagranados.github.io/msmacro.html"><u>https://cagranados.github.io/msmacro.html</u></a> 
 
@@ -64,12 +64,13 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Assignments, Exams and Deadlines
 
 
-**Problem set 0:** due date 1/30 <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
-**Problem set 1:** due date 2/13 <a href="https://cagranados.github.io/files/intfinfall22/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
-**Problem set 2:** due date 2/27 <a href="https://cagranados.github.io/files/intfinfall22/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 3:** due date 3/13 <a href="https://cagranados.github.io/files/intfinfall22/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 4:** due date 3/27 <a href="https://cagranados.github.io/files/intfinfall22/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 5:** due date 4/10 <a href="https://cagranados.github.io/files/intfinfall22/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>
+**Problem set 0:** due date 1/30 <a href="https://cagranados.github.io/files/msmacrospring23/PS0.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->  \
+**Problem set 1:** due date 2/13 <a href="https://cagranados.github.io/files/intfinfall22/PS1.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/data_ps1.xls"><u>[data loaded in Ans key]</u></a> -->
+<a href="https://cagranados.github.io/files/msmacrospring23/ps1q2_code.m"><u>[code_q2]</u></a> \
+**Problem set 2:** due date 2/27 <a href="https://cagranados.github.io/files/intfinfall22/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Problem set 3:** due date 3/13 <a href="https://cagranados.github.io/files/intfinfall22/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Problem set 4:** due date 3/27 <a href="https://cagranados.github.io/files/intfinfall22/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Problem set 5:** due date 4/10 <a href="https://cagranados.github.io/files/intfinfall22/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>
 
 **Midterm 1:** 10/10 <a href="https://cagranados.github.io/files/intfinfall22/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** Date and location TBA <a href="https://cagranados.github.io/files/intfinfall22/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> 
