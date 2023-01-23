@@ -75,7 +75,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 <a href="https://cagranados.github.io/files/msmacrospring23/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospring23/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 
-**Midterm 1:** 10/10 <!-- <a href="https://cagranados.github.io/files/intfinfall22/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 3/6 <!-- <a href="https://cagranados.github.io/files/intfinfall22/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** Date and location TBA <!-- <a href="https://cagranados.github.io/files/intfinfall22/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
 
