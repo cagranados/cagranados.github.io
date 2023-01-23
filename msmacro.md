@@ -13,7 +13,7 @@
 This course explores modern theories of macroeconomic fluctuations. The goal is to introduce students to the seminal frameworks of contemporary macroeconomics and equip them with relevant analytical and empirical techniques for understanding advanced macroeconomic analyses. The course will cover topics from the monetary theory of business cycles, monopolistic competition, dynamics of price adjustments, financial frictions, consumption theories and, through group projects, provide students opportunities to explore additional topics such as optimal monetary policy, dynamic stochastic general equilibrium (DSGE) analyses, COVID-19 or “lockdown” recession, and so on.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/intfinfall22/Econ5322sp23_syllabus.pdf"><u>[pdf]</u></a>
+### Syllabus:  <a href="https://cagranados.github.io/files/msmacrospring23/Econ5322sp23_syllabus.pdf"><u>[pdf]</u></a>
 
 
 ### Outline:
@@ -65,13 +65,13 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 
 
 **Problem set 0:** due date 1/30 <a href="https://cagranados.github.io/files/msmacrospring23/PS0.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->  \
-**Problem set 1:** due date 2/13 <a href="https://cagranados.github.io/files/intfinfall22/PS1.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/data_ps1.xls"><u>[data loaded in Ans key]</u></a> -->
+**Problem set 1:** due date 2/13 <a href="https://cagranados.github.io/files/msmacrospring23/PS1.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/data_ps1.xls"><u>[data loaded in Ans key]</u></a> -->
 <a href="https://cagranados.github.io/files/msmacrospring23/ps1q2_code.m"><u>[code_q2]</u></a> \
-**Problem set 2:** due date 2/27 <a href="https://cagranados.github.io/files/intfinfall22/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 3:** due date 3/13 <a href="https://cagranados.github.io/files/intfinfall22/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 4:** due date 3/27 <a href="https://cagranados.github.io/files/intfinfall22/PS4.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
+**Problem set 2:** due date 2/27 <a href="https://cagranados.github.io/files/msmacrospring23/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 3/13 <a href="https://cagranados.github.io/files/msmacrospring23/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 4:** due date 3/27 <a href="https://cagranados.github.io/files/msmacrospring23/PS4.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 <a href="https://cagranados.github.io/files/msmacrospring23/simpleDSGEexample.mod"><u>[dynare code]</u></a> \
-**Problem set 5:** due date 4/10 <a href="https://cagranados.github.io/files/intfinfall22/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Problem set 5:** due date 4/10 <a href="https://cagranados.github.io/files/msmacrospring23/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 <a href="https://cagranados.github.io/files/msmacrospring23/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospring23/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 
@@ -87,20 +87,20 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Now:** Topic 1 - Introduction and rational expectations \
 **Next:** Topic 2 - the Real Business Cycle model
 
-Topic 1: <a href="https://cagranados.github.io/files/intfinfall22/Topic1_Intro.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 2: <a href="https://cagranados.github.io/files/intfinfall22/Topic2_RBC.pdf"><u>[Slides]</u></a> 
+Topic 2: <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 3: <a href="https://cagranados.github.io/files/intfinfall22/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
+Topic 3: <a href="https://cagranados.github.io/files/msmacrospring23/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L3_part1_ERLongRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 4: <a href="https://cagranados.github.io/files/intfinfall22/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
+Topic 4: <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> --> 
 
-Topic 5: <a href="https://cagranados.github.io/files/intfinfall22/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
+Topic 5: <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 6: <a href="https://cagranados.github.io/files/intfinfall22/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
+Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
