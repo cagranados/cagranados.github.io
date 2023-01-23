@@ -13,7 +13,7 @@
 This course explores modern theories of macroeconomic fluctuations. The goal is to introduce students to the seminal frameworks of contemporary macroeconomics and equip them with relevant analytical and empirical techniques for understanding advanced macroeconomic analyses. The course will cover topics from the monetary theory of business cycles, monopolistic competition, dynamics of price adjustments, financial frictions, consumption theories and, through group projects, provide students opportunities to explore additional topics such as optimal monetary policy, dynamic stochastic general equilibrium (DSGE) analyses, COVID-19 or “lockdown” recession, and so on.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/msmacrospring23/Econ5322sp23_syllabus.pdf"><u>[pdf]</u></a>
+### Syllabus:  <a href="https://cagranados.github.io/files/msmacrospring23/Econ5322sp23-syllabus.pdf"><u>[pdf]</u></a>
 
 
 ### Outline:
