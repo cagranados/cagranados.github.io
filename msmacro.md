@@ -106,10 +106,10 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 
-**Technical slides:** these slides cover technical details about some of the topics above and instructions about the software we use (MATLAB and Dynare)
+**Technical slides:** these slides cover technical details about some of the topics above and software instructions (MATLAB and Dynare)
 
-Technical slides 1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides.pdf"><u>[Slides]</u></a>
+1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides.pdf"><u>[Slides]</u></a>
 
-Technical slides 2: Constrained optimization refresher and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a>
+2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a>
 
-Technical slides 3: Introduction to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a>
+3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a>
