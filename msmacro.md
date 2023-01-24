@@ -87,7 +87,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Now:** Topic 1 - Introduction and rational expectations \
 **Next:** Topic 2 - the Real Business Cycle model
 
-Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall22/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Slides]</u></a>
 
 Topic 2: <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
@@ -104,3 +104,11 @@ Topic 5: <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_Mone
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
+
+**Technical slides:** these slides cover technical details about some of the topics above and instructions about the software we use (MATLAB and Dynare)
+
+Technical slides 1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides.pdf"><u>[Slides]</u></a>
+
+Technical slides 2: Constrained optimization refresher and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a>
+
+Technical slides 3: Introduction to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a>
