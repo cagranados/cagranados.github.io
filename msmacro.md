@@ -66,7 +66,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 
 **Problem set 0:** due date 1/30 <a href="https://cagranados.github.io/files/msmacrospring23/PS0.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->  \
 **Problem set 1:** due date 2/13 <a href="https://cagranados.github.io/files/msmacrospring23/PS1.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/data_ps1.xls"><u>[data loaded in Ans key]</u></a> -->
-<a href="https://cagranados.github.io/files/msmacrospring23/ps1q2_code.m"><u>[code_q2]</u></a> \
+<a href="https://cagranados.github.io/files/msmacrospring23/ps1q2_code.m"><u>[code_q2]</u></a> 
+<a href="https://cagranados.github.io/files/msmacrospring23/hpfilter.m"><u>[hpfilter.m]</u></a>\
 **Problem set 2:** due date 2/27 <a href="https://cagranados.github.io/files/msmacrospring23/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 3:** due date 3/13 <a href="https://cagranados.github.io/files/msmacrospring23/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 4:** due date 3/27 <a href="https://cagranados.github.io/files/msmacrospring23/PS4.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
@@ -87,7 +88,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Now:** Topic 1 - Introduction and rational expectations \
 **Next:** Topic 2 - the Real Business Cycle model
 
-Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Slides]</u></a>
+Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 Topic 2: <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
