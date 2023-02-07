@@ -108,7 +108,7 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 
 **Technical slides:** these slides cover technical details about some of the topics above and software instructions (MATLAB and Dynare)
 
-1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides.pdf"><u>[Slides]</u></a>
+1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides from previous course]</u></a>
 
 2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a>
 
