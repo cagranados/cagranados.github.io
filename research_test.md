@@ -57,7 +57,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
-   <details>
+ <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
     (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
   </summary>
@@ -86,7 +86,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
-  <details>
+ <details>
   <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
    </summary>
     
@@ -99,10 +99,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
-   <details>
+ <details>
   <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
 			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
-   </summary>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -112,16 +112,16 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
-   <details>
+ <details>
   <summary markdown="span"><font color="blue">Estimating Potential Output After Covid (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) </font>
-   </summary>
+  </summary>
     
   
  </details>
  
  ----
  
-  <details>
+ <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>)
   </summary>
@@ -129,9 +129,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  
- ----
+
  
- <hr>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
    
 <br>
 <b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
