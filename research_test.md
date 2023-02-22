@@ -129,10 +129,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  
+<hr>
 
- 
-<hr style="height:2px;border-width:0;color:black;background-color:black">
-
+   
    
 <br>
 <b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
