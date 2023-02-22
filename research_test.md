@@ -130,3 +130,24 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  
  ----
+ 
+ <hr>
+   
+<br>
+<b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
+<br>
+<br>
+
+<h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D. Research</h3>
+<p style="margin:0">
+Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
+<br>
+<br>Arteaga, C., Granados, J., and Ojeda, J., (2013). Are the Real Exchange Rate Dynamics Explained by its Fundamentals? (in spanish), <it> Ensayos Sobre Política Económica (ESPE) </it>, vol. 31, No. 72, December. 
+<br>
+<br> Arteaga, C., Granados, J., and Ojeda, J., (2013). On the Determinants of Commodity Prices (in spanish), <it> Ensayos Sobre Politica Economica (ESPE) </it>, vol. 31, No. 71, December.
+<br>
+<br> Melo, L., and Granados, J. (2012). Inflation Expectations and Risk Premium Under an Inflation Compensation Method (in spanish), <it> El Trimestre Económico </it>, vol. 79, No. 316,
+Fondo de Cultura Economica. México. October - December.
+<br>
+<br> Melo, L., and Granados, J. (2011). Financial Regulation and Value at Risk (in spanish), <it>Ensayos Sobre Política Económica (ESPE) </it>, vol. 29, No. 64.
+</p>
