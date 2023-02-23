@@ -47,7 +47,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 -->
 
- <details>
+<details>
   <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> <span style="color:black"> <b></b> </span> </summary>
   
     
@@ -63,7 +63,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
  ----
  
- <details>
+<details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
     
   | **Abstract**          |
@@ -75,7 +75,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
- <details>
+<details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font></summary>
     
   | **Abstract**          |
@@ -87,7 +87,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
-   <details>
+<details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
     (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
   </summary>
@@ -96,29 +96,29 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   |:---------------------------|
   | <font color="black">In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities.  We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of seven Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. We find the exchange and implied exchange rate are cointegrated for most of the set of Latin American countries. For cointegrated series, the implied exchange rate always adjusts to restore the long run relationship while the exchange rate adjusts for only half of the cointegrated series. This empirical finding indicates that the exchange rate is the dominant series and that central bank debt matters for understanding exchange rate dynamics.</font> |
   
- </details>
- <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper]</u></a>
+</details>
+<a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper]</u></a>
   
  ----
  
 <br> 
 ### Work in Progress
 
- <details>
+<details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
     
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">In order to determine the presence of volatility spillovers among macroeconomic variables a Vector Autorregresive (VAR) model with multivariate heteroskedasticity effects is carried out for five countries in Latin America. The variables considered are real activity, price level, interest rate, and exchange rate. The results indicate that there are few within country volatility spillovers. Those that are significant are usually sizable and point to the relevance of international shocks in spreading volatility to other countries rather than local effects. Finally, we obtain that the volatility of inflation is not generally affected by the uncertainty shocks in the exchange rate, this result is noticeable as the price instability effects of the exchange rate fluctuations is usually the justification behind exchange rate intervention programs in these economies.</font> |
   
- </details>
+</details>
  <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper]</u></a>
  
  ----
  
-  <details>
+ <details>
   <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
-   </summary>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -129,10 +129,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
-   <details>
+  <details>
   <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
 			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
-   </summary>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -142,16 +142,16 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
  
-   <details>
+ <details>
   <summary markdown="span"><font color="blue">Estimating Potential Output After Covid (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) </font>
-   </summary>
+  </summary>
     
   
  </details>
  
  ----
  
-  <details>
+ <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>)
   </summary>
