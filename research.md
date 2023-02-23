@@ -100,7 +100,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
  
  <details>
-  <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
+  <summary markdown="span"><font color="blue">Capital Flow Management Measures and Monetary
 			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
   </summary>
     
