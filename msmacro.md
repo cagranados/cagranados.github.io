@@ -90,19 +90,19 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
-Topic 2: <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> 
+Topic 2: <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 Topic 3: <a href="https://cagranados.github.io/files/msmacrospring23/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L3_part1_ERLongRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic3_InfoFrictionsAndNominalRigidities_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 4: <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> --> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> --> 
 
 Topic 5: <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L5_part2_BOP_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinfall22/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFriction_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 
 **Technical slides:** these slides cover technical details about some of the topics above and software instructions (MATLAB and Dynare)
