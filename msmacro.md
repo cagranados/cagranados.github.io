@@ -90,7 +90,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
-Topic 2: <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/L2_part1_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> 
+Topic 2: <a href="https://cagranados.github.io/files/msmacrospring23/Topic2_RBC.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 Topic 3: <a href="https://cagranados.github.io/files/msmacrospring23/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinfall22/L3_part1_ERLongRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
