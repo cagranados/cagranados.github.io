@@ -1,4 +1,4 @@
-{::options parse_block_html="true" /}
+
 
 <font color="scarlet"><i><small>&bull; Click title to see abstract.</small></i></font> 
 ### Working Papers
