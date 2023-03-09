@@ -85,8 +85,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Topic 1 - Introduction and rational expectations \
-**Next:** Topic 2 - the Real Business Cycle model
+**Now:** Topic 3 - Monetary Theories of the Business Cycle and Nominal Rigidities \
+**Next:** Topic 4 - Consumption and Aggregate Demand \
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
