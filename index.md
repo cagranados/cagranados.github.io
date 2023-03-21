@@ -101,8 +101,38 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  ----
  
+
+<details>
+  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) </font>
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This study examines whether and how important it is to adjust output gap frameworks during the COVID-19 pandemic and similar unprecedentedly large-scale episodes. Our proposed modelling framework comprises a Bayesian Structural Vector Autoregressions with an identification setup based on a permanent-transitory decomposition that exploits the long-run relationship of consumption with output and whose residuals are scaled up around the COVID-19 period. Our results indicate that (i) a single structural error is sufficient to explain the permanent component of the gross domestic product (GDP); (ii) the adjusted method allows for the incorporation of the COVID-19 period without assuming sudden changes in the modelling setup after the pandemic; and (iii) the proposed adjustment generates approximation improvements relative to standard filters or similar models with no adjustments or alternative ones, but where the specific rare observations are not known. Importantly, abstracting from any adjustment may lead to over- or underestimating the gap, too-quick gap recoveries after downturns, or too-large volatility around the median potential output estimations.</font> |
+    
+  
+</details>
+ <a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Paper]</u></a>
+  
+ 
+ ----
+ 
 <br> 
 ### Work in Progress
+
+----
+ 
+<details>
+  <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
+			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We study the effectiveness of capital flow management measures (CFMs) in curbing the capital flows’ fluctuations in Emerging Market Economies (EMEs) caused by monetary policy shocks. In particular, we examine i) the extent to which CFMs mitigate the impact of US monetary shocks, and ii) whether the mitigating effect differs between net capital flows and gross capital flows. Our results, based on local projection panel estimations for the period 2000-2018, indicate that CFMs effectively reduce the fluctuations of both gross capital inflows and outflows when there are monetary policy shocks from the US. Our findings also show that the effect in gross flows is greater than in net flows. In contrast to the effects in gross flows, the mitigating effects on net flows are ambiguous in most specifications. </font> |
+  
+</details>
+<a href="https://cagranados.github.io/files/papers/KG_CFM_MP_v2.0.pdf"><u>[Paper]</u></a>
 
 <details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
@@ -126,28 +156,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
- 
- ----
- 
-  <details>
-  <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
-			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">We study the effectiveness of capital flow management measures (CFMs) in curbing the capital flows’ fluctuations in Emerging Market Economies (EMEs) caused by monetary policy shocks. In particular, we examine i) the extent to which CFMs mitigate the impact of US monetary shocks and ii) whether the mitigating effect differs between net capital flows and gross capital flows. Our results, based on a local projection panel estimation for the period 2000-2018, indicate that CFMs effectively reduce the fluctuations of both gross capital inflows and outflows when there are monetary policy shocks from the US. Our findings also show that the effect is greater when we check in gross flows rather than net. In contrast to the effects in gross flows, the mitigating effects on net flows are ambiguous in most specifications. </font> |
-  
- </details>
- 
- ----
- 
- <details>
-  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) </font>
-  </summary>
-    
-  
- </details>
  
  ----
  
