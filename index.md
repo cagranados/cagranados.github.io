@@ -134,6 +134,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
 <a href="https://cagranados.github.io/files/papers/KG_CFM_MP_v2.0.pdf"><u>[Paper]</u></a>
 
+----
+
 <details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
     
