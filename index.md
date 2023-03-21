@@ -103,7 +103,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
 
 <details>
-  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) </font>
+  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) 
   </summary>
 	
   | **Abstract**          |
