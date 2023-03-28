@@ -109,6 +109,6 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 
 1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides from previous course]</u></a>
 
-2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
+2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a>
