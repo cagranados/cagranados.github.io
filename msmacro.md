@@ -96,7 +96,7 @@ Topic 3: <a href="https://cagranados.github.io/files/msmacrospring23/Topic3_Info
 <a href="https://cagranados.github.io/files/msmacrospring23/Topic3_InfoFrictionsAndNominalRigidities_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
 Topic 4: <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> --> 
+ <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 Topic 5: <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
