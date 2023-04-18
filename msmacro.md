@@ -85,8 +85,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Topic 4 - Consumption and Aggregate Demand \
-**Next:** Topic 5 - The New Keynesian DSGE model
+**Now:** Topic 5 - The New Keynesian DSGE model \
+**Next:** Topic 6 - Financial Frictions and the Macroeconomy 
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
@@ -99,7 +99,7 @@ Topic 4: <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_Cons
  <a href="https://cagranados.github.io/files/msmacrospring23/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 Topic 5: <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+ <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFriction_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
@@ -111,4 +111,4 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 
 2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
-3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a>
+3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
