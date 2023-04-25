@@ -102,7 +102,7 @@ Topic 5: <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_Mone
  <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFriction_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFriction_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 
 **Technical slides:** these slides cover technical details about some of the topics above and software instructions (MATLAB and Dynare)
