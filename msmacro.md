@@ -85,8 +85,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Topic 5 - The New Keynesian DSGE model \
-**Next:** Topic 6 - Financial Frictions and the Macroeconomy 
+**Now:** Topic 6 - Financial Frictions and the Macroeconomy \
+**Next:** Groups presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span>
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
