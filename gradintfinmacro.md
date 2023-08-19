@@ -1,4 +1,4 @@
-## Economics 6356: International Finance and Macroeconomics (UTD)
+f## Economics 6356: International Finance and Macroeconomics (UTD)
 ### Fall 2023
 
 **Instructor:** Camilo Granados \
