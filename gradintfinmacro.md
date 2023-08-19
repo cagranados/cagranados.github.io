@@ -1,4 +1,4 @@
-f## Economics 6356: International Finance and Macroeconomics (UTD)
+### Economics 6356: International Finance and Macroeconomics (UTD)
 ### Fall 2023
 
 **Instructor:** Camilo Granados \
@@ -10,58 +10,47 @@ f## Economics 6356: International Finance and Macroeconomics (UTD)
 
 ### Course Description
 
-This course explores modern theories of macroeconomic fluctuations. The goal is to introduce students to the seminal frameworks of contemporary macroeconomics and equip them with relevant analytical and empirical techniques for understanding advanced macroeconomic analyses. The course will cover topics from the monetary theory of business cycles, monopolistic competition, dynamics of price adjustments, financial frictions, consumption theories and, through group projects, provide students opportunities to explore additional topics such as optimal monetary policy, dynamic stochastic general equilibrium (DSGE) analyses, COVID-19 or “lockdown” recession, and so on.
+This course explores modern topics in international finance and macroeconomics. The goal is to introduce the students to seminal research frameworks in the study of the international business cycles, the effect of policies in an open economy environment, as well as the determination of international prices and variables such as external borrowing, the exchange rate, and the terms of trade, among others.
+
+We will initially study models of small open economies with flexible prices, focusing on the changes the frameworks undergo to adjust them to an international setting where step by step, we will be adding layers of variables that become relevant once we abandon the closed economy setup. Then we will cover models with financial frictions and nominal rigidities, focusing on the optimal determination of the -monetary and financial- policy actions that can be applied in the presence of exogenous shocks. After this, we will extend the framework to that of large open economies and discuss the potential international spillovers that can be transmitted between economies.
+
+The course is designed as an advanced graduate class (Ph.D.) with a strong emphasis on developing research skills.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/msmacrospring23/Econ5322sp23_syllabus.pdf"><u>[pdf]</u></a> 
+### Syllabus:  <a href="https://cagranados.github.io/files/gradintfinmacrofall2023/Econ6356au23_syllabus.pdf"><u>[pdf]</u></a> 
 
 
 ### Outline:
 
-I. OVERVIEW AND INTRODUCTION
+1.	Introduction: International Business Cycles Facts 
 
-- Business Cycle Empirics
-- Aggregate Demand, Aggregate Supply
-- Rational Expectations and Micro-Foundations
+2.	A Small Open Economy Model: Endowments and Model with Capital
 
-II. THE REAL BUSINESS CYCLE. MODEL
+3.	A Small Open Economy Real Business Cycles Model and the Role of Financial Frictions in Emerging Markets
 
-- The frictionless model with efficient private outcomes
-- A first approximation to a solution of the model and policy simulations
+4.	The Terms of Trade and the Deviations from the Purchasing Power Parity
 
-III. MONETARY THEORIES OF THE BUSINESS CYCLE
+5.	Terms of Trade, Traded and Non-Tradable Goods, and The Real Exchange Rate
 
-- Information Friction Models
-- Nominal Rigidity Models & Dynamic Modeling of Price Adjustment
-- The micro-founded New Keynesian Phillips Curve and the Aggregate Supply
+6.	Nominal Rigidities, Exchange Rates, and Unemployment
 
-IV. CONSUMPTION AND AGGREGATE DEMAND
+7.	The International Real Business Cycles Model with Large Economies
 
-- Modern Consumption Models
-- Intertemporal consumption decisions, the Euler Equation, and the Aggregate Demand
-     
-V. MONETARY POLICY AND THE BASIC NEW KEYNESIAN MODEL
+8.	International Policy Links and Macroeconomic Interdependence
 
-- Monetary policy frameworks: instrument rules vs. target rules
-- Rules versus Discretion and Time Consistency of policy
-- Formulation of basic New Keynesian Model, features, limitations, and extensions
+9.	Exchange Rate Dynamics Determination
 
-VI. FINANCIAL FRICTIONS AND THE MACROECONOMY
+10.	Fixed Exchange Rates and Capital Controls
 
-- The effect of financial markets in the real macroeconomy
-- Amplification of monetary policy transmission mechanism and the external finance premium
-- Collateral prices, balance sheets effects, and the financial accelerator
+11.	Financial Frictions, Collateral Constraints, and Debt Dynamics
 
-VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
-(To be explored as much as time allows)
-
-- Solution methods in macroeconomics
-- Computational applications
-- Group presentations
+12.	Final Remarks: Puzzles in International Finance and Macroeconomics
 
 
 
 ### Assignments, Exams and Deadlines
+
+
 
 
 **Problem set 0:** due date 1/30 <a href="https://cagranados.github.io/files/msmacrospring23/PS0.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/PS0_AnswerKey.pdf"><u>[Answer Key]</u></a>  \
@@ -105,11 +94,10 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 
-**Technical slides:** these slides cover technical details about some of the topics above and software instructions (MATLAB and Dynare)
+**Other materials:** these other resources can be helpful in your studies for this class.
 
-1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides from previous course]</u></a>
+- Lecture Notes: some of the materials of this class have lecture notes available (see in Other materials on the website links)
+- Open Economies Macroeconomics Book (SGU2017): there is a dedicated website with resources for one the books we follow closely <a href="http://www.columbia.edu/~mu2166/book/"><u>[Link]</u>
+- A very complete self-study guide for an International Finance and Macroeconomics Ph.D. course by Charles Engel: <a href="https://users.ssc.wisc.edu/~cengel/Course-International-Macro-Finance.pdf"><u>[Link]</u>
 
-2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
-
-3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
 
