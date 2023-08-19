@@ -50,6 +50,16 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 ### Assignments, Exams and Deadlines
 
+Specific guidelines are discussed on the syllabus, here we list the dates and some examples (from similar past courses)
+
+**Workshop Presentation 1 (working paper):** due date 9/25-29 (a paper must be selected by 9/1)   \
+
+**Discussion presentation** due date 9/25-29 (based on one of the papers of the Workshop)   \
+
+**Workshop Presentation 2 (published article):** due date 11/10-13 (a paper must be selected by 10/23)   \
+
+**Article Technical Report:** due date 11/10-13: based on the article presented on the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleReport.pdf"><u>[Sample]</u></a>   \
+
 
 
 
