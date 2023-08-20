@@ -2,8 +2,9 @@
 
 <h2> University of Texas at Dallas </h2>
 
-- Macroeconomic Theory for Applications: Spr. 2023  <a href="https://cagranados.github.io/msmacro.html" ><u>[link]</u></a> 
-- International Finance: Fall 2022  <!-- <a href="https://cagranados.github.io/intfin4382.html" ><u>[link]</u></a> -->
+- International Finance and Macroeconomics (ECON 6356): Fall 2023 <a href="https://cagranados.github.io/gradintfinmacro.html" ><u>[link]</u></a> 
+- Macroeconomic Theory for Applications (ECON 5322): Spr. 2023  <!-- <a href="https://cagranados.github.io/msmacro.html" ><u>[link]</u></a> -->
+- International Finance (ECON 4382): Fall 2022  <!-- <a href="https://cagranados.github.io/intfin4382.html" ><u>[link]</u></a> -->
 
 <h2> University of Washington </h2>
 
