@@ -60,9 +60,9 @@ Specific guidelines are discussed on the syllabus; here we list the dates and so
 
 **Article Technical Report:** due date 11/10-13: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SamplePaperReport.pdf"><u>[Sample]</u></a>   
 
-**Final Research Proposal or Term Paper:** due date 12/6: You can submit one of either option \
-Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a> \  
-Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>\
+**Final Research Proposal OR Term Paper:** due date 12/6. \
+Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a>   
+Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>
 
 
 <!--  
@@ -91,7 +91,7 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 
 --> 
 
-**Other materials:** These extra resources can be helpful in your studies for this class.
+## **Other materials:** These extra resources can be helpful in your studies for this class.
 
 - Lecture Notes: some of the materials of this class have lecture notes available (see in Other materials on the website links)
 - Open Economies Macroeconomics Book (SGU2017): dedicated website with resources for one the books we follow closely <a href="http://www.columbia.edu/~mu2166/book/"><u>[Link]</u>
