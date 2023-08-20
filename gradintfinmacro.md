@@ -50,36 +50,22 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 ### Assignments, Exams and Deadlines
 
-Specific guidelines are discussed on the syllabus, here we list the dates and some examples (from similar past courses)
+Specific guidelines are discussed on the syllabus; here we list the dates and some examples (from similar past courses)
 
-**Workshop Presentation 1 (working paper):** due date 9/25-29 (a paper must be selected by 9/1)   \
+**Workshop Presentation 1 (working paper):** due date 9/25-29 (a paper must be selected by 9/1)   
 
-**Discussion presentation** due date 9/25-29 (based on one of the papers of the Workshop)   \
+**Discussion presentation** due date 9/25-29 (based on one of the papers of the Workshop)   
 
-**Workshop Presentation 2 (published article):** due date 11/10-13 (a paper must be selected by 10/23)   \
+**Workshop Presentation 2 (published article):** due date 11/10-13 (a paper must be selected by 10/23)   
 
-**Article Technical Report:** due date 11/10-13: based on the article presented on the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleReport.pdf"><u>[Sample]</u></a>   \
+**Article Technical Report:** due date 11/10-13: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SamplePaperReport.pdf"><u>[Sample]</u></a>   
 
-
-
-
-**Problem set 0:** due date 1/30 <a href="https://cagranados.github.io/files/msmacrospring23/PS0.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/PS0_AnswerKey.pdf"><u>[Answer Key]</u></a>  \
-**Problem set 1:** due date 2/13 <a href="https://cagranados.github.io/files/msmacrospring23/PS1.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/data_ps1.xlsx"><u>[data loaded in Ans key]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospring23/ps1q2_code.m"><u>[code_q2]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospring23/hpfilter.m"><u>[hpfilter.m]</u></a>\
-**Problem set 2:** due date 2/27 <a href="https://cagranados.github.io/files/msmacrospring23/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 3:** due date 3/29 <a href="https://cagranados.github.io/files/msmacrospring23/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 4:** due date 4/10 <a href="https://cagranados.github.io/files/msmacrospring23/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospring23/simpleDSGEexample.mod"><u>[dynare code]</u></a> \
-**Problem set 5:** due date 4/24 <a href="https://cagranados.github.io/files/msmacrospring23/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring23/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospring23/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
-<a href="https://cagranados.github.io/files/msmacrospring23/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
-
-**Midterm 1:** 3/6 <a href="https://cagranados.github.io/files/msmacrospring23/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Final exam:** 5/8 8PM  <a href="https://cagranados.github.io/files/msmacrospring23/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> 
+**Final Research Proposal or Term Paper:** due date 12/6: You can submit one of either option \
+Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a> \  
+Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>\
 
 
-
+<!--  
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
@@ -103,11 +89,12 @@ Topic 5: <a href="https://cagranados.github.io/files/msmacrospring23/Topic5_Mone
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
+--> 
 
-**Other materials:** these other resources can be helpful in your studies for this class.
+**Other materials:** These extra resources can be helpful in your studies for this class.
 
 - Lecture Notes: some of the materials of this class have lecture notes available (see in Other materials on the website links)
-- Open Economies Macroeconomics Book (SGU2017): there is a dedicated website with resources for one the books we follow closely <a href="http://www.columbia.edu/~mu2166/book/"><u>[Link]</u>
+- Open Economies Macroeconomics Book (SGU2017): dedicated website with resources for one the books we follow closely <a href="http://www.columbia.edu/~mu2166/book/"><u>[Link]</u>
 - A very complete self-study guide for an International Finance and Macroeconomics Ph.D. course by Charles Engel: <a href="https://users.ssc.wisc.edu/~cengel/Course-International-Macro-Finance.pdf"><u>[Link]</u>
 
 
