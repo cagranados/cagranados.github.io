@@ -54,7 +54,7 @@ Specific guidelines are discussed on the syllabus; here we list the dates and so
 
 **Workshop Presentation 1 (working paper):** due date 9/25-29 (a paper must be selected by 9/1)   
 
-**Discussion presentation** due date 9/25-29 (based on one of the papers of the Workshop)   
+**Discussion presentation** due date 9/25-29 (based on one of the papers of the Workshop 1)   
 
 **Workshop Presentation 2 (published article):** due date 11/10-13 (a paper must be selected by 10/23)   
 
