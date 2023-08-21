@@ -17,7 +17,7 @@ We will initially study models of small open economies with flexible prices, foc
 The course is designed as an advanced graduate class (Ph.D.) with a strong emphasis on developing research skills.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/gradintfinmacrofall2023/Econ6356au23_syllabus.pdf"><u>[pdf]</u></a> 
+### Syllabus: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/Econ6356au23_syllabus.pdf"><u>[pdf]</u></a> 
 
 
 ### Outline:
