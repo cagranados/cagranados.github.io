@@ -91,7 +91,8 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 
 --> 
 
-## **Other materials:** These extra resources can be helpful in your studies for this class.
+### Other materials: 
+These extra resources can be helpful in your studies for this class.
 
 - Lecture Notes: some of the materials of this class have lecture notes available (see in Other materials on the website links)
 - Open Economies Macroeconomics Book (SGU2017): dedicated website with resources for one the books we follow closely <a href="http://www.columbia.edu/~mu2166/book/"><u>[Link]</u>
