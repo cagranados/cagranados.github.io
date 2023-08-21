@@ -92,6 +92,7 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospring23/Topic6_Fina
 --> 
 
 ### Other materials: 
+
 These extra resources can be helpful in your studies for this class.
 
 - Lecture Notes: some of the materials of this class have lecture notes available (see in Other materials on the website links)
