@@ -23,29 +23,30 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 ### Outline:
 
 1.	Introduction: International Business Cycles Facts
-   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Annotated slides]</u></a> -->
+   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Annotated slides]</u></a>
 
 3.	A Small Open Economy Model: Endowments and Model with Capital
+   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2_slides_endowment.pdf"><u>[Slides-part1]</u></a> <!--<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Annotated slides-part1]</u></a> -->
 
-4.	A Small Open Economy Real Business Cycles Model and the Role of Financial Frictions in Emerging Markets
+5.	A Small Open Economy Real Business Cycles Model and the Role of Financial Frictions in Emerging Markets
 
-5.	The Terms of Trade and the Deviations from the Purchasing Power Parity
+6.	The Terms of Trade and the Deviations from the Purchasing Power Parity
 
-6.	Terms of Trade, Traded and Non-Tradable Goods, and The Real Exchange Rate
+7.	Terms of Trade, Traded and Non-Tradable Goods, and The Real Exchange Rate
 
-7.	Nominal Rigidities, Exchange Rates, and Unemployment
+8.	Nominal Rigidities, Exchange Rates, and Unemployment
 
-8.	The International Real Business Cycles Model with Large Economies
+9.	The International Real Business Cycles Model with Large Economies
 
-9.	International Policy Links and Macroeconomic Interdependence
+10.	International Policy Links and Macroeconomic Interdependence
 
-10.	Exchange Rate Dynamics Determination
+11.	Exchange Rate Dynamics Determination
 
-11.	Fixed Exchange Rates and Capital Controls
+12.	Fixed Exchange Rates and Capital Controls
 
-12.	Financial Frictions, Collateral Constraints, and Debt Dynamics
+13.	Financial Frictions, Collateral Constraints, and Debt Dynamics
 
-13.	Final Remarks: Puzzles in International Finance and Macroeconomics
+14.	Final Remarks: Puzzles in International Finance and Macroeconomics
 
 
 
