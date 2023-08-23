@@ -23,7 +23,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 ### Outline:
 
 1.	Introduction: International Business Cycles Facts
-   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Annotated slides]</u></a>
+   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics_wNotes.pdf"><u>[Annotated slides]</u></a>
 
 3.	A Small Open Economy Model: Endowments and Model with Capital
    <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2_slides_endowment.pdf"><u>[Slides-part1]</u></a> <!--<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Annotated slides-part1]</u></a>  -->
