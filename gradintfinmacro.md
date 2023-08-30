@@ -3,7 +3,7 @@
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday 11:30-12:45 PM, PHY 1.103 \
-**Course Office Hours:**  GR 2.820, Wednesday 2:00-3:00 PM or by appointment (in person and on Teams) \
+**Course Office Hours:**  GR 2.820, Wednesday 4:00-5:15 PM or by appointment (in person and on Teams) \
 **Email:** Camilo.granados@utdallas.edu \
 **Website:** <a href="https://cagranados.github.io/msmacro.html"><u>https://cagranados.github.io/gradintfinmacro.html</u></a> 
 
