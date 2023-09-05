@@ -100,6 +100,7 @@ These extra resources can be helpful in your studies for this class.
 - Lecture Notes: some of the materials of this class have lecture notes available (see in Other materials on the website links)
 - Open Economies Macroeconomics Book (SGU2017): dedicated website with resources for one the books we follow closely <a href="http://www.columbia.edu/~mu2166/book/"><u>[Link]</u>
 - A very complete self-study guide for an International Finance and Macroeconomics Ph.D. course by Charles Engel: <a href="https://users.ssc.wisc.edu/~cengel/Course-International-Macro-Finance.pdf"><u>[Link]</u>
+- Intro to local solution methods and Dynare (From my MS macro course)
 <!-- Intro to local solution methods and Dynare (From my MS macro course) <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> --> -->
 
 
