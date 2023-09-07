@@ -26,7 +26,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
    <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics_wNotes.pdf"><u>[Annotated slides]</u></a>
 
 3.	A Small Open Economy Model: Endowments and Model with Capital
-   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment.pdf"><u>[Slides-part1]</u></a> <!--<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment_wNotes.pdf"><u>[Annotated slides-part1]</u></a> --> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2b_slides_capital.pdf"><u>[Slides-part2]</u></a> 
+   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment.pdf"><u>[Slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment_wNotes.pdf"><u>[Annotated slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2b_slides_capital.pdf"><u>[Slides-part2]</u></a> 
 
 
 6.	The Terms of Trade and the Deviations from the Purchasing Power Parity
