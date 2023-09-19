@@ -25,27 +25,32 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 1.	Introduction: International Business Cycles Facts
    <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L1_slides_empirics_wNotes.pdf"><u>[Annotated slides]</u></a>
 
-3.	A Small Open Economy Model: Endowments and Model with Capital
-   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment.pdf"><u>[Slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment_wNotes.pdf"><u>[Annotated slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2b_slides_capital.pdf"><u>[Slides-part2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2b_slides_capital_wNotes.pdf"><u>[Annotated Slides-part2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/mend_91.mod"><u>[Mendoza91 Dynare]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/Main_Mend.m"><u>[Mendoza91 Matlab]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/handout_SOE_RBC.pdf"><u>[Mendoza91 handout]</u></a> 
+2.	Small Open Economy Models: Endowments and Model with Capital
+   <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment.pdf"><u>[Slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment_wNotes.pdf"><u>[Annotated slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2b_slides_capital.pdf"><u>[Slides-part2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2b_slides_capital_wNotes.pdf"><u>[Annotated Slides-part2]</u></a> 
 
+3. The SOE-RBC model: Exploring exogenous shocks as economic drivers
+<!-- Setup (OEM Ch4), Business Cyc in EMEs: Financial Frictions (OEM Ch5) and Interest Rate Shocks (OEM Ch6) -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/mend_91.mod"><u>[Mendoza91 Dynare]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/Main_Mend.m"><u>[Mendoza91 Matlab]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/handout_SOE_RBC.pdf"><u>[Mendoza91 handout]</u></a> 
 
-6.	The Terms of Trade and the Deviations from the Purchasing Power Parity
+4. The Terms of Trade, Purchasing Power Parity, and the Real Exchange Rate
+<!-- PPP sources of deviations, Importable and Exportable Goods (OEM Ch7), TOT and NT Goods (OEM Ch8) -->
 
-7.	Terms of Trade, Traded and Non-Tradable Goods, and The Real Exchange Rate
+5. Nominal Rigidities in Open Economies
+<!-- OEM Ch9 -->
 
-8.	Nominal Rigidities, Exchange Rates, and Unemployment
+6. International RBC model: Large Open Economy setup
+<!-- Simple approach w/o Nom. Rigidities and derivation of UIP (OR1996 book), Model with nom. rigidities (OR1995JPE) -->
 
-9.	The International Real Business Cycles Model with Large Economies
+7. International Policy Links and Macroeconomic Interdependence
+<!-- CP2001, LCP: BD2000 and CKM2002, BB2008 -->
 
-10.	International Policy Links and Macroeconomic Interdependence
+8. Exchange Rate Dynamics Determination
+<!-- (BB2008) -->
 
-11.	Exchange Rate Dynamics Determination
+9. The Global Financial Cycle
+<!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
 
-12.	Fixed Exchange Rates and Capital Controls
-
-13.	Financial Frictions, Collateral Constraints, and Debt Dynamics
-
-14.	Final Remarks: Puzzles in International Finance and Macroeconomics
+10. Other Topics: Sovereign Default and Puzzles in International Finance
 
 
 
