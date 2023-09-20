@@ -30,6 +30,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 3. The SOE-RBC model: Exploring exogenous shocks as economic drivers
 <!-- Setup (OEM Ch4), Business Cyc in EMEs: Financial Frictions (OEM Ch5) and Interest Rate Shocks (OEM Ch6) -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L3a_slides_soe_rbc.pdf"><u>[Slides-part1]</u></a> <!-- <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L2a_slides_endowment_wNotes.pdf"><u>[Annotated slides-part1]</u></a> -->
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/mend_91.mod"><u>[Mendoza91 Dynare]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/Main_Mend.m"><u>[Mendoza91 Matlab]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/handout_SOE_RBC.pdf"><u>[Mendoza91 handout]</u></a> 
 
 4. The Terms of Trade, Purchasing Power Parity, and the Real Exchange Rate
