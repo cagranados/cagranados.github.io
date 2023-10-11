@@ -32,7 +32,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 <!-- Setup (OEM Ch4), Business Cyc in EMEs: Financial Frictions (OEM Ch5) and Interest Rate Shocks (OEM Ch6) -->
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L3a_slides_soe_rbc.pdf"><u>[Slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L3a_slides_soe_rbc_wNotes.pdf"><u>[Annotated slides-part1]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L3b_slides_soe_rbc_emerging.pdf"><u>[Slides-part2]</u></a>
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L3b_slides_soe_rbc_emerging_wNotes.pdf"><u>[Slides-part2]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L3b_slides_soe_rbc_emerging_wNotes.pdf"><u>[Annotaded-Slides-part2]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L3c_slides_irs.pdf"><u>[Slides-part3]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/mend_91.mod"><u>[Mendoza91 Dynare]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/Main_Mend.m"><u>[Mendoza91 Matlab]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/handout_SOE_RBC.pdf"><u>[Mendoza91 handout]</u></a> 
 
