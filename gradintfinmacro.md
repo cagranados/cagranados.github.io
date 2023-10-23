@@ -39,21 +39,23 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 4. The Terms of Trade, Purchasing Power Parity, and the Real Exchange Rate
 <!-- PPP sources of deviations, Importable and Exportable Goods (OEM Ch7), TOT and NT Goods (OEM Ch8) -->
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4a_slides_pppdeviations.pdf"><u>[Slides-part1]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4a_slides_pppdeviations_wNotes.pdf"><u>[Annotated-Slides-part1]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4b_slides_tot.pdf"><u>[Slides-part2]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4c_slides_rer.pdf"><u>[Slides-part3]</u></a>
 
 
 5. Nominal Rigidities in Open Economies
 <!-- OEM Ch9 -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L5_slides_dnwr.pdf"><u>[Slides]</u></a>
 
 6. International RBC model: Large Open Economy setup
 <!-- Simple approach w/o Nom. Rigidities and derivation of UIP (OR1996 book), Model with nom. rigidities (OR1995JPE) -->
 
 7. International Policy Links and Macroeconomic Interdependence
-<!-- CP2001, LCP: BD2000 and CKM2002, BB2008 -->
+<!-- CP2001, LCP: BD2000 and CKM2002 -->
 
 8. Exchange Rate Dynamics Determination
-<!-- (BB2008) -->
+<!-- (BB2008,2003) -->
 
 9. The Global Financial Cycle
 <!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
