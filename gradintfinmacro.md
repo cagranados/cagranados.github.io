@@ -41,6 +41,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4a_slides_pppdeviations.pdf"><u>[Slides-part1]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4a_slides_pppdeviations_wNotes.pdf"><u>[Annotated-Slides-part1]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4b_slides_tot.pdf"><u>[Slides-part2]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4b_slides_tot_wNotes.pdf"><u>[Annotated-Slides-part2]</u></a>
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L4c_slides_rer.pdf"><u>[Slides-part3]</u></a>
 
 
