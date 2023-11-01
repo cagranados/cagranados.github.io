@@ -51,9 +51,12 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 6. International RBC model: Large Open Economy setup
 <!-- Simple approach w/o Nom. Rigidities and derivation of UIP (OR1996 book), Model with nom. rigidities (OR1995JPE) -->
+<!-- CP2001: Model with stochastic environment -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6a_slides_loe_nomrig.pdf"><u>[Slides-part1]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6b_slides_loe_wami.pdf"><u>[Slides-part2]</u></a>
 
-7. International Policy Links and Macroeconomic Interdependence
-<!-- CP2001, LCP: BD2000 and CKM2002 -->
+7. Local Currency Pricing: Deviations from PPP and Expenditure Switching
+<!-- LCP: BD2000 and CKM2002 -->
 
 8. Exchange Rate Dynamics Determination
 <!-- (BB2008,2003) -->
