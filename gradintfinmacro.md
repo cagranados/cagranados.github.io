@@ -64,7 +64,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 9. The Global Financial Cycle
 <!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
 
-10. Other Topics: Sovereign Default and Puzzles in International Finance
+<!--10. Other Topics: Sovereign Default and Puzzles in International Finance -->
 
 
 
