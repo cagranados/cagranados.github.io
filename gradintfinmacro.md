@@ -57,6 +57,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 7. Local Currency Pricing: Deviations from PPP and Expenditure Switching
 <!-- LCP: BD2000 and CKM2002 -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7_slides_lcp.pdf"><u>[Slides-part1]</u></a>
 
 8. Exchange Rate Dynamics Determination
 <!-- (BB2008,2003) -->
