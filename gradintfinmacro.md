@@ -57,10 +57,11 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 7. Local Currency Pricing: Deviations from PPP and Expenditure Switching
 <!-- LCP: BD2000 and CKM2002 -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7_slides_lcp.pdf"><u>[Slides-part1]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7_slides_lcp.pdf"><u>[Slides]</u></a>
 
 8. Exchange Rate Dynamics Determination
 <!-- (BB2008,2003) -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L8_slides_erdet.pdf"><u>[Slides]</u></a>
 
 9. The Global Financial Cycle
 <!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
