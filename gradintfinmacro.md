@@ -74,17 +74,17 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 ### Assignments, Exams, and Deadlines
 
-Specific guidelines are discussed on the syllabus; here we list the dates and some examples (from similar past courses)
+Specific guidelines are discussed on the syllabus; here, we list the dates and some examples (from similar past courses)
 
 **Workshop Presentation 1 (working paper):** due date 9/25-29 (a paper must be selected by 9/1)   
 
 **Discussion presentation** due date 9/25-29 (based on one of the papers of the Workshop 1)   
 
-**Workshop Presentation 2 (published article):** due date 11/10-13 (a paper must be selected by 10/23)   
+**Workshop Presentation 2 (published article):** due date <font color="scarlet"> 11/19 </font> (a paper must be selected by 10/23)   
 
-**Article Technical Report:** due date 11/10-13: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SamplePaperReport.pdf"><u>[Sample]</u></a>   
+**Article Technical Report:** due date <font color="scarlet"> 11/17</font>: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SamplePaperReport.pdf"><u>[Sample]</u></a>   
 
-**Final Research Proposal OR Term Paper:** due date 12/6. \
+**Final Research Proposal OR Term Paper:** <font color="scarlet"> due date 12/6 </font>. \
 Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a>   
 Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>
 
