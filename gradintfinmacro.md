@@ -51,7 +51,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 6. The Global Financial Cycle
 <!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6_slides_gfc.pdf"><u>[Slides-part1]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6_slides_gfc.pdf"><u>[Slides]</u></a>
 
 7. International RBC model: Large Open Economy setup
 <!-- Simple approach w/o Nom. Rigidities and derivation of UIP (OR1996 book), Model with nom. rigidities (OR1995JPE) -->
@@ -65,7 +65,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 9. Exchange Rate Dynamics Determination
 <!-- (BB2008,2003) -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L9_slides_erdet.pdf"><u>[Slides]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L9_slides_erdyn.pdf"><u>[Slides]</u></a>
 
 
 <!--10. Other Topics: Sovereign Default and Puzzles in International Finance -->
