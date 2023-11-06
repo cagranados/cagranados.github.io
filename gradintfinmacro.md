@@ -48,6 +48,7 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 5. Nominal Rigidities in Open Economies
 <!-- OEM Ch9 -->
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L5_slides_dnwr.pdf"><u>[Slides]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L5_slides_dnwr_wNotes.pdf"><u>[Slides]</u></a>
 
 6. The Global Financial Cycle
 <!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
