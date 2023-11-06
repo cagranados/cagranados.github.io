@@ -12,7 +12,7 @@
 
 This course explores modern topics in international finance and macroeconomics. The goal is to introduce the students to seminal research frameworks in the study of the international business cycles, the effect of policies in an open economy environment, as well as the determination of international prices and variables such as external borrowing, the exchange rate, and the terms of trade, among others.
 
-We will initially study models of small open economies with flexible prices, focusing on the changes the frameworks undergo to adjust them to an international setting where step by step, we will be adding layers of variables that become relevant once we abandon the closed economy setup. Then we will cover models with financial frictions and nominal rigidities, focusing on the optimal determination of the -monetary and financial- policy actions that can be applied in the presence of exogenous shocks. After this, we will extend the framework to that of large open economies and discuss the potential international spillovers that can be transmitted between economies.
+We will initially study models of small open economies with flexible prices, focusing on the changes the frameworks undergo to adjust them to an international setting where step by step, we will be adding layers of variables that become relevant once we abandon the closed economy setup. Then, we will cover models with financial frictions and nominal rigidities, focusing on the optimal determination of the -monetary and financial- policy actions that can be applied in the presence of exogenous shocks. After this, we will extend the framework to that of large open economies and discuss the potential international spillovers that can be transmitted between economies.
 
 The course is designed as an advanced graduate class (Ph.D.) with a strong emphasis on developing research skills.
 
@@ -48,23 +48,26 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 5. Nominal Rigidities in Open Economies
 <!-- OEM Ch9 -->
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L5_slides_dnwr.pdf"><u>[Slides]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L5_slides_dnwr_wNotes.pdf"><u>[Slides]</u></a>
 
-6. International RBC model: Large Open Economy setup
+6. The Global Financial Cycle
+<!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6_slides_gfc.pdf"><u>[Slides]</u></a>
+
+7. International RBC model: Large Open Economy setup
 <!-- Simple approach w/o Nom. Rigidities and derivation of UIP (OR1996 book), Model with nom. rigidities (OR1995JPE) -->
 <!-- CP2001: Model with stochastic environment -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6a_slides_loe_nomrig.pdf"><u>[Slides-part1]</u></a>
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6b_slides_loe_wami.pdf"><u>[Slides-part2]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7a_slides_loe_nomrig.pdf"><u>[Slides-part1]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7b_slides_loe_wami.pdf"><u>[Slides-part2]</u></a>
 
-7. Local Currency Pricing: Deviations from PPP and Expenditure Switching
+8. Local Currency Pricing: Deviations from PPP and Expenditure Switching
 <!-- LCP: BD2000 and CKM2002 -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7_slides_lcp.pdf"><u>[Slides]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L8_slides_lcp.pdf"><u>[Slides]</u></a>
 
-8. Exchange Rate Dynamics Determination
+9. Exchange Rate Dynamics Determination
 <!-- (BB2008,2003) -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L8_slides_erdet.pdf"><u>[Slides]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L9_slides_erdyn.pdf"><u>[Slides]</u></a>
 
-9. The Global Financial Cycle
-<!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
 
 <!--10. Other Topics: Sovereign Default and Puzzles in International Finance -->
 
@@ -72,17 +75,17 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 
 ### Assignments, Exams, and Deadlines
 
-Specific guidelines are discussed on the syllabus; here we list the dates and some examples (from similar past courses)
+Specific guidelines are discussed on the syllabus; here, we list the dates and some examples (from similar past courses)
 
 **Workshop Presentation 1 (working paper):** due date 9/25-29 (a paper must be selected by 9/1)   
 
 **Discussion presentation** due date 9/25-29 (based on one of the papers of the Workshop 1)   
 
-**Workshop Presentation 2 (published article):** due date 11/10-13 (a paper must be selected by 10/23)   
+**Workshop Presentation 2 (published article):** due date <font color="scarlet"> 11/19 </font> (a paper must be selected by 10/23)   
 
-**Article Technical Report:** due date 11/10-13: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SamplePaperReport.pdf"><u>[Sample]</u></a>   
+**Article Technical Report:** due date <font color="scarlet"> 11/17</font>: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SamplePaperReport.pdf"><u>[Sample]</u></a>   
 
-**Final Research Proposal OR Term Paper:** due date 12/6. \
+**Final Research Proposal OR Term Paper:** <font color="scarlet"> due date 12/6 </font>. \
 Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a>   
 Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>
 
