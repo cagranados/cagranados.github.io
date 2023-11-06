@@ -12,7 +12,7 @@
 
 This course explores modern topics in international finance and macroeconomics. The goal is to introduce the students to seminal research frameworks in the study of the international business cycles, the effect of policies in an open economy environment, as well as the determination of international prices and variables such as external borrowing, the exchange rate, and the terms of trade, among others.
 
-We will initially study models of small open economies with flexible prices, focusing on the changes the frameworks undergo to adjust them to an international setting where step by step, we will be adding layers of variables that become relevant once we abandon the closed economy setup. Then we will cover models with financial frictions and nominal rigidities, focusing on the optimal determination of the -monetary and financial- policy actions that can be applied in the presence of exogenous shocks. After this, we will extend the framework to that of large open economies and discuss the potential international spillovers that can be transmitted between economies.
+We will initially study models of small open economies with flexible prices, focusing on the changes the frameworks undergo to adjust them to an international setting where step by step, we will be adding layers of variables that become relevant once we abandon the closed economy setup. Then, we will cover models with financial frictions and nominal rigidities, focusing on the optimal determination of the -monetary and financial- policy actions that can be applied in the presence of exogenous shocks. After this, we will extend the framework to that of large open economies and discuss the potential international spillovers that can be transmitted between economies.
 
 The course is designed as an advanced graduate class (Ph.D.) with a strong emphasis on developing research skills.
 
@@ -49,22 +49,24 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
 <!-- OEM Ch9 -->
 <a href="https://cagranados.github.io/files/gradintfinmacrofall23/L5_slides_dnwr.pdf"><u>[Slides]</u></a>
 
-6. International RBC model: Large Open Economy setup
+6. The Global Financial Cycle
+<!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6_slides_gfc.pdf"><u>[Slides-part1]</u></a>
+
+7. International RBC model: Large Open Economy setup
 <!-- Simple approach w/o Nom. Rigidities and derivation of UIP (OR1996 book), Model with nom. rigidities (OR1995JPE) -->
 <!-- CP2001: Model with stochastic environment -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6a_slides_loe_nomrig.pdf"><u>[Slides-part1]</u></a>
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L6b_slides_loe_wami.pdf"><u>[Slides-part2]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7a_slides_loe_nomrig.pdf"><u>[Slides-part1]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7b_slides_loe_wami.pdf"><u>[Slides-part2]</u></a>
 
-7. Local Currency Pricing: Deviations from PPP and Expenditure Switching
+8. Local Currency Pricing: Deviations from PPP and Expenditure Switching
 <!-- LCP: BD2000 and CKM2002 -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L7_slides_lcp.pdf"><u>[Slides]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L8_slides_lcp.pdf"><u>[Slides]</u></a>
 
-8. Exchange Rate Dynamics Determination
+9. Exchange Rate Dynamics Determination
 <!-- (BB2008,2003) -->
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L8_slides_erdet.pdf"><u>[Slides]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/L9_slides_erdet.pdf"><u>[Slides]</u></a>
 
-9. The Global Financial Cycle
-<!-- Financial Globalization and Financial Global Cycle (Andrea Ferrero's material), Fixed ER and Capital Controls (OEM Ch10), Financial Frictions, Collateral Constraints and Debt (OEM Ch12) -->
 
 <!--10. Other Topics: Sovereign Default and Puzzles in International Finance -->
 
