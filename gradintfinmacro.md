@@ -88,7 +88,7 @@ Specific guidelines are discussed on the syllabus; here, we list the dates and s
 **Final Research Proposal OR Term Paper:** <font color="scarlet"> due date 12/6 </font>. \
 Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a>   
 Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>
-
+<a href="https://cagranados.github.io/files/gradintfinmacrofall23/ModelingAdvice.pdf"><u>[Modeling advice]</u></a>
 
 <!--  
 
