@@ -117,16 +117,16 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 ----
 
  <details>
-  <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
-			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
+  <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?
+		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
   </summary>
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">We study the effectiveness of capital flow management measures (CFMs) in curbing the capital flows’ fluctuations in Emerging Market Economies (EMEs) caused by monetary policy shocks. In particular, we examine i) the extent to which CFMs mitigate the impact of US monetary shocks, and ii) whether the mitigating effect differs between net capital flows and gross capital flows. Our results, based on local projection panel estimations for the period 2000-2018, indicate that CFMs effectively reduce the fluctuations of both gross capital inflows and outflows when there are monetary policy shocks from the US. Our findings also show that the effect in gross flows is greater than in net flows. In contrast to the effects in gross flows, the mitigating effects on net flows are ambiguous in most specifications. </font> |
+  | <font color="black">To rationalize the increased use of capital flows regulations in recent times, we study the capacity of capital flow management measures (CFMs) to insulate an economy from external shocks. We examine the extent to which CFMs mitigate the effects of US monetary shocks and whether measuring this mitigation at the net or gross level of flows matters. Our analysis is carried out for a panel of emerging market economies and for different disaggregations of the flows. Our results indicate that the level of aggregation matters for evaluating the effects of CFMs, and that analyses with excessively aggregated flows or with only net measures may lead to biases in assessing the insulation features of the CFMs. Furthermore, CFMs have insulation properties that mitigate capital repatriations; however, these are mostly related to risky portfolio and banking flows. </font> |
   
 </details>
-<a href="https://cagranados.github.io/files/papers/KG_CFM_MP_v2.0.pdf"><u>[Paper]</u></a>
+<a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Paper]</u></a>
 
 
   
