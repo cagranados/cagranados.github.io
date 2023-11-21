@@ -117,8 +117,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 ----
 
  <details>
-  <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?
-		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
+  <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
+		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>)
   </summary>
     
   | **Abstract**          |
