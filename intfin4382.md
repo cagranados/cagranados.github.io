@@ -1,5 +1,5 @@
 ## Economics 4382: International Finance (UTD)
-### Fall 2022
+### Spring 2024
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday and Wednesday 5:30PM-6:45PM, FO 2.208 \
@@ -50,15 +50,15 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 ### Assignments, Exams and Deadlines
 
-**Problem set 1:** due date 9/19 <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin.pdf"><u>[Problem Set]</u></a>  <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> -->\
-**Problem set 2:** due date 10/5 <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 3:** due date 10/24 <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->\
-**Problem set 4:** due date 11/9 <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 5:** due date 11/30 <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Problem set 1:** due date 1/31 <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin.pdf"><u>[Problem Set]</u></a>  <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinfall22/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> -->\
+**Problem set 2:** due date 2/14 <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 3/6 <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->\
+**Problem set 4:** due date 4/3 <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 5:** due date 4/24 <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 10/10 <!-- <a href="https://cagranados.github.io/files/intfinspr24/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Midterm 2:** 11/14 <!-- <a href="https://cagranados.github.io/files/intfinspr24/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** Wednesday 12/14 2:00 PM (GR. 3.606) <!-- <a href="https://cagranados.github.io/files/intfinspr24/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
+**Midterm 1:** 2/19 <!-- <a href="https://cagranados.github.io/files/intfinspr24/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 4/3 <!-- <a href="https://cagranados.github.io/files/intfinspr24/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Final exam:** 5/1 <!-- <a href="https://cagranados.github.io/files/intfinspr24/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
 
@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** The Gold Standard and Exchange Rate Crises \
-**Next:** Optional presentations module
+**Now:** Introduction \
+**Next:** Exchange rate fundamentals
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr24/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
