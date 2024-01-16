@@ -1,5 +1,5 @@
 ## Economics 5322: Macroeconomic Theory for Applications (UTD)
-### Spring 2023
+### Spring 2024
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday 7:00-9:45 PM, CB 1.210 \
