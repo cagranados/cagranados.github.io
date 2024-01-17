@@ -89,27 +89,31 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Next:** Topic 2 - The RBC model</span>
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
-Topic 1: <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a>
+Topic 1: <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 2: <a href="https://cagranados.github.io/files/msmacrospring24/Topic2_RBC.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> 
+Topic 2: <a href="https://cagranados.github.io/files/msmacrospring24/Topic2_RBC.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 3: <a href="https://cagranados.github.io/files/msmacrospring24/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospring24/Topic3_InfoFrictionsAndNominalRigidities_wNotes.pdf"><u>[Annotated Slides]</u></a>
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic3_InfoFrictionsAndNominalRigidities_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 4: <a href="https://cagranados.github.io/files/msmacrospring24/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
- <a href="https://cagranados.github.io/files/msmacrospring24/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 5: <a href="https://cagranados.github.io/files/msmacrospring24/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
- <a href="https://cagranados.github.io/files/msmacrospring24/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospring24/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
-<a href="https://cagranados.github.io/files/msmacrospring24/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 
 **Technical slides:** these slides cover technical details about some of the topics above and software instructions (MATLAB and Dynare)
 
-1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring24/TechSession1_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides from previous course]</u></a>
+1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring24/TechSession1_Slides.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides]</u></a> -->
 
-2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring24/TechSession2_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
+2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring24/TechSession2_Slides.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospring24/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring24/TechSession3_Slides.pdf"><u>[Slides]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a>
+3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring24/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring24/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
