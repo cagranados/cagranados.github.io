@@ -4,8 +4,8 @@
 
 <!-- - Intermediate Macroeconomics (ECON XXXX): Fall 2024 -->
 - International Finance and Macroeconomics (ECON 6356): Fall 2023 <!-- <a href="https://cagranados.github.io/gradintfinmacro.html" ><u>[link]</u></a> -->
-- Macroeconomic Theory for Applications (ECON 5322): Spr. 2023, Spring 2024  <a href="https://cagranados.github.io/msmacro.html" ><u>[link]</u></a>
-- International Finance (ECON 4382): Fall 2022, Spring 2024  <a href="https://cagranados.github.io/intfin4382.html" ><u>[link]</u></a>
+- Macroeconomic Theory for Applications (ECON 5322): Spr. 2023, **Spring 2024**  <a href="https://cagranados.github.io/msmacro.html" ><u>[link]</u></a>
+- International Finance (ECON 4382): Fall 2022, **Spring 2024**  <a href="https://cagranados.github.io/intfin4382.html" ><u>[link]</u></a>
 
 <h2> University of Washington </h2>
 
