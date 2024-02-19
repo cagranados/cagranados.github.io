@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Topic 1 - Introduction and Rational Expectations \
-**Next:** Topic 2 - The RBC model 
+**Now:** Topic 2 - The RBC model  \
+**Next:** Topic 3 - Monetary Theories of the Business Cycle
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro.pdf"><u>[Slides]</u></a> 
