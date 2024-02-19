@@ -91,6 +91,7 @@ Topic 1: <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intr
 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 2: <a href="https://cagranados.github.io/files/msmacrospring24/Topic2_RBC.pdf"><u>[Slides]</u></a> 
+<a href="https://cagranados.github.io/files/msmacrospring24/IRFs_RBC.xls"><u>[RBC simple IRFs]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 3: <a href="https://cagranados.github.io/files/msmacrospring24/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
