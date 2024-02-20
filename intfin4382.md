@@ -56,7 +56,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 4:** due date 4/3 <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** due date 4/24 <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 2/19 <!-- <a href="https://cagranados.github.io/files/intfinspr24/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 2/19 <a href="https://cagranados.github.io/files/intfinspr24/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 4/3 <!-- <a href="https://cagranados.github.io/files/intfinspr24/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** 5/1 <!-- <a href="https://cagranados.github.io/files/intfinspr24/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Introduction \
-**Next:** Exchange rate fundamentals
+**Now:** The Trilemma and the Fixed Exchange Regime \
+**Next:** Balance of Payments - National Income Accounting
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr24/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
