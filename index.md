@@ -102,19 +102,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
  
 
-<details>
-  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) 
-  </summary>
-	
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">This study examines whether and how important it is to adjust output gap frameworks during the COVID-19 pandemic and similar unprecedentedly large-scale episodes. Our proposed modelling framework comprises a Bayesian Structural Vector Autoregressions with an identification setup based on a permanent-transitory decomposition that exploits the long-run relationship of consumption with output and whose residuals are scaled up around the COVID-19 period. Our results indicate that (i) a single structural error is usually sufficient to explain the permanent component of the gross domestic product (GDP); (ii) the adjusted method allows for the incorporation of the COVID-19 period without assuming sudden changes in the modelling setup after the pandemic; and (iii) the proposed adjustment generates apsproximation improvements relative to standard filters or similar models with no adjustments or alternative ones, but where the specific rare observations are not known. Importantly, abstracting from any adjustment may lead to over or underestimating the gap, to too-quick gap recoveries after downturns, or too-large volatility around the median potential output estimations.</font> |
-    
-  
-</details>
- <a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Paper]</u></a>
-
-----
 
  <details>
   <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
@@ -129,6 +116,26 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Paper]</u></a>
 
 
+----
+ 
+<br> 
+### Publications
+
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <i><u>Economic Modelling</u></i>. Accepted.
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We examine the importance of adjusting output gap frameworks during large-scale disruptions, with a focus on the COVID-19 pandemic. Such adaptation can be crucial given the impact of such episodes on the reliability of time-series models and the inherent need for stability in output gap methods. We employ a Bayesian Structural Vector Autoregression model, identified through a permanent- transitory decomposition, and enhance it by scaling residuals around the pandemic period. Our analysis, conducted for seven developed economies, suggests that adjusting the model around the pandemic’s onset leads to improved estimates and reduced uncertainty. This approach surpasses traditional filters and other complex models lacking pandemic-timed adjustments. Notably, omitting such adjustments can result in biased and unstable gap estimates, potentially causing rapid gap recoveries post-downturns or increased volatility. Our findings underscore the importance of prompt reassessments of output gap frameworks during unprecedented global events, focusing on their stability and uncertainty.</font> |
+    
+  
+</details>
+ <a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Paper]</u></a>
+
+----
   
 ----
  
