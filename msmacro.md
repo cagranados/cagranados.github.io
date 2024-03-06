@@ -74,7 +74,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 
-**Midterm 1:** 3/4 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 3/4  <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** Time TBD (5/1 or final examination week) <!--  <a href="https://cagranados.github.io/files/msmacrospring24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Topic 2 - The RBC model  \
-**Next:** Topic 3 - Monetary Theories of the Business Cycle
+**Now:** Topic 3 - Monetary Theories of the Business Cycle - Nominal Rigidities   \
+**Next:** Topic 4 - Consumption and Aggregate Demand
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro.pdf"><u>[Slides]</u></a> 
