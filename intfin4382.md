@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** The Trilemma and the Fixed Exchange Regime \
-**Next:** Balance of Payments - National Income Accounting
+**Now:** Long-run budget constraint and the Gains from Financial Globalization \
+**Next:** Fixed vs. Floating Exchange Rate Regimes
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr24/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
