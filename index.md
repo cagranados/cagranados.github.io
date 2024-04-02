@@ -133,7 +133,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
     
   
 </details>
- <a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Paper]</u></a>
+ <a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
 
 ----
  
