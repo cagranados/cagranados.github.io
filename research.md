@@ -49,7 +49,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
  
 <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font><i><u>R&R at Macroeconomic Dynamics</u></i></summary>
+  <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font><i><u> R&R at Macroeconomic Dynamics</u></i></summary>
     
   | **Abstract**          |
   |:---------------------------|
