@@ -1,5 +1,7 @@
 {::options parse_block_html="true" /}
 
+
+
 <font color="scarlet"><i><small>&bull; Click title to see abstract.</small></i></font> 
 ### Working Papers
 
@@ -47,14 +49,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
  
 <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Coordination in Open Economies: A Multicountry Approach.</font></summary>
+  <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font><i><u>R&R at Macroeconomic Dynamics</u></i></summary>
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">Motivated by the presence of financial spillovers from advanced economies on emerging markets, and the apparent difficulties of the latter to shield their economies from external shocks, I set up a three-country center-periphery model (with two emerging economies and one advanced economy) with banks and financial agency frictions à la Gertler and Karadi (2011). The key defining feature of an emerging economy will be the limited capacity of financial intermediation that leads to a financial dependency relation with the center. Each country will have access to a macroprudential instrument that affects directly its source of inefficiencies and allows to smooth the credit spread distortions. However, such regulation can be costly and interdependent, opening a potential scope for coordination or strategic interactions. The addition of a second emerging country is relevant to enhance the interaction leverage of the peripheric block, as well as to allow for strategic interactions between emerging countries at the regional level. Within this framework, I aim to evaluate the optimal macroprudential instrument and welfare features of a variety of policy arrangements that differ by their degree of cooperation. In particular, I look for gains of coordination, but also for their distribution across economies. Finally, the framework allows to carry experiments with some of the peripheric features and explore whether global or regional incentives for coordination change meaningfully with the addition of new economies to a peripheric economic block.</font> |
+  | <font color="black">To understand the international nature of the macroprudential policy and the potential cross-border regulatory leakages these imply we develop a three-country center-periphery framework with financial frictions and limited financial intermediation in emerging economies. Each country has a macroprudential instrument to smooth credit spread distortions; however, the banking regulations can leak to other economies and be subject to costs. Our results show the presence of cross-border regulation spillovers that increase with the extent of financial frictions, that are driven by the capacity of the regulation to limit aggregate intermediation, and that can be magnified if policymakers are forward-looking. We discuss the policy implications of the resulting macroprudential interdependence and the potential scope for policy design that improves the management of the trade-off between mitigating the financial frictions and curtailing intermediation.</font> |
   
  </details>
- <a href="https://cagranados.github.io/files/papers/MaPCoordFinite.pdf" target="_blank"><u>[Paper]</u></a> 
+ <a href="https://cagranados.github.io/files/papers/MaPSpillovers.pdf" target="_blank"><u>[Paper]</u></a> 
  
  ----
  
@@ -65,7 +67,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">In theory, nominal exchange rates are a function of the relative difference in supply and demand of money. In practice, some central banks issue debt. In this study we ask: are nominal exchange rate variations linked to these remunerated central bank liabilities? We use two measures of implied exchange rates using central bank balance sheet data: one measure is a traditional measure that includes the monetary base, while the other also includes remunerated liabilities.  We provide a simple theoretical framework to put these measures in context and to shed light on the relationship between exchange rates and the balance sheet of the central bank. We then move on to the formal empirical analysis. Nonlinear cointegration techniques are used to compare these two measures with the actual exchange rate for a set of seven Latin American countries using monthly data for the 2004:1-2019:12 period. The nonlinear cointegration technique allows both the number and location of thresholds to be endogenously determined based on the percentage difference between the exchange rate and the implied exchange rate. We find the exchange and implied exchange rate are cointegrated for most of the set of Latin American countries. For cointegrated series, the implied exchange rate always adjusts to restore the long run relationship while the exchange rate adjusts for only half of the cointegrated series. This empirical finding indicates that the exchange rate is the dominant series and that central bank debt matters for understanding exchange rate dynamics.</font> |
+  | <font color="black">Are nominal exchange rate variations linked to the central bank’s balance sheet, and in particular to remunerated domestic liabilities? We use two metrics of implied exchange rates using central bank balance sheet data: one is a traditional metric that includes the monetary base, and the other adds remunerated domestic liabilities. We first estimate a VAR model to investigate the endogenous interactions between central bank balance sheet components for a set of seven Latin American countries for the 2006:01-2019:12 period. Then, we use threshold cointegration techniques to compare these two metrics of the implied exchange rate with the spot (observed) exchange rate. We find that the implied exchange rates and the spot exchange rate are cointegrated for most of the set of Latin American countries. We also find that for a subset of our sample, the spot exchange rate adjusts to the metric that adds remunerated domestic liabilities. We conclude the remunerated domestic liabilities matter for understanding exchange rate dynamics and explore a simple theoretical setup to better understand the mechanism.</font> |
   
 </details>
 <a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper]</u></a>
@@ -73,37 +75,23 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
  
 
-<details>
-  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) 
+
+ <details>
+  <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
+		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>)
   </summary>
-	
+    
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This study examines whether and how important it is to adjust output gap frameworks during the COVID-19 pandemic and similar unprecedentedly large-scale episodes. Our proposed modelling framework comprises a Bayesian Structural Vector Autoregressions with an identification setup based on a permanent-transitory decomposition that exploits the long-run relationship of consumption with output and whose residuals are scaled up around the COVID-19 period. Our results indicate that (i) a single structural error is sufficient to explain the permanent component of the gross domestic product (GDP); (ii) the adjusted method allows for the incorporation of the COVID-19 period without assuming sudden changes in the modelling setup after the pandemic; and (iii) the proposed adjustment generates approximation improvements relative to standard filters or similar models with no adjustments or alternative ones, but where the specific rare observations are not known. Importantly, abstracting from any adjustment may lead to over- or underestimating the gap, too-quick gap recoveries after downturns, or too-large volatility around the median potential output estimations.</font> |
-    
+  | <font color="black">To rationalize the increased use of capital flows regulations in recent times, we study the capacity of capital flow management measures (CFMs) to insulate an economy from external shocks. We examine the extent to which CFMs mitigate the effects of US monetary shocks and whether measuring this mitigation at the net or gross level of flows matters. Our analysis is carried out for a panel of emerging market economies and for different disaggregations of the flows. Our results indicate that the level of aggregation matters for evaluating the effects of CFMs, and that analyses with excessively aggregated flows or with only net measures may lead to biases in assessing the insulation features of the CFMs. Furthermore, CFMs have insulation properties that mitigate capital repatriations; however, these are mostly related to risky portfolio and banking flows. </font> |
   
 </details>
- <a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Paper]</u></a>
-  
- 
- ----
- 
-<br> 
-### Work in Progress
+<a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Paper]</u></a>
+
 
 ----
  
-<details>
-  <summary markdown="span"><font color="blue">Capital Flow Management and Monetary
-			Policy Shocks (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) </font>
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">We study the effectiveness of capital flow management measures (CFMs) in curbing the capital flows’ fluctuations in Emerging Market Economies (EMEs) caused by monetary policy shocks. In particular, we examine i) the extent to which CFMs mitigate the impact of US monetary shocks, and ii) whether the mitigating effect differs between net capital flows and gross capital flows. Our results, based on local projection panel estimations for the period 2000-2018, indicate that CFMs effectively reduce the fluctuations of both gross capital inflows and outflows when there are monetary policy shocks from the US. Our findings also show that the effect in gross flows is greater than in net flows. In contrast to the effects in gross flows, the mitigating effects on net flows are ambiguous in most specifications. </font> |
-  
-</details>
-<a href="https://cagranados.github.io/files/papers/KG_CFM_MP_v2.0.pdf"><u>[Paper]</u></a>
+### Work in Progress
 
 ----
 
@@ -140,20 +128,36 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  
- ---- 
+ ----
 
+<br> 
 
- 
-<hr>
-
-   
-   
 <br>
 <b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
 <br>
 <br>
 
-<h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D. Research</h3>
+<br> 
+### Publications
+
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <i><u>Economic Modelling</u></i>. Volume 135, June 2024.
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We examine the importance of adjusting output gap frameworks during large-scale disruptions, with a focus on the COVID-19 pandemic. Such adaptation can be crucial given the impact of such episodes on the reliability of time-series models and the inherent need for stability in output gap methods. We employ a Bayesian Structural Vector Autoregression model, identified through a permanent- transitory decomposition, and enhance it by scaling residuals around the pandemic period. Our analysis, conducted for seven developed economies, suggests that adjusting the model around the pandemic’s onset leads to improved estimates and reduced uncertainty. This approach surpasses traditional filters and other complex models lacking pandemic-timed adjustments. Notably, omitting such adjustments can result in biased and unstable gap estimates, potentially causing rapid gap recoveries post-downturns or increased volatility. Our findings underscore the importance of prompt reassessments of output gap frameworks during unprecedented global events, focusing on their stability and uncertainty.</font> |
+    
+  
+</details>
+ <a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
+
+----
+ 
+
+<h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h3>
 <p style="margin:0">
 Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
