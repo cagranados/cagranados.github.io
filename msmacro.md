@@ -75,7 +75,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 
 **Midterm 1:** 3/4  <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Final exam:** Time TBD (5/1 or final examination week) <!--  <a href="https://cagranados.github.io/files/msmacrospring24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Final exam:** Time TBD (4/29 or final examination week) <!--  <a href="https://cagranados.github.io/files/msmacrospring24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 
