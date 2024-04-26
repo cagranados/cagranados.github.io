@@ -70,7 +70,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Problem set 3:** due date 3/25 <a href="https://cagranados.github.io/files/msmacrospring24/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>  \
 **Problem set 4:** due date 4/8 <a href="https://cagranados.github.io/files/msmacrospring24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospring24/simpleDSGEexample.mod"><u>[dynare code]</u></a> \
-**Problem set 5:** due date 4/22 <a href="https://cagranados.github.io/files/msmacrospring24/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
+**Problem set 5:** due date 4/22 <a href="https://cagranados.github.io/files/msmacrospring24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 
@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Topic 3 - Monetary Theories of the Business Cycle - Nominal Rigidities   \
-**Next:** Topic 4 - Consumption and Aggregate Demand
+**Now:** Topic 7 - Final Presentations   \
+**Next:** Final Exam
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospring24/Topic1_Intro.pdf"><u>[Slides]</u></a> 
