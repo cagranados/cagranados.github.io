@@ -119,7 +119,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 ### Publications
 
-----
 
 <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
@@ -167,7 +166,7 @@ Fondo de Cultura Economica. México. October - December.
 <br> 
 
 <br>
-<b>Repec link <a style="margin:0; font-size:125%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
+<b style="font-size:125">Repec link <a style="margin:0; font-size:125%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
 <br>
 
 <br> 
