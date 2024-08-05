@@ -57,20 +57,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> 
- 
- ----
- 
-<details>
-  <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>)
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">Are nominal exchange rate variations linked to the central bank’s balance sheet, and in particular to remunerated domestic liabilities? We use two metrics of implied exchange rates using central bank balance sheet data: one is a traditional metric that includes the monetary base, and the other adds remunerated domestic liabilities. We first estimate a VAR model to investigate the endogenous interactions between central bank balance sheet components for a set of seven Latin American countries for the 2006:01-2019:12 period. Then, we use threshold cointegration techniques to compare these two metrics of the implied exchange rate with the spot (observed) exchange rate. We find that the implied exchange rates and the spot exchange rate are cointegrated for most of the set of Latin American countries. We also find that for a subset of our sample, the spot exchange rate adjusts to the metric that adds remunerated domestic liabilities. We conclude the remunerated domestic liabilities matter for understanding exchange rate dynamics and explore a simple theoretical setup to better understand the mechanism.</font> |
-  
-</details>
-<a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper]</u></a>
   
  ----
  
@@ -130,17 +116,24 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
 
-<br> 
 
-<br>
-<b>Repec link <a style="margin:0; font-size:100%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
-<br>
-<br>
-
-<br> 
 ### Publications
 
 ----
+
+<details>
+  <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
+    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <i><u>Journal of International Money and Finance</u></i>. <i> Conditionally Accepted</i></summary>
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">Are nominal exchange rate variations linked to the central bank’s balance sheet, and in particular to remunerated domestic liabilities? We use two metrics of implied exchange rates using central bank balance sheet data: one is a traditional metric that includes the monetary base, and the other adds remunerated domestic liabilities. We first estimate a VAR model to investigate the endogenous interactions between central bank balance sheet components for a set of seven Latin American countries for the 2006:01-2019:12 period. Then, we use threshold cointegration techniques to compare these two metrics of the implied exchange rate with the spot (observed) exchange rate. We find that the implied exchange rates and the spot exchange rate are cointegrated for most of the set of Latin American countries. We also find that for a subset of our sample, the spot exchange rate adjusts to the metric that adds remunerated domestic liabilities. We conclude the remunerated domestic liabilities matter for understanding exchange rate dynamics and explore a simple theoretical setup to better understand the mechanism.</font> |
+  
+</details>
+<a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Paper]</u></a>
+  
+ ----
 
 <details>
   <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <i><u>Economic Modelling</u></i>. Volume 135, June 2024.
@@ -157,7 +150,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 ----
  
 
-<h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h3>
+<h4><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h4>
 <p style="margin:0">
 Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
@@ -170,3 +163,11 @@ Fondo de Cultura Economica. México. October - December.
 <br>
 <br> Melo, L., and Granados, J. (2011). Financial Regulation and Value at Risk (in spanish), <it>Ensayos Sobre Política Económica (ESPE) </it>, vol. 29, No. 64.
 </p>
+
+<br> 
+
+<br>
+<b>Repec link <a style="margin:0; font-size:125%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
+<br>
+
+<br> 
