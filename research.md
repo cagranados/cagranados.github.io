@@ -77,9 +77,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 ----
  
-### Work in Progress
+<br>
 
-----
+### Work in Progress
 
 <details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
@@ -116,9 +116,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  ----
 
+<br>
 
 ### Publications
-
 
 <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
