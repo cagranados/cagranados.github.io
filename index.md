@@ -107,7 +107,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <i><u>Journal of International Money and Finance</u></i>. <i> Conditionally Accepted</i></summary>
+    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <b><u>Journal of International Money and Finance</u></b>. <i> Conditionally Accepted</i></summary>
   </summary>
     
   | **Abstract**          |
@@ -120,7 +120,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
 
 <details>
-  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <i><u>Economic Modelling</u></i>. Volume 135, June 2024.
+  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <b><u>Economic Modelling</u></b>. Volume 135, June 2024.
   </summary>
 	
   | **Abstract**          |
