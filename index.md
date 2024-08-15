@@ -11,9 +11,9 @@
 
 
 ## Welcome
-I am an Assistant Professor of Economics in the School of Economics, Political and Policy Sciences (<a href="https://epps.utdallas.edu/" target="_blank">EPPS</a>) at the <a href="https://utdallas.edu/" target="_blank">University of Texas at Dallas</a> (UTD). I obtained a Ph.D. in Economics at the <a href="https://econ.washington.edu" target="_blank">University of Washington</a> (UW) in 2021. My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
+<font color="black">I am an Assistant Professor of Economics in the School of Economics, Political and Policy Sciences (<a href="https://epps.utdallas.edu/" target="_blank">EPPS</a>) at the <a href="https://utdallas.edu/" target="_blank">University of Texas at Dallas</a> (UTD). I obtained a Ph.D. in Economics at the <a href="https://econ.washington.edu" target="_blank">University of Washington</a> (UW) in 2021. My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
 
-My current research explores the international dimension of macroprudential regulations and the best policy implementation setups that can be applied in financially integrated economies.
+My current research explores the international dimension of macroprudential regulations and the best policy implementation setups that can be applied in financially integrated economies.</font>
 
 <!-- under the supervision of Prof. [Yu-chin Chen](http://faculty.washington.edu/yuchin/wordpress/) and Prof. [Ippei Fujiwara](https://sites.google.com/site/ippeifujiwara/). -->
 <!-- In my current research projects I study how to implement macroprudential policies in emerging economies. -->
@@ -107,7 +107,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <b><u>Journal of International Money and Finance</u></b>. <i> Conditionally Accepted</i></summary>
+    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <font color="black"><b><u>Journal of International Money and Finance</u></b>. <i> Conditionally Accepted</i></font></summary>
   </summary>
     
   | **Abstract**          |
@@ -120,7 +120,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  ----
 
 <details>
-  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <b><u>Economic Modelling</u></b>. Volume 135, June 2024.
+  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Economic Modelling</u></b>. Volume 135, June 2024.</font>
   </summary>
 	
   | **Abstract**          |
