@@ -11,9 +11,9 @@
 
 
 ## Welcome
-<font color="black">I am an Assistant Professor of Economics in the School of Economics, Political and Policy Sciences (<a href="https://epps.utdallas.edu/" target="_blank">EPPS</a>) at the <a href="https://utdallas.edu/" target="_blank">University of Texas at Dallas</a> (UTD). I obtained a Ph.D. in Economics at the <a href="https://econ.washington.edu" target="_blank">University of Washington</a> (UW) in 2021. My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics. 
+<font color="black">I am an Assistant Professor of Economics in the School of Economics, Political and Policy Sciences (<a href="https://epps.utdallas.edu/" target="_blank">EPPS</a>) at the <a href="https://utdallas.edu/" target="_blank">University of Texas at Dallas</a> (UTD). I obtained a Ph.D. in Economics at the <a href="https://econ.washington.edu" target="_blank">University of Washington</a> (UDub) in 2021. My main areas of research are <u>International Macroeconomics</u> and <u>International Finance</u>. I am also interested in applied econometrics and Macroeconomics.</font> 
 
-My current research explores the international dimension of macroprudential regulations and the best policy implementation setups that can be applied in financially integrated economies.</font>
+<font color="black">My current research explores the international dimension of macroprudential regulations and the best policy implementation setups that can be applied in financially integrated economies.</font>
 
 <br>
 <font color="scarlet"><i><small>&bull; Click below to download CV.</small></i></font> 
