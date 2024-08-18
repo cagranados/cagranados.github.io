@@ -1,11 +1,11 @@
 ## Economics 6356: International Finance and Macroeconomics (UTD)
-### Fall 2023
+### Fall 2024
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday 11:30-12:45 PM, PHY 1.103 \
 **Course Office Hours:**  GR 2.820, Wednesday 4:00-5:15 PM or by appointment (in person and on Teams) \
 **Email:** Camilo.granados@utdallas.edu \
-**Website:** <a href="https://cagranados.github.io/msmacro.html"><u>https://cagranados.github.io/gradintfinmacro.html</u></a> 
+**Website:** <a href="https://cagranados.github.io/gradintfinmacro.html"><u>https://cagranados.github.io/gradintfinmacro.html</u></a> 
 
 
 ### Course Description
@@ -16,8 +16,7 @@ We will initially study models of small open economies with flexible prices, foc
 
 The course is designed as an advanced graduate class (Ph.D.) with a strong emphasis on developing research skills.
 
-
-### Syllabus: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/Econ6356au23_syllabus.pdf"><u>[pdf]</u></a> 
+### Syllabus: <a href="https://cagranados.github.io/files/gradintfinmacrofall24/GradIntFinMacroFall24_syllabus.pdf"><u>[pdf]</u></a> 
 
 
 ### Outline:
@@ -83,12 +82,12 @@ Specific guidelines are discussed on the syllabus; here, we list the dates and s
 
 **Workshop Presentation 2 (published article):** due date <font color="scarlet"> 11/19 </font> (a paper must be selected by 10/23)   
 
-**Article Technical Report:** due date <font color="scarlet"> 11/17</font>: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SamplePaperReport.pdf"><u>[Sample]</u></a>   
+**Article Technical Report:** due date <font color="scarlet"> 11/17</font>: based on the article presented in the second workshop <a href="https://cagranados.github.io/files/gradintfinmacrofall24/SamplePaperReport.pdf"><u>[Sample]</u></a>   
 
 **Final Research Proposal OR Term Paper:** <font color="scarlet"> due date 12/6 </font>. \
-Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a>   
-Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall23/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>
-<a href="https://cagranados.github.io/files/gradintfinmacrofall23/ModelingAdvice.pdf"><u>[Modeling advice]</u></a>
+Research Proposal: <a href="https://cagranados.github.io/files/gradintfinmacrofall24/ResearchProposalGuidelines.pdf"><u>[Guidelines]</u></a>   
+Term Paper: <a href="https://cagranados.github.io/files/gradintfinmacrofall24/SampleTheoryPaper.pdf"><u>[Sample 1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall24/SampleTheoryPaper2.pdf"><u>[Sample 2]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall24/SampleEmpiricalPaper.pdf"><u>[Sample 3]</u></a>
+<a href="https://cagranados.github.io/files/gradintfinmacrofall24/ModelingAdvice.pdf"><u>[Modeling advice]</u></a>
 
 <!--  
 
@@ -123,7 +122,7 @@ These extra resources can be helpful in your studies for this class.
 - Lecture Notes: some of the materials of this class have lecture notes available (see in Other materials on the website links)
 - Open Economies Macroeconomics Book (SGU2017): dedicated website with resources for one the books we follow closely <a href="https://www.columbia.edu/~mu2166/book/"><u>[Link]</u>
 - A very complete self-study guide for an International Finance and Macroeconomics Ph.D. course by Charles Engel: <a href="https://users.ssc.wisc.edu/~cengel/Course-International-Macro-Finance.pdf"><u>[Link]</u>
-- Intro to local solution methods and Dynare (From my MS macro course)  <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u>
+- Intro to local solution methods and Dynare (From my MS macro course)  <a href="https://cagranados.github.io/files/msmacrospring24/TechSession3_Slides.pdf"><u>[Slides]</u>
   
 <!-- Intro to local solution methods and Dynare (From my MS macro course) <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring23/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> --> 
 
