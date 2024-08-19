@@ -122,7 +122,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <font color="black"><b><u>Journal of International Money and Finance</u></b>. <i> Accepted</i></font></summary>
+    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <font color="black"><b><u>Journal of International Money and Finance</u></b>. <i> Volume 148, October 2024.</i></font></summary>
 
     
   | **Abstract**          |

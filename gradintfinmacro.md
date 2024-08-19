@@ -25,7 +25,8 @@ The course is designed as an advanced graduate class (Ph.D.) with a strong empha
    <a href="https://cagranados.github.io/files/gradintfinmacrofall24/L1_slides_empirics.pdf"><u>[Slides]</u></a> 
 
 2.	Small Open Economy Models: Endowments and Model with Capital
-   <a href="https://cagranados.github.io/files/gradintfinmacrofall24/L2a_slides_endowment.pdf"><u>[Slides-part1]</u></a> <a href="https://cagranados.github.io/files/gradintfinmacrofall24/L2b_slides_capital.pdf"><u>[Slides-part2]</u></a>
+   <a href="https://cagranados.github.io/files/gradintfinmacrofall24/L2a_slides_endowment.pdf"><u>[Slides-part1]</u></a>
+   <a href="https://cagranados.github.io/files/gradintfinmacrofall24/L2b_slides_capital.pdf"><u>[Slides-part2]</u></a>
 
 3. The SOE-RBC model: Exploring exogenous shocks as economic drivers
 <!-- Setup (OEM Ch4), Business Cyc in EMEs: Financial Frictions (OEM Ch5) and Interest Rate Shocks (OEM Ch6) -->
