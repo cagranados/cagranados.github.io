@@ -21,10 +21,10 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Assignments, Exams and Deadlines
 
 
-**Problem set 1:** due date 9/10 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS1.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/ps1q2_code.m"><u>[code_q2]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/hpfilter.m"><u>[hpfilter.m]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospring24/data_ps1.xlsx"><u>[data loaded in Ans key]</u></a> \ -->
-**Problem set 2:** due date 9/24 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> \ -->
-**Problem set 3:** due date 10/17 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>  \ -->
-**Problem set 4:** due date 11/5 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/simpleDSGEexample.mod"><u>[dynare code]</u></a> \ -->
+**Problem set 1:** due date 9/10 <a href="https://cagranados.github.io/files/intmacrofall24/PS1.pdf"><u>[Problem Set]</u> </a> <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospring24/data_ps1.xlsx"><u>[data loaded in Ans key]</u></a> --> \
+**Problem set 2:** due date 9/24 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 10/17 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>  --> \
+**Problem set 4:** due date 11/5 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/simpleDSGEexample.mod"><u>[dynare code]</u></a> --> \
 **Problem set 5:** due date 11/26 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a> -->
 
 **Midterm 1:** 9/26  <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
@@ -45,9 +45,9 @@ Lecture 1: Introduction to Macroeconomics <a href="https://cagranados.github.io/
 
 Lecture 2: Measuring the Macroeconomy <a href="https://cagranados.github.io/files/intmacrofall24/L2_Measuring_the_Macroeconomy.pdf"><u>[Slides]</u></a> 
 
-Lecture 3: An Overview of Long-Run Economic Growth
+Lecture 3: An Overview of Long-Run Economic Growth <a href="https://cagranados.github.io/files/intmacrofall24/L3_An Overview of Long Term Economic Growth.pdf"><u>[Slides]</u></a> 
 
-Lecture 4: A Model of Production
+Lecture 4: A Model of Production <a href="https://cagranados.github.io/files/intmacrofall24/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
 
 Lecture 5: The Solow Growth Model 
 
