@@ -43,7 +43,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 
 Lecture 1: Introduction to Macroeconomics <a href="https://cagranados.github.io/files/intmacrofall24/L1_Introduction.pdf"><u>[Slides]</u></a> 
 
-Lecture 2: Measuring the Macroeconomy <a href="https://cagranados.github.io/files/intmacrofall24/L2_Measuring_the_Macroeconomy.pdf"><u>[Slides]</u></a> 
+Lecture 2: Measuring the Macroeconomy <a href="https://cagranados.github.io/files/intmacrofall24/L2_Measuring the Macroeconomy.pdf"><u>[Slides]</u></a> 
 
 Lecture 3: An Overview of Long-Run Economic Growth <a href="https://cagranados.github.io/files/intmacrofall24/L3_An Overview of Long Term Economic Growth.pdf"><u>[Slides]</u></a> 
 
