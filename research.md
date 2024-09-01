@@ -147,6 +147,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  <a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
 
 ----
+
+<br> 
  
 <h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h3>
 
@@ -214,8 +216,7 @@ term and by government consumption in the medium term</font> |
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">This document analyzes some aspects of Colombian financial regulation related to the Value at Risk (VaR) which is used to measure the market risk. In particular, we study the adequacy of the root rule and the performance evaluation of some alternative backtesting methodologies not considered by the current regulation. In order to analyze this problem, two measures of risk were considered;
-VaR, and Conditional VaR (CVaR), using different methodologies of easy implementation (RiskMetrics, ARMA-GARCH, historical simulation, filtered historical simulation and assuming normal i.i.d. returns) for the Colombian nominal exchange rate, the treasury bonds (TES) and the Colombian stock market index in the sample period from January 2003 to March 2010. The results show that for one day forecast horizon the considered methodologies measure properly the VaR. The methods with the best performance are those that model both the mean and the conditional variance. On the other hand, for horizons higher than one day, all methodologies have inadequate performance. In particular, it is found that the root rule does not provide acceptable estimations of the multiperiod VaR. It is important to note, that if the current regulation
-criteria are considered, some models would be adequate. However, when additional assumptions are taken into account, none of these methodologies is appropriated. </font> |
+  VaR, and Conditional VaR (CVaR), using different methodologies of easy implementation (RiskMetrics, ARMA-GARCH, historical simulation, filtered historical simulation and assuming normal i.i.d. returns) for the Colombian nominal exchange rate, the treasury bonds (TES) and the Colombian stock market index in the sample period from January 2003 to March 2010. The results show that for one day forecast horizon the considered methodologies measure properly the VaR. The methods with the best performance are those that model both the mean and the conditional variance. On the other hand, for horizons higher than one day, all methodologies have inadequate performance. In particular, it is found that the root rule does not provide acceptable estimations of the multiperiod VaR. It is important to note, that if the current regulation criteria are considered, some models would be adequate. However, when additional assumptions are taken into account, none of these methodologies is appropriated. </font> |
     
   
 </details>
