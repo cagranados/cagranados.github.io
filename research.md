@@ -148,8 +148,82 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 ----
  
-
 <h4><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h4>
+
+<details>
+  <summary markdown="span"><font color="blue">The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. </font> (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Economics Research International</u></b>. Vol. 2014, Article ID 649734.</font>
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">In this paper we study the effect of monetary policy shocks on commodity prices. While most of the literature has found that expansionary shocks have a positive effect on aggregate price indices, we study the effect on individual prices of a sample of four commodities. This set of commodity prices is essential to understand the dynamics of the balance of payments in Colombia. The analysis is based on structural VAR models, we identify monetary policy shocks following [Kim, 1999, 2003] upon quarterly data for commodity prices and their fundamentals for the period 1980q1 to 2010q3. Our results show that commodity prices overshoot their long run equilibrium in response to a contractionary shock in the US monetary policy and, in contrast with literature, the response of the individual prices considered is stronger than what has been found in aggregate indices. Additionally, it is found that the monetary policy explains a substantial share of the fluctuations in prices.</font> |
+    
+  
+</details>
+ <a href="https://onlinelibrary.wiley.com/doi/10.1155/2014/649734"><u>[Publisher]</u></a><a href="http://www.banrep.gov.co/docum/ftp/borra685.pdf"><u>[Working Paper]</u></a>
+
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Are the Real Exchange Rate Dynamics Explained by its Fundamentals? </font>  (in spanish), (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 72, December.</font>
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">In this work, we study the behavior of the real exchange rate (RER) of Colombia, with the help of a co-integration model that takes into account the interaction between the RER and a group macroeconomic determining factors, using quarterly data from the period 1994-2012. These fundamentals include a new relative productivity indicator that enables us to estimate the impact of the Balassa-Samuelson effect on the RER of Colombia. This methodology helps to detect the quarters in which the RER is far from its co-integration relationship and thus, is not explained by the behavior of its fundamentals. The results indicate that the real appreciation observed since the end of 2003 is mainly explained by the increase in terms of trade, and secondly by a proxy of the Balassa-Samuelson effect and due to factors with medium term effects such as the rates differential and risk. Additionally, the dynamics of the RER is mainly explained by the movement in net external assets in the short
+term and by government consumption in the medium term</font> |
+    
+  
+</details>
+ <a href="https://www.sciencedirect.com/science/article/abs/pii/S0120448313700010"><u>[Publisher]</u></a><a href="https://doi.org/10.32468/be.742"><u>[Working Paper]</u></a>
+
+----
+
+<details>
+  <summary markdown="span"><font color="blue">On the Determinants of Commodity Prices</font>  (in spanish), (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 71, December.</font>
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">In this work, an analysis is made of the dynamic response to most relevant basic commodity prices for the evolution of inflation for the consumer in Colombia due to shocks in a group of determining factors. The document is based on structural vector autoregression (VAR) models in which the external shocks are identified by restricting contemporaneous effects between the variables of the system. Quarterly data for the period from the first quarter of 1980 to the third quarter of 2010 was used for the calculation. In accordance with the results, monetary policy, the multilateral exchange rate of the United States of America and the GDP of developed and emerging countries explain a considerable percentage of the prognostic error variance of basic commodity prices. Furthermore, in general terms, the response of the prices due to a monetary policy shock is negative, instantaneous and statistically significant. Shocks to the exchange rate show a negative association with the prices, although not always significant, and in the majority of cases the real activity variables, both in developed countries and in the emerging ones has a positive relationship with the prices considered. </font> |
+    
+  
+</details>
+ <a href="https://www.sciencedirect.com/science/article/abs/pii/S0120448313700137"><u>[Publisher]</u></a><a href="https://doi.org/10.32468/be.701"><u>[Working Paper]</u></a>
+
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Inflation Expectations and Risk Premium Under an Inflation Compensation Method</font>  (in spanish), (with Luis F. Melo) <font color="black"><b><u>El Trimestre Económico</u></b>, vol. 79, No. 316, Fondo de Cultura Economica. México. October - December.</font>
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We estimate the Break Even Inflation using the nominal and real government Co-lombian bonds for the period January 2003 to November 2009. This measure is decomposed in inflation expectations and inflation risk premium. The inflation expectations are calculated using a state-space representation of an extended affine term structure model. In order to improve the forecasts, this model incorporates the inflation expectations 12 months ahead of the Colombian Central Bank survey.The results show an inflation expectation downward trend, which may be re-lated to an increasing confidence in monetary policy. This hypothesis is also sup-ported by a decreasing trend in the inflation risk premium for medium and long term maturities (two and five years). Finally, the results indicate that the break even inflation is a good indicator of the inflation expectations for the short term forecast horizon (one year). </font> |
+    
+  
+</details>
+ <a href="https://www.jstor.org/stable/23349191"><u>[Publisher]</u></a><a href="https://doi.org/10.32468/be.589"><u>[Working Paper]</u></a>
+
+----
+
+<details>
+  <summary markdown="span"><font color="blue">Financial Regulation and Value at Risk</font>  (in spanish), (with Luis F. Melo) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>, vol. 29, No. 64.</font>
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This document analyzes some aspects of Colombian financial regulation related to the Value at Risk (VaR) which is used to measure the market risk. In particular, we study the adequacy of the root rule and the performance evaluation of some alternative backtesting methodologies not considered by the current regulation. In order to analyze this problem, two measures of risk were considered;
+VaR, and Conditional VaR (CVaR), using different methodologies of easy implementation (RiskMetrics, ARMA-GARCH, historical simulation, filtered historical simulation and assuming normal i.i.d. returns) for the Colombian nominal exchange rate, the treasury bonds (TES) and the Colombian stock market index in the sample period from January 2003 to March 2010. The results show that for one day forecast horizon the considered methodologies measure properly the VaR. The methods with the best performance are those that model both the mean and the conditional variance. On the other hand, for horizons higher than one day, all methodologies have inadequate performance. In particular, it is found that the root rule does not provide acceptable estimations of the multiperiod VaR. It is important to note, that if the current regulation
+criteria are considered, some models would be adequate. However, when additional assumptions are taken into account, none of these methodologies is appropriated. </font> |
+    
+  
+</details>
+ <a href="https://doi.org/10.32468/Espe.6404"><u>[Publisher]</u></a><a href="https://doi.org/10.32468/be.615"><u>[Working Paper]</u></a>
+
+----
+
+<!-- 
 <p style="margin:0">
 Arteaga, C., Granados, J., and Ojeda, J., (2014). The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. <it> Economics Research International </it>, vol. 2014, Article ID 649734, 13 pages. doi: 10.1155/2014/649734
 <br>
@@ -162,6 +236,7 @@ Fondo de Cultura Economica. México. October - December.
 <br>
 <br> Melo, L., and Granados, J. (2011). Financial Regulation and Value at Risk (in spanish), <it>Ensayos Sobre Política Económica (ESPE) </it>, vol. 29, No. 64.
 </p>
+-->
 
 <br> 
 
