@@ -148,7 +148,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 ----
  
-<h4><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h4>
+<h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h3>
 
 <details>
   <summary markdown="span"><font color="blue">The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. </font> (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Economics Research International</u></b>. Vol. 2014, Article ID 649734.</font>
