@@ -49,9 +49,9 @@ Lecture 3: An Overview of Long-Run Economic Growth <a href="https://cagranados.g
 
 Lecture 4: A Model of Production <a href="https://cagranados.github.io/files/intmacrofall24/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
 
-Lecture 5: The Solow Growth Model 
+Lecture 5: The Solow Growth Model <a href="https://cagranados.github.io/files/intmacrofall24/L5_Solow Growth Model.pdf"><u>[Slides]</u></a> 
 
-Lecture 8: Inflation
+Lecture 8: Inflation <a href="https://cagranados.github.io/files/intmacrofall24/L8_Inflation.pdf"><u>[Slides]</u></a> 
 
 Lecture 9: An Introduction to the Short Run
 
