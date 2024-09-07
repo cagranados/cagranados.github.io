@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Lecture 1: Introduction   \
-**Next:** Lecture 2: Measuring the macroeconomy
+**Now:** Lecture 4: A Model of Production   \
+**Next:** Lecture 5: The Solow Growth Model 
 
 
 ### Outline and slides:
