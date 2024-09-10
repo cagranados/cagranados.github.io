@@ -22,7 +22,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 
 
 **Problem set 1:** due date 9/10 <a href="https://cagranados.github.io/files/intmacrofall24/PS1.pdf"><u>[Problem Set]</u> </a> <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospring24/data_ps1.xlsx"><u>[data loaded in Ans key]</u></a> --> \
-**Problem set 2:** due date 9/24 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 2:** due date 9/24  <a href="https://cagranados.github.io/files/intmacrofall24/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 3:** due date 10/17 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>  --> \
 **Problem set 4:** due date 11/5 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/simpleDSGEexample.mod"><u>[dynare code]</u></a> --> \
 **Problem set 5:** due date 11/26 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a> -->
@@ -69,3 +69,6 @@ Lecture 15: DSGE Models: The Frontier of Business Cycle Research
 
 
 
+### Other materials: 
+
+Practice problems 1: <a href="https://cagranados.github.io/files/intmacrofall24/PracticeProblems1.pdf"><u>[Questions]</u></a> 
