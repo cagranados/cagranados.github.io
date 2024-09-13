@@ -29,14 +29,14 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 
 **Midterm 1:** 9/26  <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Midterm 2:** 11/7  <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** Time TBD (12/5 or final examination week) <!--  <a href="https://cagranados.github.io/files/msmacrospring24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Final exam:** Time TBA (12/5 or final examination week, defined by late Oct) <!--  <a href="https://cagranados.github.io/files/msmacrospring24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Lecture 4: A Model of Production   \
-**Next:** Lecture 5: The Solow Growth Model 
+**Now:** Lecture 5: The Solow Growth Model   \
+**Next:** Lecture 6: Inflation
 
 
 ### Outline and slides:
