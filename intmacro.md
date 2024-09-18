@@ -21,7 +21,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Assignments, Exams and Deadlines
 
 
-**Problem set 1:** due date 9/10 <a href="https://cagranados.github.io/files/intmacrofall24/PS1.pdf"><u>[Problem Set]</u> </a>  <a href="https://cagranados.github.io/files/intmacrofall24/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  --> \
+**Problem set 1:** due date 9/10 <a href="https://cagranados.github.io/files/intmacrofall24/PS1.pdf"><u>[Problem Set]</u> </a>  <a href="https://cagranados.github.io/files/intmacrofall24/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 2:** due date 9/24  <a href="https://cagranados.github.io/files/intmacrofall24/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 3:** due date 10/17 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>  --> \
 **Problem set 4:** due date 11/5 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/simpleDSGEexample.mod"><u>[dynare code]</u></a> --> \
@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Lecture 5: The Solow Growth Model   \
-**Next:** Lecture 6: Inflation
+**Now:** Lecture 8: Inflation   \
+**Next:** Review session and midterm
 
 
 ### Outline and slides:
