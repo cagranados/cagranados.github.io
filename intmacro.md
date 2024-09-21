@@ -71,4 +71,4 @@ Lecture 15: DSGE Models: The Frontier of Business Cycle Research
 
 ### Other materials: 
 
-Practice problems 1: <a href="https://cagranados.github.io/files/intmacrofall24/PracticeProblems1.pdf"><u>[Questions]</u></a> 
+Practice problems 1: <a href="https://cagranados.github.io/files/intmacrofall24/PracticeProblems1.pdf"><u>[Questions]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PracticeProblems1_Answerkey.pdf"><u>[Answer key]</u></a> 
