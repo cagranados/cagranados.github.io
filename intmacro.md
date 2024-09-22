@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Lecture 8: Inflation   \
-**Next:** Review session and midterm
+**Now:** Review session   \
+**Next:** Midterm 1
 
 
 ### Outline and slides:
@@ -67,8 +67,12 @@ Lecture 14: The Great Recession and the Short-Run Model
 
 Lecture 15: DSGE Models: The Frontier of Business Cycle Research
 
+Lecture 16: Wrap up
+
 
 
 ### Other materials: 
 
 Practice problems 1: <a href="https://cagranados.github.io/files/intmacrofall24/PracticeProblems1.pdf"><u>[Questions]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PracticeProblems1_Answerkey.pdf"><u>[Answer key]</u></a> 
+
+Review session: <a href="https://cagranados.github.io/files/intmacrofall24/Review_Mid1.pdf"><u>[Slides]</u></a>
