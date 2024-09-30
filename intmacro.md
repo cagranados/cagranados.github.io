@@ -23,20 +23,20 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 
 **Problem set 1:** due date 9/10 <a href="https://cagranados.github.io/files/intmacrofall24/PS1.pdf"><u>[Problem Set]</u> </a> <a href="https://cagranados.github.io/files/intmacrofall24/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 2:** due date 9/24  <a href="https://cagranados.github.io/files/intmacrofall24/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 3:** due date 10/17 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>  --> \
-**Problem set 4:** due date 11/5 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/simpleDSGEexample.mod"><u>[dynare code]</u></a> --> \
-**Problem set 5:** due date 11/26 <!-- <a href="https://cagranados.github.io/files/msmacrospring24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a> <a href="https://cagranados.github.io/files/msmacrospring24/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a> -->
+**Problem set 3:** due date 10/17 <a href="https://cagranados.github.io/files/intmacrofall24/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>  --> \
+**Problem set 4:** due date 11/5 <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 5:** due date 11/26 <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a>  -->
 
-**Midterm 1:** 9/26  <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Midterm 2:** 11/7  <!-- <a href="https://cagranados.github.io/files/msmacrospring24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** Time TBA (12/5 or final examination week, defined by late October) <!--  <a href="https://cagranados.github.io/files/msmacrospring24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Midterm 1:** 9/26  <!-- <a href="https://cagranados.github.io/files/intmacrofall24/Midterm1_Fall2024_AK.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 11/7  <!-- <a href="https://cagranados.github.io/files/intmacrofall24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Final exam:** Time TBA (12/5 or final examination week, defined by late October) <!--  <a href="https://cagranados.github.io/files/intmacrofall24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Review session   \
-**Next:** Midterm 1
+**Now:** Introduction to Short Run   \
+**Next:** The Great Recession
 
 
 ### Outline and slides:
