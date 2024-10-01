@@ -12,7 +12,7 @@
 
 This course offers an exploration of macroeconomic theory and practice, focusing on both long-run and short-run economic phenomena. We will begin by introducing the fundamental concepts of macroeconomics, including methods used to measure key economic indicators, such as Gross Domestic Product (GDP). The course then delves into model representations of economic dynamics and fluctuations that are relevant for understanding how economies evolve over time.
 
-Moving from the long-run to the short-run, we will explore the dynamics of inflation, output fluctuations, and business cycles, using general equilibrium frameworks and related concepts such as the Phillips curve. Using these tools we later pay special attention will be paid to understanding the causes and consequences of economic crises, both in the US and around the world. Finally, we will introduce a benchmark framework resembling of the frontier of macroeconomic research based on microeconomic insights, namely the Dynamic Stochastic General Equilibrium models (DSGE) emphasizing on their usage for macroeconomic policy analysis. 
+Moving from the long-run to the short-run, we will explore the dynamics of inflation, output fluctuations, and business cycles, using general equilibrium frameworks and related concepts such as the Phillips curve. Using these tools we pay special attention to understanding the causes and consequences of economic crises, both in the US and around the world. Finally, we will introduce a benchmark framework resembling of the frontier of macroeconomic research based on microeconomic insights, namely the Dynamic Stochastic General Equilibrium models (DSGE) emphasizing on their usage for macroeconomic policy analysis. 
 
 
 ### Syllabus:  <a href="https://cagranados.github.io/files/intmacrofall24/IntermMacroAut24_syllabus.pdf"><u>[pdf]</u></a> 
@@ -53,9 +53,9 @@ Lecture 5: The Solow Growth Model <a href="https://cagranados.github.io/files/in
 
 Lecture 8: Inflation <a href="https://cagranados.github.io/files/intmacrofall24/L8_Inflation.pdf"><u>[Slides]</u></a> 
 
-Lecture 9: An Introduction to the Short Run
+Lecture 9: An Introduction to the Short Run <a href="https://cagranados.github.io/files/intmacrofall24/L9_An Introduction to the Short Run.pdf"><u>[Slides]</u></a> 
 
-Lecture 10: The Great Recession: A First Look
+Lecture 10: The Great Recession: A First Look <a href="https://cagranados.github.io/files/intmacrofall24/L10_Great Recession A First Look.pdf"><u>[Slides]</u></a> 
 
 Lecture 11: The IS Curve
 
