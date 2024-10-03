@@ -27,7 +27,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 **Problem set 4:** due date 11/5 <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** due date 11/26 <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a>  -->
 
-**Midterm 1:** 9/26  <!-- <a href="https://cagranados.github.io/files/intmacrofall24/Midterm1_Fall2024_AK.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 9/26  <a href="https://cagranados.github.io/files/intmacrofall24/Midterm1_Fall2024_AK.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 11/7  <!-- <a href="https://cagranados.github.io/files/intmacrofall24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** Time TBA (12/5 or final examination week, defined by late October) <!--  <a href="https://cagranados.github.io/files/intmacrofall24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
