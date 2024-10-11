@@ -57,9 +57,9 @@ Lecture 9: An Introduction to the Short Run <a href="https://cagranados.github.i
 
 Lecture 10: The Great Recession: A First Look <a href="https://cagranados.github.io/files/intmacrofall24/L10_Great Recession A First Look.pdf"><u>[Slides]</u></a> 
 
-Lecture 11: The IS Curve
+Lecture 11: The IS Curve <a href="https://cagranados.github.io/files/intmacrofall24/L11_The IS Curve.pdf"><u>[Slides]</u></a> 
 
-Lecture 12: Monetary Policy and the Phillips Curve
+Lecture 12: Monetary Policy and the Phillips Curve <a href="https://cagranados.github.io/files/intmacrofall24/L12_Monetary Policy and the Phillips Curve.pdf"><u>[Slides]</u></a> 
 
 Lecture 13: Stabilization Policy and the AS/AD Framework
 
