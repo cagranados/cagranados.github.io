@@ -79,6 +79,6 @@ Review session: <a href="https://cagranados.github.io/files/intmacrofall24/Revie
 
 ### Optional final project (bonus due on 11/12/24):
 
-Project: <a href="https://cagranados.github.io/files/intmacrofall24/OptionalFinalProject.pdf"><u>[Slides]</u></a>
+Project: <a href="https://cagranados.github.io/files/intmacrofall24/OptionalFinalProject.pdf"><u>[pdf]</u></a>
 
 (for the other possible bonus project, the analysis of 3 pieces of economic News from the lenses of the economic models of the course see the syllabus. Valid sources for this option are: Financial Times, The Economist, Wall Street Journal, Reuters, Bloomberg. If you find it easier, you can also consider as sources policy reports such as the IMF-WEO, or similar from the World Bank, BIS or OECD).
