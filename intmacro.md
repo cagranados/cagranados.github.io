@@ -77,7 +77,7 @@ Practice problems 1: <a href="https://cagranados.github.io/files/intmacrofall24/
 
 Review session: <a href="https://cagranados.github.io/files/intmacrofall24/Review_Mid1.pdf"><u>[Slides]</u></a>
 
-### Optional final project (bonus due on 11/12/24):
+### Optional final project (bonus due on 12/11/24):
 
 Project: <a href="https://cagranados.github.io/files/intmacrofall24/OptionalFinalProject.pdf"><u>[pdf]</u></a>
 
