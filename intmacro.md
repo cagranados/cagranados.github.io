@@ -25,18 +25,18 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 **Problem set 2:** due date 9/24  <a href="https://cagranados.github.io/files/intmacrofall24/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 10/17 <a href="https://cagranados.github.io/files/intmacrofall24/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 4:** due date 11/5 <a href="https://cagranados.github.io/files/intmacrofall24/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 5:** due date 11/26 <!-- <a href="https://cagranados.github.io/files/intmacrofall24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a>  -->
+**Problem set 5:** due date 11/26 <a href="https://cagranados.github.io/files/intmacrofall24/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrofall24/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a>  
 
 **Midterm 1:** 9/26  <a href="https://cagranados.github.io/files/intmacrofall24/Midterm1_Fall2024_AK.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 11/7  <!-- <a href="https://cagranados.github.io/files/intmacrofall24/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 11/7  <a href="https://cagranados.github.io/files/intmacrofall24/Midterm2_Fall2024_AK.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** 12/5  <!--  <a href="https://cagranados.github.io/files/intmacrofall24/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** The IS Curve   \
-**Next:** Monetary Policy and the Phillips Curve
+**Now:** The Great Recession and the Short-Run Model   \
+**Next:** DSGE Models: The Frontier of Business Cycle Research
 
 
 ### Outline and slides:
@@ -65,8 +65,7 @@ Lecture 13: Stabilization Policy and the AS/AD Framework <a href="https://cagran
 
 Lecture 14: The Great Recession and the Short-Run Model <a href="https://cagranados.github.io/files/intmacrofall24/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a> 
 
-Lecture 15: DSGE Models: The Frontier of Business Cycle Research <!-- <a href="https://cagranados.github.io/files/intmacrofall24/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a> -->
-
+Lecture 15: DSGE Models: The Frontier of Business Cycle Research <a href="https://cagranados.github.io/files/intmacrofall24/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a>
 
 Lecture 16: Wrap up
 
@@ -85,3 +84,5 @@ Project: <a href="https://cagranados.github.io/files/intmacrofall24/OptionalFina
 (for the other possible bonus project, the analysis of 3 pieces of economic News from the lenses of the economic models of the course see the syllabus. Valid sources for this option are: Financial Times, The Economist, Wall Street Journal, Reuters, Bloomberg. If you find it easier, you can also consider as sources policy reports such as the IMF-WEO, or similar from the World Bank, BIS or OECD).
 
 Note: The submission of either bonus assignments is done via e-learning. Also, check the due dates in e-learning (no submission is accepted after).
+
+
