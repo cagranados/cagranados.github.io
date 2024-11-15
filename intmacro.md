@@ -65,7 +65,7 @@ Lecture 13: Stabilization Policy and the AS/AD Framework <a href="https://cagran
 
 Lecture 14: The Great Recession and the Short-Run Model <a href="https://cagranados.github.io/files/intmacrofall24/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a> 
 
-Lecture 15: DSGE Models: The Frontier of Business Cycle Research <a href="https://cagranados.github.io/files/intmacrofall24/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a>
+Lecture 15: DSGE Models: The Frontier of Business Cycle Research <a href="https://cagranados.github.io/files/intmacrofall24/L15_Intro to DSGE models.pdf"><u>[Slides]</u></a>
 
 Lecture 16: Wrap up
 
