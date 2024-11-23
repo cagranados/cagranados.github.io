@@ -5,14 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo %}
+{% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  
-    <!-- Inline styles for layout -->
-    <style> 
+  <!-- The "style" below is added to widen the content of the website. 
+    Changes: Increase wrapper (main container), and lower width of sections to 70% 
+    (to have no overlapping of columns within wrapper) -->
+  <style> 
       /* Wrapper: Main container */
       .wrapper {
         max-width: 1000px; /* Adjust this to your desired width */
@@ -28,6 +29,7 @@
           padding: 20px; /* Internal spacing */
           box-sizing: border-box; /* Includes padding in width calculation */
       }
+  
 
       /* Optional: Make the section responsive for smaller screens */
       @media (max-width: 768px) {
@@ -36,106 +38,58 @@
           padding: 10px;
         }
       }
-
-      /* Dark theme styles */
-      body.dark-theme {
-          background-color: #121212;
-          color: #ffffff;
-      }
-      
-      body.dark-theme h1,
-      body.dark-theme h2,
-      body.dark-theme h3,
-      body.dark-theme h4,
-      body.dark-theme h5,
-      body.dark-theme h6 {
-          color: #ffffff; /* Change titles to white */
-      }
-      
-      body.dark-theme p, 
-      body.dark-theme span, 
-      body.dark-theme li {
-          color: #ffffff; /* Change text to white */
-      }
-      
-      body.dark-theme a {
-          color: #bb86fc; /* Light purple for links */
-      }
-      
-      body.dark-theme .custom-black-text {
-          color: #dddddd; /* Change custom black text to light grey */
-      }
-      
-      body.dark-theme header, 
-      body.dark-theme .wrapper {
-          background-color: #1e1e1e;
-          color: #ffffff;
-          border-color: #333;
-      }
-    </style>
+  </style>
   </head>
   <body>
     <div class="wrapper">
       <header>
-        <h1>
-          <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
-        </h1>
-
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
         <div style="display:inline;float:center">
+        <p>
+          <img src="{{site.logo | relative_url}}" alt="Logo"  style="width:230px" />
+          {{ site.description | default: site.github.project_tagline }}
+          <!-- 
+          <img src="1280px-University_of_Mannheim.svg.png" style="width:150px" /></p>
+                    
+          <img src="{{site.logo | relative_url}}" alt="Logo"  style="width:230px" />
+          
           <p>
-            <img src="{{site.logo | relative_url}}" alt="Logo"  style="width:230px" />
-            {{ site.description | default: site.github.project_tagline }}
-          </p>
-
-          <p>
-            <br><b>Website Links</b>:
-            <br><a href="https://cagranados.github.io/research.html">Research</a>
-            <br><a href="./teaching.html">Teaching</a>
-            <br><a href="./otherpage.html">Other materials</a>
-
-            <br><b>External Links</b>:  
-            <br><a href="https://scholar.google.com/citations?user=DvhsuuQAAAAJ&hl=es&oi=sra" target="_blank">Google Scholar Page</a>
-            <br><a href="https://ideas.repec.org/f/pgr313.html" target="_blank">IDEAS/RePEc</a>   
-            <br><a href="https://orcid.org/0000-0002-7632-1906" target="_blank">ORCID</a>  
-          </p>
-
-          <!-- Dark mode toggle button -->
-          <button id="theme-toggle" style="margin: 10px; padding: 5px 10px; cursor: pointer;">
-            Toggle Dark Mode
-          </button>
-        </div>
+          <br><b>Mailing address</b>:
+          <br>University of Mannheim
+          <br>Department of Economics
+          <br>L7, 3-5 Room P09
+          <br>68165 Mannheim, Germany
+          <br>
+          <br><b>E-mail</b>:
+            <br><small>minchul.yum "at" uni-mannheim.de</small>
+          
+          -->
+  
+        <p>
+        <br><b>Website Links</b>:
+        <!-- <br><a href="./cv.html">Curriculum Vitae</a> -->
+        <br><a href="https://cagranados.github.io/research.html">Research</a>
+        <br><a href="./teaching.html">Teaching</a>
+        <br><a href="./otherpage.html">Other materials</a>
+       
+        <br>  
+          
+        <br><b>External Links</b>:  
+        <br><a href="https://scholar.google.com/citations?user=DvhsuuQAAAAJ&hl=es&oi=sra" target="_blank">Google Scholar Page</a>
+        <br><a href="https://ideas.repec.org/f/pgr313.html" target="_blank">IDEAS/RePEc</a>   
+        <br><a href="https://orcid.org/0000-0002-7632-1906" target="_blank">ORCID</a>  
+        </p>
+            
       </header>
-      
       <section>
-        {{ content }}
+
+      {{ content }}
+        
       </section>
       
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-
-    <!-- Dark theme toggle script -->
-    <script>
-      const toggleButton = document.getElementById('theme-toggle');
-      const body = document.body;
-
-      // Check localStorage for saved theme preference
-      const savedTheme = localStorage.getItem('theme');
-      if (savedTheme === 'dark') {
-          body.classList.add('dark-theme');
-      }
-
-      // Toggle dark mode on button click
-      toggleButton.addEventListener('click', () => {
-          if (body.classList.contains('dark-theme')) {
-              body.classList.remove('dark-theme');
-              localStorage.setItem('theme', 'light');
-          } else {
-              body.classList.add('dark-theme');
-              localStorage.setItem('theme', 'dark');
-          }
-      });
-    </script>
-
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
