@@ -67,7 +67,7 @@ Lecture 14: The Great Recession and the Short-Run Model <a href="https://cagrana
 
 Lecture 15: DSGE Models: The Frontier of Business Cycle Research <a href="https://cagranados.github.io/files/intmacrofall24/L15_Intro to DSGE models.pdf"><u>[Slides]</u></a>
 
-Lecture 16: Wrap up <a href="https://cagranados.github.io/files/intmacrofall24/L16_WrapUp.pdf"><u>[Slides]</u></a>
+Lecture 16: Wrap up <a href="https://cagranados.github.io/files/intmacrofall24/L16_WrapUp_intMacro.pdf"><u>[Slides]</u></a>
 
 
 
