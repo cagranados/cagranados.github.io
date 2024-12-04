@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** The Great Recession and the Short-Run Model   \
-**Next:** DSGE Models: The Frontier of Business Cycle Research
+**Now:** DSGE Models: The Frontier of Business Cycle Researchand Wrap-up   \
+**Next:** DSGE Models: Final Exam
 
 
 ### Outline and slides:
