@@ -1,5 +1,5 @@
 ## Economics 4382: International Finance (UTD)
-### Spring 2024
+### Spring 2025
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday and Wednesday 5:30PM-6:45PM, FO 2.208 \
