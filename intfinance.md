@@ -1,11 +1,11 @@
 ## Economics 4382: International Finance (UTD)
-### Spring 2024
+### Spring 2025
 
 **Instructor:** Camilo Granados \
-**Class Time and Location:** Monday and Wednesday 5:30PM-6:45PM, FO 2.208 \
-**Course Office Hours:** GR 2.820, Wednesday 4:00PM-5:20PM or by appointment, GR 2.820 \
+**Class Time and Location:** Monday and Wednesday 11:30PM-12:45PM, GR 4.204 \
+**Course Office Hours:** GR 2.820, Monday 4:00PM-6:00PM or by appointment, GR 2.820 \
 **Email:** Camilo.granados@utdallas.edu \
-**Website:** <a href="https://cagranados.github.io/intfin4382.html"><u>https://cagranados.github.io/intfin4382.html</u></a> 
+**Website:** <a href="https://cagranados.github.io/intfinance.html"><u>https://cagranados.github.io/intfinance.html</u></a> 
 
 
 ### Course Description
@@ -15,7 +15,7 @@ This course explores the functioning of the international financial system. For 
 As we will see, these topics are not independent of the governments and policy decision making. Thus, we also cover the determination of exchange rate regimes, international financial regulations, and even international monetary theory, among others. Finally, some emphasis is put on the financial and trade interlinks between economies that are integrated to the global financial market and how these will imply that the economic outcomes between countries are interrelated too.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/intfinspr24/IntFinanceSpr24_syllabus.pdf"><u>[pdf]</u></a>
+### Syllabus:  <a href="https://cagranados.github.io/files/intfinspr24/IntFinanceSpr25_syllabus.pdf"><u>[pdf]</u></a>
 
 
 ### Outline:
@@ -50,15 +50,15 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 ### Assignments, Exams and Deadlines
 
-**Problem set 1:** due date 1/31 <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin.pdf"><u>[Problem Set]</u></a>  <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
-**Problem set 2:** due date 2/14 <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 3:** due date 3/6 <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 4:** due date 4/5 <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 5:** due date 4/24 <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>
+**Problem set 1:** due date 2/5 <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin.pdf"><u>[Problem Set]</u></a>  <a href="https://cagranados.github.io/files/intfinspr24/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
+**Problem set 2:** due date 2/19 <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Problem set 3:** due date 3/12 <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Problem set 4:** due date 4/9 <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Problem set 5:** due date 5/7 <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr24/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>
 
-**Midterm 1:** 2/19 <a href="https://cagranados.github.io/files/intfinspr24/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 4/8  <a href="https://cagranados.github.io/files/intfinspr24/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Final exam:** <font color="scarlet"> 5/1 5:30pm-6:45pm (FO 2.210)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr24/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
+**Midterm 1:** 2/26 <a href="https://cagranados.github.io/files/intfinspr24/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Midterm 2:** 4/16  <a href="https://cagranados.github.io/files/intfinspr24/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Final exam:** <font color="scarlet"> 5/7 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr24/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
 
