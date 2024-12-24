@@ -82,6 +82,19 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 ### Work in Progress
 
 <details>
+  <summary markdown="span"><font color="blue">Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy.</font>(with Andrew Faris)
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We examine how terms-of-trade fluctuations can shape the vulnerability of emerging economies to self-fulfilling financial crises and sudden stops. Building on a small open economy endowment model with importables, exportables, and nontradables, we allow the borrowing constraint to depend explicitly on the relative price of exports. This channel links terms-of-trade movements to the economy’s collateral capacity. We find that while terms-of-trade shocks may play a limited role in routine business-cycle dynamics, their importance intensifies under stressed conditions. Favorable terms-of-trade can deter the emergence of multiple equilibria and prevent expectation-driven crises. Our findings contribute to understanding the high relevance associated to the terms-of-trade in emerging economies, even in presence of the limited evidence of their importance as a fundamental driver during normal times.</font> |
+  
+ </details>
+ <a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
+  
+ ----
+
+<details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
     
   | **Abstract**          |
@@ -150,7 +163,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 <br> 
  
-<h3><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h3>
+<h4><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h4>
 
 <details>
   <summary markdown="span"><font color="blue">The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. </font> (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Economics Research International</u></b>. Vol. 2014, Article ID 649734.</font>
