@@ -70,7 +70,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">To rationalize the increased use of capital flows regulations in recent times, we study the capacity of capital flow management measures (CFMs) to insulate an economy from external shocks. We examine the extent to which CFMs mitigate the effects of US monetary shocks and whether measuring this mitigation at the net or gross level of flows matters. Our analysis is carried out for a panel of emerging market economies and for different disaggregations of the flows. Our results indicate that the level of aggregation matters for evaluating the effects of CFMs, and that analyses with excessively aggregated flows or with only net measures may lead to biases in assessing the insulation features of the CFMs. Furthermore, CFMs have insulation properties that mitigate capital repatriations; however, these are mostly related to risky portfolio and banking flows. </font> |
-  
+   
 </details>
 <a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Paper]</u></a>
 
