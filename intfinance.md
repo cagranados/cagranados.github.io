@@ -15,7 +15,7 @@ This course explores the functioning of the international financial system. For 
 As we will see, these topics are not independent of the governments and policy decision making. Thus, we also cover the determination of exchange rate regimes, international financial regulations, and even international monetary theory, among others. Finally, some emphasis is put on the financial and trade interlinks between economies that are integrated to the global financial market and how these will imply that the economic outcomes between countries are interrelated too.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/intfinspr25/IntFinanceSpr25_syllabus.pdf"><u>[pdf]</u></a>
+### Syllabus:  <a href="https://cagranados.github.io/files/intfinspr25/IntFinSpr25_syllabus.pdf"><u>[pdf]</u></a>
 
 
 ### Outline:
