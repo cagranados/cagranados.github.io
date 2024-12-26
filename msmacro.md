@@ -13,7 +13,7 @@
 This course explores modern theories of macroeconomic fluctuations. The goal is to introduce students to the seminal frameworks of contemporary macroeconomics and equip them with relevant analytical and empirical techniques for understanding advanced macroeconomic analyses. The course will cover topics from the monetary theory of business cycles, monopolistic competition, dynamics of price adjustments, financial frictions, consumption theories and, through group projects, provide students opportunities to explore additional topics such as optimal monetary policy, dynamic stochastic general equilibrium (DSGE) analyses, the COVID-19 or “lockdown” recession, and so on.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/msmacrospring25/Econ5322sp25_syllabus.pdf"><u>[pdf]</u></a> 
+### Syllabus:  <a href="https://cagranados.github.io/files/msmacrospr25/Econ5322sp25_syllabus.pdf"><u>[pdf]</u></a> 
 
 
 ### Outline:
@@ -64,18 +64,18 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Assignments, Exams and Deadlines
 
 
-**Problem set 0:** due date 2/3 <a href="https://cagranados.github.io/files/msmacrospring25/PS0.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring25/PS0_AnswerKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 1:** due date 2/17 <a href="https://cagranados.github.io/files/msmacrospring25/PS1.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring25/ps1q2_code.m"><u>[code_q2]</u></a> <a href="https://cagranados.github.io/files/msmacrospring25/hpfilter.m"><u>[hpfilter.m]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring25/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospring25/data_ps1.xlsx"><u>[data loaded in Ans key]</u></a> --> \
-**Problem set 2:** due date 3/3 <a href="https://cagranados.github.io/files/msmacrospring25/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring25/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 3:** due date 3/31 <a href="https://cagranados.github.io/files/msmacrospring25/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring25/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> -->  \
-**Problem set 4:** due date 4/14 <a href="https://cagranados.github.io/files/msmacrospring25/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospring25/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospring25/simpleDSGEexample.mod"><u>[dynare code]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 5:** due date 4/28 <a href="https://cagranados.github.io/files/msmacrospring25/PS5.pdf"><u>[Problem Set]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospring25/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
-<a href="https://cagranados.github.io/files/msmacrospring25/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
+**Problem set 0:** due date 2/3 <a href="https://cagranados.github.io/files/msmacrospr25/PS0.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/PS0_AnswerKey.pdf"><u>[Answer Key]</u></a> \
+**Problem set 1:** due date 2/17 <a href="https://cagranados.github.io/files/msmacrospr25/PS1.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/ps1q2_code.m"><u>[code_q2]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/hpfilter.m"><u>[hpfilter.m]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospr25/data_ps1.xlsx"><u>[data loaded in Ans key]</u></a> --> \
+**Problem set 2:** due date 3/3 <a href="https://cagranados.github.io/files/msmacrospr25/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 3/31 <a href="https://cagranados.github.io/files/msmacrospr25/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> -->  \
+**Problem set 4:** due date 4/14 <a href="https://cagranados.github.io/files/msmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/simpleDSGEexample.mod"><u>[dynare code]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 5:** due date 4/28 <a href="https://cagranados.github.io/files/msmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> 
+<a href="https://cagranados.github.io/files/msmacrospr25/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
+<a href="https://cagranados.github.io/files/msmacrospr25/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 3/10  <a href="https://cagranados.github.io/files/msmacrospring25/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Final exam:** Time TBD (5/5 or final examination week) <!--  <a href="https://cagranados.github.io/files/msmacrospring25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Midterm 1:** 3/10  <a href="https://cagranados.github.io/files/msmacrospr25/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Final exam:** Time TBD (5/5 or final examination week) <!--  <a href="https://cagranados.github.io/files/msmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 
@@ -87,32 +87,32 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Next:** Final Exam
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
-Topic 1: <a href="https://cagranados.github.io/files/msmacrospring25/Topic1_Intro.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 1: <a href="https://cagranados.github.io/files/msmacrospr25/Topic1_Intro.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 2: <a href="https://cagranados.github.io/files/msmacrospring25/Topic2_RBC.pdf"><u>[Slides]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospring25/IRFs_RBC.xlsx"><u>[RBC simple IRFs]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 2: <a href="https://cagranados.github.io/files/msmacrospr25/Topic2_RBC.pdf"><u>[Slides]</u></a> 
+<a href="https://cagranados.github.io/files/msmacrospr25/IRFs_RBC.xlsx"><u>[RBC simple IRFs]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 3: <a href="https://cagranados.github.io/files/msmacrospring25/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/Topic3_InfoFrictionsAndNominalRigidities_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 3: <a href="https://cagranados.github.io/files/msmacrospr25/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/Topic3_InfoFrictionsAndNominalRigidities_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 4: <a href="https://cagranados.github.io/files/msmacrospring25/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 4: <a href="https://cagranados.github.io/files/msmacrospr25/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 5: <a href="https://cagranados.github.io/files/msmacrospring25/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 5: <a href="https://cagranados.github.io/files/msmacrospr25/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 6: <a href="https://cagranados.github.io/files/msmacrospring25/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Topic 6: <a href="https://cagranados.github.io/files/msmacrospr25/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 
 **Technical slides:** these slides cover technical details about some of the topics above and software instructions (MATLAB and Dynare)
 
-1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospring25/TechSession1_Slides.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides]</u></a> -->
+1: Intro to stochastic processes, time series and MATLAB <a href="https://cagranados.github.io/files/msmacrospr25/TechSession1_Slides.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides]</u></a> -->
 
-2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospring25/TechSession2_Slides.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospring25/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospr25/TechSession2_Slides.pdf"><u>[Slides]</u></a> 
+<!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospring25/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospring25/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
