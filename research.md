@@ -185,8 +185,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 	
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">In this work, we study the behavior of the real exchange rate (RER) of Colombia, with the help of a co-integration model that takes into account the interaction between the RER and a group macroeconomic determining factors, using quarterly data from the period 1994-2012. These fundamentals include a new relative productivity indicator that enables us to estimate the impact of the Balassa-Samuelson effect on the RER of Colombia. This methodology helps to detect the quarters in which the RER is far from its co-integration relationship and thus, is not explained by the behavior of its fundamentals. The results indicate that the real appreciation observed since the end of 2003 is mainly explained by the increase in terms of trade, and secondly by a proxy of the Balassa-Samuelson effect and due to factors with medium term effects such as the rates differential and risk. Additionally, the dynamics of the RER is mainly explained by the movement in net external assets in the short
-term and by government consumption in the medium term</font> |
+  | <font color="black">In this work, we study the behavior of the real exchange rate (RER) of Colombia, with the help of a co-integration model that takes into account the interaction between the RER and a group macroeconomic determining factors, using quarterly data from the period 1994-2012. These fundamentals include a new relative productivity indicator that enables us to estimate the impact of the Balassa-Samuelson effect on the RER of Colombia. This methodology helps to detect the quarters in which the RER is far from its co-integration relationship and thus, is not explained by the behavior of its fundamentals. The results indicate that the real appreciation observed since the end of 2003 is mainly explained by the increase in terms of trade, and secondly by a proxy of the Balassa-Samuelson effect and due to factors with medium term effects such as the rates differential and risk. Additionally, the dynamics of the RER is mainly explained by the movement in net external assets in the short term and by government consumption in the medium term</font> |
     
   
 </details>
@@ -228,8 +227,7 @@ term and by government consumption in the medium term</font> |
 	
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">This document analyzes some aspects of Colombian financial regulation related to the Value at Risk (VaR) which is used to measure the market risk. In particular, we study the adequacy of the root rule and the performance evaluation of some alternative backtesting methodologies not considered by the current regulation. In order to analyze this problem, two measures of risk were considered;
-  VaR, and Conditional VaR (CVaR), using different methodologies of easy implementation (RiskMetrics, ARMA-GARCH, historical simulation, filtered historical simulation and assuming normal i.i.d. returns) for the Colombian nominal exchange rate, the treasury bonds (TES) and the Colombian stock market index in the sample period from January 2003 to March 2010. The results show that for one day forecast horizon the considered methodologies measure properly the VaR. The methods with the best performance are those that model both the mean and the conditional variance. On the other hand, for horizons higher than one day, all methodologies have inadequate performance. In particular, it is found that the root rule does not provide acceptable estimations of the multiperiod VaR. It is important to note, that if the current regulation criteria are considered, some models would be adequate. However, when additional assumptions are taken into account, none of these methodologies is appropriated. </font> |
+  | <font color="black">This document analyzes some aspects of Colombian financial regulation related to the Value at Risk (VaR) which is used to measure the market risk. In particular, we study the adequacy of the root rule and the performance evaluation of some alternative backtesting methodologies not considered by the current regulation. In order to analyze this problem, two measures of risk were considered: VaR, and Conditional VaR (CVaR), using different methodologies of easy implementation (RiskMetrics, ARMA-GARCH, historical simulation, filtered historical simulation and assuming normal i.i.d. returns) for the Colombian nominal exchange rate, the treasury bonds (TES) and the Colombian stock market index in the sample period from January 2003 to March 2010. The results show that for one day forecast horizon the considered methodologies measure properly the VaR. The methods with the best performance are those that model both the mean and the conditional variance. On the other hand, for horizons higher than one day, all methodologies have inadequate performance. In particular, it is found that the root rule does not provide acceptable estimations of the multiperiod VaR. It is important to note, that if the current regulation criteria are considered, some models would be adequate. However, when additional assumptions are taken into account, none of these methodologies is appropriated. </font> |
     
   
 </details>
@@ -259,3 +257,9 @@ Fondo de Cultura Economica. México. October - December.
 <br>
 
 <br> 
+
+PhD, Economics, University of Washington /
+
+MS, Data Science, University of Texas at Austin  /
+
+BSc, Economics, Universidad Nacional de Colombia
