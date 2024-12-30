@@ -258,8 +258,3 @@ Fondo de Cultura Economica. México. October - December.
 
 <br> 
 
-PhD, Economics, University of Washington, Seattle 
-
-MS, Data Science, University of Texas at Austin
-
-BSc, Economics, Universidad Nacional de Colombia
