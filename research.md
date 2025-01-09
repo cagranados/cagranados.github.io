@@ -82,7 +82,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 ### Work in Progress
 
 <details>
-  <summary markdown="span"><font color="blue">Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy.</font>(with Andrew Faris)
+  <summary markdown="span"><font color="blue">Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy </font> (with Andrew Faris)
   </summary>
     
   | **Abstract**          |
