@@ -75,7 +75,7 @@ Lecture 1: <a href="https://cagranados.github.io/files/intfinspr25/L1_part1_Intr
 Lecture 2: <a href="https://cagranados.github.io/files/intfinspr25/L2_part1_ER.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L2_part1_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-<span color="scarlet">Lecture 3:</span> <a href="https://cagranados.github.io/files/intfinspr25/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
+<span style="color: scarlet;">Lecture 3:</span><a href="https://cagranados.github.io/files/intfinspr25/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L3_part1_ERLongRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Lecture 4: <a href="https://cagranados.github.io/files/intfinspr25/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 

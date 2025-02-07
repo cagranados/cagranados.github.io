@@ -47,7 +47,7 @@ Lecture 2: Measuring the Macroeconomy <a href="https://cagranados.github.io/file
 
 Lecture 3: An Overview of Long-Run Economic Growth <a href="https://cagranados.github.io/files/intmacrospr25/L3_An Overview of Long Term Economic Growth.pdf"><u>[Slides]</u></a> 
 
-<font color="scarlet">  Lecture 4: A Model of Production </font> <a href="https://cagranados.github.io/files/intmacrospr25/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
+<font color="scarlet">Lecture 4: A Model of Production</font><a href="https://cagranados.github.io/files/intmacrospr25/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
 
 Lecture 5: The Solow Growth Model <a href="https://cagranados.github.io/files/intmacrospr25/L5_Solow Growth Model.pdf"><u>[Slides]</u></a> 
 
