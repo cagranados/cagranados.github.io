@@ -29,14 +29,14 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 
 **Midterm 1:** 2/26  <!-- <a href="https://cagranados.github.io/files/intmacrospr25/Midterm1_Fall2024_AK.pdf"><u>[Answer Key]</u></a> --> \
 **Midterm 2:** 4/9  <!-- <a href="https://cagranados.github.io/files/intmacrospr25/Midterm2_Fall2024_AK.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** 5/7  <!--  <a href="https://cagranados.github.io/files/intmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Final exam:** <font color="scarlet">  5/7 </font>  <!--  <a href="https://cagranados.github.io/files/intmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Introduction   \
-**Next:** Measuring the Macroeconomy
+**Now:** A Model of Production   \
+**Next:** The Solow Growth Model
 
 
 ### Outline and slides:
@@ -47,7 +47,7 @@ Lecture 2: Measuring the Macroeconomy <a href="https://cagranados.github.io/file
 
 Lecture 3: An Overview of Long-Run Economic Growth <a href="https://cagranados.github.io/files/intmacrospr25/L3_An Overview of Long Term Economic Growth.pdf"><u>[Slides]</u></a> 
 
-Lecture 4: A Model of Production <a href="https://cagranados.github.io/files/intmacrospr25/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
+<font color="scarlet">  Lecture 4: A Model of Production </font> <a href="https://cagranados.github.io/files/intmacrospr25/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
 
 Lecture 5: The Solow Growth Model <a href="https://cagranados.github.io/files/intmacrospr25/L5_Solow Growth Model.pdf"><u>[Slides]</u></a> 
 
