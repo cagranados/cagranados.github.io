@@ -21,7 +21,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Assignments, Exams and Deadlines
 
 
-**Problem set 1:** due date 2/12 <a href="https://cagranados.github.io/files/intmacrospr25/PS1.pdf"><u>[Problem Set]</u> </a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 1:** due date 2/12 <a href="https://cagranados.github.io/files/intmacrospr25/PS1.pdf"><u>[Problem Set]</u> </a> <a href="https://cagranados.github.io/files/intmacrospr25/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 2:** due date 2/24  <a href="https://cagranados.github.io/files/intmacrospr25/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 3:** due date 3/26 <a href="https://cagranados.github.io/files/intmacrospr25/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 4:** due date 4/7 <a href="https://cagranados.github.io/files/intmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
@@ -47,9 +47,9 @@ Lecture 2: Measuring the Macroeconomy <a href="https://cagranados.github.io/file
 
 Lecture 3: An Overview of Long-Run Economic Growth <a href="https://cagranados.github.io/files/intmacrospr25/L3_An Overview of Long Term Economic Growth.pdf"><u>[Slides]</u></a> 
 
-**Lecture 4:** A Model of Production <a href="https://cagranados.github.io/files/intmacrospr25/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
+Lecture 4: A Model of Production <a href="https://cagranados.github.io/files/intmacrospr25/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
 
-Lecture 5: The Solow Growth Model <a href="https://cagranados.github.io/files/intmacrospr25/L5_Solow Growth Model.pdf"><u>[Slides]</u></a> 
+**Lecture 5:** The Solow Growth Model <a href="https://cagranados.github.io/files/intmacrospr25/L5_Solow Growth Model.pdf"><u>[Slides]</u></a> 
 
 Lecture 8: Inflation <a href="https://cagranados.github.io/files/intmacrospr25/L8_Inflation.pdf"><u>[Slides]</u></a> 
 
