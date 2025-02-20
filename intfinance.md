@@ -67,6 +67,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 (this is updated on a regular basis)
 
 **Now:** The Exchange Rate in the Short Run \ <!-- Impossible Trinity of International Economics or Mundellian Trilemma -->
+
 **Next:** Exam 1
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr25/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
