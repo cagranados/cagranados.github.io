@@ -73,7 +73,7 @@ Lecture 16: Wrap up <a href="https://cagranados.github.io/files/intmacrospr25/L1
 
 ### Other materials: 
 
-Practice problems 1: <a href="https://cagranados.github.io/files/intmacrospr25/PracticeProblems1.pdf"><u>[Questions]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PracticeProblems1_Answerkey.pdf"><u>[Answer key]</u></a>  -->
+Practice problems 1: <a href="https://cagranados.github.io/files/intmacrospr25/PracticeProblems1.pdf"><u>[Questions]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PracticeProblems1_Answerkey.pdf"><u>[Answer key]</u></a>  
 
 Review session: <a href="https://cagranados.github.io/files/intmacrospr25/Review_Mid1.pdf"><u>[Slides]</u></a> 
 
