@@ -2,7 +2,7 @@
 ### Spring 2025
 
 **Instructor:** Camilo Granados \
-**Class Time and Location:** Monday and Wednesday 2:30PM-3:45PM, FN 2.104  \
+**Class Time and Location:** Monday and Wednesday 2:30PM-3:45PM, GR 4.301  \
 **Course Office Hours:**  GR 2.820, Monday 4:00PM-6:00PM  or by appointment (in person or MS Teams) \
 **Email:** Camilo.granados@utdallas.edu \
 **Website:** <a href="https://cagranados.github.io/intmacro.html"><u>https://cagranados.github.io/intmacro.html</u></a> 
