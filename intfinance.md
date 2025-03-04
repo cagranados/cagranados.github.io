@@ -56,7 +56,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 4:** due date 4/9 <a href="https://cagranados.github.io/files/intfinspr254/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** due date 5/7 <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 2/26 <!-- <a href="https://cagranados.github.io/files/intfinspr25/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 2/26 <a href="https://cagranados.github.io/files/intfinspr25/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 4/16 <!-- <a href="https://cagranados.github.io/files/intfinspr25/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** <font color="scarlet"> 5/7 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr25/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
