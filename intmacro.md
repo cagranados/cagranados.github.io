@@ -27,7 +27,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 **Problem set 4:** due date 4/7 <a href="https://cagranados.github.io/files/intmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** due date 4/30 <a href="https://cagranados.github.io/files/intmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 2/26  <a href="https://cagranados.github.io/files/intmacrospr25/Midterm1_Fall2024_AK.pdf"><u>[Answer Key]</u></a> \
+**Midterm 1:** 2/26  <a href="https://cagranados.github.io/files/intmacrospr25/Midterm1_Spr2025_AK.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 4/9  <!-- <a href="https://cagranados.github.io/files/intmacrospr25/Midterm2_Fall2024_AK.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** <font color="scarlet">  5/7 </font>  <!--  <a href="https://cagranados.github.io/files/intmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** The Solow Growth Model   \
-**Next:** Exam 1
+**Now:** Inflation   \
+**Next:** An Introduction to the Short Run
 
 
 ### Outline and slides:
@@ -49,11 +49,11 @@ Lecture 3: An Overview of Long-Run Economic Growth <a href="https://cagranados.g
 
 Lecture 4: A Model of Production <a href="https://cagranados.github.io/files/intmacrospr25/L4_A Model of Production.pdf"><u>[Slides]</u></a> 
 
-**Lecture 5:** The Solow Growth Model <a href="https://cagranados.github.io/files/intmacrospr25/L5_Solow Growth Model.pdf"><u>[Slides]</u></a> 
+Lecture 5: The Solow Growth Model <a href="https://cagranados.github.io/files/intmacrospr25/L5_Solow Growth Model.pdf"><u>[Slides]</u></a> 
 
 Lecture 8: Inflation <a href="https://cagranados.github.io/files/intmacrospr25/L8_Inflation.pdf"><u>[Slides]</u></a> 
 
-Lecture 9: An Introduction to the Short Run <a href="https://cagranados.github.io/files/intmacrospr25/L9_An Introduction to the Short Run.pdf"><u>[Slides]</u></a> 
+**Lecture 9:** An Introduction to the Short Run <a href="https://cagranados.github.io/files/intmacrospr25/L9_An Introduction to the Short Run.pdf"><u>[Slides]</u></a> 
 
 Lecture 10: The Great Recession: A First Look <a href="https://cagranados.github.io/files/intmacrospr25/L10_Great Recession A First Look.pdf"><u>[Slides]</u></a> 
 

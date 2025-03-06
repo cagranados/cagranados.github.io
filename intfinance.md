@@ -66,23 +66,18 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** The Exchange Rate in the Short Run \
-**Next:** Exam 1 <!-- Impossible Trinity of International Economics or Mundellian Trilemma -->
+**Now:** The Balance of Payments \
+**Next:** Long-run Budget Constraint and Gains from Financial 
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr25/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L1_part1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Lecture 2: <a href="https://cagranados.github.io/files/intfinspr25/L2_part1_ER.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L2_part1_ER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Lecture 3: <a href="https://cagranados.github.io/files/intfinspr25/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L3_part1_ERLongRun_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-**Lecture 4:** <a href="https://cagranados.github.io/files/intfinspr25/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L4_part1_ERShortRun_wNotes.pdf"><u>[Annotated Slides]</u></a> --> 
+Lecture 4: <a href="https://cagranados.github.io/files/intfinspr25/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
 
-Lecture 5: <a href="https://cagranados.github.io/files/intfinspr25/L5_part2_BOP.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L5_part2_BOP_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+**Lecture 5:** <a href="https://cagranados.github.io/files/intfinspr25/L5_part2_BOP.pdf"><u>[Slides]</u></a>
 
 Lecture 6: <a href="https://cagranados.github.io/files/intfinspr25/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
