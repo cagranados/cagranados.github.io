@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Inflation   \
-**Next:** An Introduction to the Short Run
+**Now:** The Great Recession: A First Look   \
+**Next:** The IS Curve
 
 
 ### Outline and slides:
@@ -53,9 +53,9 @@ Lecture 5: The Solow Growth Model <a href="https://cagranados.github.io/files/in
 
 Lecture 8: Inflation <a href="https://cagranados.github.io/files/intmacrospr25/L8_Inflation.pdf"><u>[Slides]</u></a> 
 
-**Lecture 9:** An Introduction to the Short Run <a href="https://cagranados.github.io/files/intmacrospr25/L9_An Introduction to the Short Run.pdf"><u>[Slides]</u></a> 
+Lecture 9: An Introduction to the Short Run <a href="https://cagranados.github.io/files/intmacrospr25/L9_An Introduction to the Short Run.pdf"><u>[Slides]</u></a> 
 
-Lecture 10: The Great Recession: A First Look <a href="https://cagranados.github.io/files/intmacrospr25/L10_Great Recession A First Look.pdf"><u>[Slides]</u></a> 
+**Lecture 10:** The Great Recession: A First Look <a href="https://cagranados.github.io/files/intmacrospr25/L10_Great Recession A First Look.pdf"><u>[Slides]</u></a> 
 
 Lecture 11: The IS Curve <a href="https://cagranados.github.io/files/intmacrospr25/L11_The IS Curve.pdf"><u>[Slides]</u></a> 
 

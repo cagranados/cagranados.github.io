@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** The Balance of Payments \
-**Next:** Long-run Budget Constraint and Gains from Financial 
+**Now:** Long-run Budget Constraint and Gains from Financial Globalization \
+**Next:** Open Economy Macroeconomic Policy in the Short-run
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr25/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -77,9 +77,9 @@ Lecture 3: <a href="https://cagranados.github.io/files/intfinspr25/L3_part1_ERLo
 
 Lecture 4: <a href="https://cagranados.github.io/files/intfinspr25/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
 
-**Lecture 5:** <a href="https://cagranados.github.io/files/intfinspr25/L5_part2_BOP.pdf"><u>[Slides]</u></a>
+Lecture 5: <a href="https://cagranados.github.io/files/intfinspr25/L5_part2_BOP.pdf"><u>[Slides]</u></a>
 
-Lecture 6: <a href="https://cagranados.github.io/files/intfinspr25/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
+**Lecture 6:** <a href="https://cagranados.github.io/files/intfinspr25/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Lecture 7: <a href="https://cagranados.github.io/files/intfinspr25/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
