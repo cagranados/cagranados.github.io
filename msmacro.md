@@ -74,7 +74,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 <a href="https://cagranados.github.io/files/msmacrospr25/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 3/10  <!-- <a href="https://cagranados.github.io/files/msmacrospr25/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 3/10  <a href="https://cagranados.github.io/files/msmacrospr25/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** Time TBD (5/5 or final examination week) <!--  <a href="https://cagranados.github.io/files/msmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
@@ -113,6 +113,6 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospr25/Topic6_Financi
 <!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession1_Slides_withAnnotations.pdf"><u>[Annotated Slides]</u></a> -->
 
 2: Constrained optimization and monopolistic competition <a href="https://cagranados.github.io/files/msmacrospr25/TechSession2_Slides.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+ <a href="https://cagranados.github.io/files/msmacrospr25/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
