@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Topic 2 - The RBC model   \
-**Next:** Information frictions and nominal rigidities
+**Now:** Nominal rigidities  \
+**Next:** Consumption and Aggregate Demand
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr25/Topic1_Intro.pdf"><u>[Slides]</u></a> 

@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** The Great Recession: A First Look   \
-**Next:** The IS Curve
+**Now:** The IS Curve   \
+**Next:** Monetary Policy and the Phillips Curve
 
 
 ### Outline and slides:
