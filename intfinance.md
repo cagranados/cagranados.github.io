@@ -93,3 +93,13 @@ Lecture 9: <a href="https://cagranados.github.io/files/intfinspr25/L9_part3_ERPe
 
 <!-- Lecture 10: <a href="https://cagranados.github.io/files/intfinspr25/L10_part3_TheEuro.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L10_part3_TheEuro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+
+
+### Optional presentation:
+
+(bonus —to be held on last weeks of classes and prior to the final exam)
+
+Desciption: <a href="https://cagranados.github.io/files/intfinspr25/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a>
+
+To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above).
+
