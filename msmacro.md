@@ -116,3 +116,12 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospr25/Topic6_Financi
  <a href="https://cagranados.github.io/files/msmacrospr25/TechSession2_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> 
 
 3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+
+
+### Final presentation:
+
+(to be held on last weeks of classes and prior to the final exam)
+
+Desciption: <a href="https://cagranados.github.io/files/msmacrospr25/InvididualPresentationsTopics.pdf"><u>[pdf]</u></a>
+
+To declare your topic send me an email on behalf of your group (with group members included in the CC) by 4/14.
