@@ -75,7 +75,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 3/10  <a href="https://cagranados.github.io/files/msmacrospr25/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Final exam:** Time TBD (5/12 during class time or final examination assigned slot: 5/16 at 1:00PM-2:30PM, GR 4.301) <!--  <a href="https://cagranados.github.io/files/msmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Final exam:** Time <font color="scarlet"> 5/12 </font> <!--  <a href="https://cagranados.github.io/files/msmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 
