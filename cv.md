@@ -48,10 +48,10 @@ I study whether emerging economies can navigate the global financial cycle more 
 
 ### REFERENCES
 
--   **Associate Professor Yu-chin Chen**, UW (Advisor)\
-&nbsp; Email: [yuchin@uw.edu](mailto:yuchin@uw.edu)
 -   **Professor Ippei Fujiwara**, Keio U / ANU (Advisor)\
 &nbsp; Email: <ippei.fujiwara@keio.jp>
+-   **Associate Professor Yu-chin Chen**, UW (Advisor)\
+&nbsp; Email: [yuchin@uw.edu](mailto:yuchin@uw.edu)
 -   **Professor Fabio Ghironi**, UW\
 &nbsp; Email: <fabio.ghironi.1@gmail.com>
 
