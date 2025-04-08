@@ -24,7 +24,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 **Problem set 1:** due date 2/12 <a href="https://cagranados.github.io/files/intmacrospr25/PS1.pdf"><u>[Problem Set]</u> </a> <a href="https://cagranados.github.io/files/intmacrospr25/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 2:** due date 2/24  <a href="https://cagranados.github.io/files/intmacrospr25/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 3/26 <a href="https://cagranados.github.io/files/intmacrospr25/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 4:** due date 4/7 <a href="https://cagranados.github.io/files/intmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 4:** due date 4/7 <a href="https://cagranados.github.io/files/intmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a>  \
 **Problem set 5:** due date 4/30 <a href="https://cagranados.github.io/files/intmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 2/26  <a href="https://cagranados.github.io/files/intmacrospr25/Midterm1_Spr2025_AK.pdf"><u>[Answer Key]</u></a> \
@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** The IS Curve   \
-**Next:** Monetary Policy and the Phillips Curve
+**Now:** Monetary Policy and the Phillips Curve   \
+**Next:** Midterm 2
 
 
 ### Outline and slides:
@@ -57,9 +57,9 @@ Lecture 9: An Introduction to the Short Run <a href="https://cagranados.github.i
 
 Lecture 10: The Great Recession: A First Look <a href="https://cagranados.github.io/files/intmacrospr25/L10_Great Recession A First Look.pdf"><u>[Slides]</u></a> 
 
-**Lecture 11: The IS Curve** <a href="https://cagranados.github.io/files/intmacrospr25/L11_The IS Curve.pdf"><u>[Slides]</u></a> 
+Lecture 11: The IS Curve <a href="https://cagranados.github.io/files/intmacrospr25/L11_The IS Curve.pdf"><u>[Slides]</u></a> 
 
-Lecture 12: Monetary Policy and the Phillips Curve <a href="https://cagranados.github.io/files/intmacrospr25/L12_Monetary Policy and the Phillips Curve.pdf"><u>[Slides]</u></a> 
+**Lecture 12: Monetary Policy and the Phillips Curve** <a href="https://cagranados.github.io/files/intmacrospr25/L12_Monetary Policy and the Phillips Curve.pdf"><u>[Slides]</u></a> 
 
 Lecture 13: Stabilization Policy and the AS/AD Framework <a href="https://cagranados.github.io/files/intmacrospr25/L13_Stabilization Policy and ASAD.pdf"><u>[Slides]</u></a> 
 

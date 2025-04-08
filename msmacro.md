@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Nominal rigidities  \
-**Next:** Consumption and Aggregate Demand
+**Now:** Consumption and Aggregate Demand  \
+**Next:** Monetary Policy Rules
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr25/Topic1_Intro.pdf"><u>[Slides]</u></a> 
@@ -122,6 +122,6 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospr25/Topic6_Financi
 
 (to be held on last weeks of classes and prior to the final exam)
 
-Desciption: <a href="https://cagranados.github.io/files/msmacrospr25/InvididualPresentationsTopics.pdf"><u>[pdf]</u></a>
+Description: <a href="https://cagranados.github.io/files/msmacrospr25/InvididualPresentationsTopics.pdf"><u>[pdf]</u></a>
 
 To declare your topic send me an email on behalf of your group (with group members included in the CC) by <font color="scarlet"> 4/14</font>.
