@@ -28,15 +28,15 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 **Problem set 5:** due date 4/30 <a href="https://cagranados.github.io/files/intmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 2/26  <a href="https://cagranados.github.io/files/intmacrospr25/Midterm1_Spr2025_AK.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 4/9  <!-- <a href="https://cagranados.github.io/files/intmacrospr25/Midterm2_Fall2024_AK.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 4/9   <a href="https://cagranados.github.io/files/intmacrospr25/Midterm2_Fall2024_AK.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** <font color="scarlet">  5/7 </font>  <!--  <a href="https://cagranados.github.io/files/intmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** Monetary Policy and the Phillips Curve   \
-**Next:** Midterm 2
+**Now:** Stabilization policy with AS/AD framework   \
+**Next:** The Great Recession from the lenses of the Short-run model
 
 
 ### Outline and slides:
@@ -59,9 +59,9 @@ Lecture 10: The Great Recession: A First Look <a href="https://cagranados.github
 
 Lecture 11: The IS Curve <a href="https://cagranados.github.io/files/intmacrospr25/L11_The IS Curve.pdf"><u>[Slides]</u></a> 
 
-**Lecture 12: Monetary Policy and the Phillips Curve** <a href="https://cagranados.github.io/files/intmacrospr25/L12_Monetary Policy and the Phillips Curve.pdf"><u>[Slides]</u></a> 
+Lecture 12: Monetary Policy and the Phillips Curve <a href="https://cagranados.github.io/files/intmacrospr25/L12_Monetary Policy and the Phillips Curve.pdf"><u>[Slides]</u></a> 
 
-Lecture 13: Stabilization Policy and the AS/AD Framework <a href="https://cagranados.github.io/files/intmacrospr25/L13_Stabilization Policy and ASAD.pdf"><u>[Slides]</u></a> 
+**Lecture 13: Stabilization Policy and the AS/AD Framework** <a href="https://cagranados.github.io/files/intmacrospr25/L13_Stabilization Policy and ASAD.pdf"><u>[Slides]</u></a> 
 
 Lecture 14: The Great Recession and the Short-Run Model <a href="https://cagranados.github.io/files/intmacrospr25/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a> 
 
