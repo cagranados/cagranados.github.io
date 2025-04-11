@@ -53,7 +53,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 1:** due date 2/5 <a href="https://cagranados.github.io/files/intfinspr25/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr25/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr25/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
 **Problem set 2:** due date 2/19 <a href="https://cagranados.github.io/files/intfinspr25/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr25/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 3/24 <a href="https://cagranados.github.io/files/intfinspr25/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr25/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 4:** due date 4/9 <a href="https://cagranados.github.io/files/intfinspr25/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 4:** due date 4/9 <a href="https://cagranados.github.io/files/intfinspr25/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr25/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 2/26 <a href="https://cagranados.github.io/files/intfinspr25/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Long-run Budget Constraint and Gains from Financial Globalization \
-**Next:** Open Economy Macroeconomic Policy in the Short-run
+**Now:** Open Economy Macroeconomic Policy in the Short-run \
+**Next:** Midterm 2
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr25/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -79,10 +79,9 @@ Lecture 4: <a href="https://cagranados.github.io/files/intfinspr25/L4_part1_ERSh
 
 Lecture 5: <a href="https://cagranados.github.io/files/intfinspr25/L5_part2_BOP.pdf"><u>[Slides]</u></a>
 
-**Lecture 6:** <a href="https://cagranados.github.io/files/intfinspr25/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L6_part2_LRBCandGains_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Lecture 6: <a href="https://cagranados.github.io/files/intfinspr25/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 
-Lecture 7: <a href="https://cagranados.github.io/files/intfinspr25/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
+**Lecture 7:** <a href="https://cagranados.github.io/files/intfinspr25/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L7_part2_OpenEcPolicySR_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Lecture 8: <a href="https://cagranados.github.io/files/intfinspr25/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
