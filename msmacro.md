@@ -68,14 +68,14 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Problem set 1:** due date 2/17 <a href="https://cagranados.github.io/files/msmacrospr25/PS1.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/ps1q2_code.m"><u>[code_q2]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/hpfilter.m"><u>[hpfilter.m]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospr25/data_ps1.xlsx"><u>[data loaded in Ans]</u></a> \
 **Problem set 2:** due date 3/3 <a href="https://cagranados.github.io/files/msmacrospr25/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 3/31 <a href="https://cagranados.github.io/files/msmacrospr25/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a>   \
-**Problem set 4:** due date 4/14 <a href="https://cagranados.github.io/files/msmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/simpleDSGEexample.mod"><u>[dynare code]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 4:** due date 4/14 <a href="https://cagranados.github.io/files/msmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/simpleDSGEexample.mod"><u>[dynare code]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 5:** due date 4/28 <a href="https://cagranados.github.io/files/msmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> 
 <a href="https://cagranados.github.io/files/msmacrospr25/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospr25/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 3/10  <a href="https://cagranados.github.io/files/msmacrospr25/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Final exam:** Time <font color="scarlet"> 5/12 </font> <!--  <a href="https://cagranados.github.io/files/msmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Final exam:** <font color="scarlet"> 5/12 </font> <!--  <a href="https://cagranados.github.io/files/msmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
 
@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Consumption and Aggregate Demand  \
-**Next:** Monetary Policy Rules
+**Now:** Monetary Policy Rules  \
+**Next:** Financial Frictions
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr25/Topic1_Intro.pdf"><u>[Slides]</u></a> 
