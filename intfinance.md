@@ -57,7 +57,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 2/26 <a href="https://cagranados.github.io/files/intfinspr25/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 4/16 <!-- <a href="https://cagranados.github.io/files/intfinspr25/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 4/16 <a href="https://cagranados.github.io/files/intfinspr25/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** <font color="scarlet"> 5/7 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr25/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Open Economy Macroeconomic Policy in the Short-run \
-**Next:** Midterm 2
+**Now:** Fixed vs. Floating Exchange Regimes \
+**Next:** Exchange Rate Pegs and Currency Crises
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr25/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -81,10 +81,9 @@ Lecture 5: <a href="https://cagranados.github.io/files/intfinspr25/L5_part2_BOP.
 
 Lecture 6: <a href="https://cagranados.github.io/files/intfinspr25/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 
-**Lecture 7:** <a href="https://cagranados.github.io/files/intfinspr25/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L7_part2_OpenEcPolicySR_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Lecture 7: <a href="https://cagranados.github.io/files/intfinspr25/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
 
-Lecture 8: <a href="https://cagranados.github.io/files/intfinspr25/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
+**Lecture 8:** <a href="https://cagranados.github.io/files/intfinspr25/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L8_part3_FixedAndFloatingER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Lecture 9: <a href="https://cagranados.github.io/files/intfinspr25/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
