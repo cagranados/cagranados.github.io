@@ -28,7 +28,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 **Problem set 5:** due date 4/30 <a href="https://cagranados.github.io/files/intmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
 **Midterm 1:** 2/26  <a href="https://cagranados.github.io/files/intmacrospr25/Midterm1_Spr2025_AK.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 4/9   <a href="https://cagranados.github.io/files/intmacrospr25/Midterm2_Fall2024_AK.pdf"><u>[Answer Key]</u></a> \
+**Midterm 2:** 4/9   <a href="https://cagranados.github.io/files/intmacrospr25/Midterm2_Spr2025_AK.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** <font color="scarlet">  5/7 </font>  <!--  <a href="https://cagranados.github.io/files/intmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 
