@@ -35,8 +35,8 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 ### Lectures and detailed outline: 
 (this is updated on a regular basis — the slides are replaced with annotated versions after the lectures)
 
-**Now:** The Great Recession and the Short-Run Mode   \
-**Next:** DSGE Models: The Frontier of Business Cycle Research
+**Now:** DSGE Models: The Frontier of Business Cycle Research  \
+**Next:** Wrap-up
 
 
 ### Outline and slides:
@@ -63,9 +63,9 @@ Lecture 12: Monetary Policy and the Phillips Curve <a href="https://cagranados.g
 
 Lecture 13: Stabilization Policy and the AS/AD Framework <a href="https://cagranados.github.io/files/intmacrospr25/L13_Stabilization Policy and ASAD.pdf"><u>[Slides]</u></a> 
 
-**Lecture 14: The Great Recession and the Short-Run Model** <a href="https://cagranados.github.io/files/intmacrospr25/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a> 
+Lecture 14: The Great Recession and the Short-Run Model <a href="https://cagranados.github.io/files/intmacrospr25/L14_GFC_and_shortrunModel.pdf"><u>[Slides]</u></a> 
 
-Lecture 15: DSGE Models: The Frontier of Business Cycle Research <a href="https://cagranados.github.io/files/intmacrospr25/L15_Intro to DSGE models.pdf"><u>[Slides]</u></a>
+**Lecture 15:** DSGE Models: The Frontier of Business Cycle Research <a href="https://cagranados.github.io/files/intmacrospr25/L15_Intro to DSGE models.pdf"><u>[Slides]</u></a>
 
 Lecture 16: Wrap up <a href="https://cagranados.github.io/files/intmacrospr25/L16_WrapUp.pdf"><u>[Slides]</u></a>
 
