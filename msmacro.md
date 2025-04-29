@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Financial Frictions \
-**Next:** Group presentations
+**Now:** Group presentations \
+**Next:** Final Exam
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr25/Topic1_Intro.pdf"><u>[Slides]</u></a> 
@@ -117,6 +117,7 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospr25/Topic6_Financi
 
 3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
+Extra: Example of NK DSGE model with code <a href="https://cagranados.github.io/files/msmacrospr25/NKDSGE_handout.pdf"><u>[Handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/nk_closed.mod"><u>[Dynare code]</u></a> -->
 
 ### Final presentation:
 
