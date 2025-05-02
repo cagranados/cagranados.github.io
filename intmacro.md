@@ -25,7 +25,7 @@ Moving from the long-run to the short-run, we will explore the dynamics of infla
 **Problem set 2:** due date 2/24  <a href="https://cagranados.github.io/files/intmacrospr25/PS2.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 3/26 <a href="https://cagranados.github.io/files/intmacrospr25/PS3.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 4:** due date 4/7 <a href="https://cagranados.github.io/files/intmacrospr25/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a>  \
-**Problem set 5:** due date 4/30 <a href="https://cagranados.github.io/files/intmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
+**Problem set 5:** due date 4/30 <a href="https://cagranados.github.io/files/intmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a>
 
 **Midterm 1:** 2/26  <a href="https://cagranados.github.io/files/intmacrospr25/Midterm1_Spr2025_AK.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 4/9   <a href="https://cagranados.github.io/files/intmacrospr25/Midterm2_Spr2025_AK.pdf"><u>[Answer Key]</u></a> \
@@ -76,6 +76,8 @@ Lecture 16: Wrap up <a href="https://cagranados.github.io/files/intmacrospr25/L1
 Practice problems 1: <a href="https://cagranados.github.io/files/intmacrospr25/PracticeProblems1.pdf"><u>[Questions]</u></a> <a href="https://cagranados.github.io/files/intmacrospr25/PracticeProblems1_Answerkey.pdf"><u>[Answer key]</u></a>  
 
 Review session: <a href="https://cagranados.github.io/files/intmacrospr25/Review_Mid1.pdf"><u>[Slides]</u></a> 
+
+Extra: Example of NK DSGE model with code <a href="https://cagranados.github.io/files/msmacrospr25/NKDSGE_handout.pdf"><u>[Handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/nk_closed.mod"><u>[Dynare code]</u></a>
 
 ### Optional final project (bonus due on 5/11/25):
 

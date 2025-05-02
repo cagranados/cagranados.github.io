@@ -117,7 +117,7 @@ Topic 6: <a href="https://cagranados.github.io/files/msmacrospr25/Topic6_Financi
 
 3: Intro to local solution methods and Dynare <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides.pdf"><u>[Slides]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr25/TechSession3_Slides_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Extra: Example of NK DSGE model with code <a href="https://cagranados.github.io/files/msmacrospr25/NKDSGE_handout.pdf"><u>[Handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/nk_closed.mod"><u>[Dynare code]</u></a> -->
+Extra: Example of NK DSGE model with code <a href="https://cagranados.github.io/files/msmacrospr25/NKDSGE_handout.pdf"><u>[Handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr25/nk_closed.mod"><u>[Dynare code]</u></a>
 
 ### Final presentation:
 
