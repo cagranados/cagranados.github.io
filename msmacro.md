@@ -72,7 +72,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 **Problem set 5:** due date 4/28 <a href="https://cagranados.github.io/files/msmacrospr25/PS5.pdf"><u>[Problem Set]</u></a> 
 <a href="https://cagranados.github.io/files/msmacrospr25/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospr25/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
-<!-- <a href="https://cagranados.github.io/files/msmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
+<a href="https://cagranados.github.io/files/msmacrospr25/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a>
 
 **Midterm 1:** 3/10  <a href="https://cagranados.github.io/files/msmacrospr25/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** <font color="scarlet"> 5/12 </font> <!--  <a href="https://cagranados.github.io/files/msmacrospr25/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
