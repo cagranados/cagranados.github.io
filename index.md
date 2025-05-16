@@ -48,7 +48,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[Paper]</u></a> /
- <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides (30 min)]</u></a> /
+ <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides]</u></a> /
  <a href="https://www.youtube.com/watch?v=xX1YCaek0s0" target="_blank"><u>[Video (until 21:48)]</u></a>
  
 
@@ -74,7 +74,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   | <font color="black">To understand the international nature of the macroprudential policy and the potential cross-border regulatory leakages these imply we develop a three-country center-periphery framework with financial frictions and limited financial intermediation in emerging economies. Each country has a macroprudential instrument to smooth credit spread distortions; however, the banking regulations can leak to other economies and be subject to costs. Our results show the presence of cross-border regulation spillovers that increase with the extent of financial frictions, that are driven by the capacity of the regulation to limit aggregate intermediation, and that can be magnified if policymakers are forward-looking. We discuss the policy implications of the resulting macroprudential interdependence and the potential scope for policy design that improves the management of the trade-off between mitigating the financial frictions and curtailing intermediation.</font> |
   
  </details>
- <a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> 
+ <a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> /
+ <a href="https://cagranados.github.io/files/papers/MaPLeakagesSlides_MidwestMacro.pdf" target="_blank"><u>[Slides]</u></a> 
+
+ MaPLeakagesSlides_MidwestMacro
  
  ----
  
