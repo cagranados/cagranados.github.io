@@ -76,8 +76,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> /
  <a href="https://cagranados.github.io/files/papers/MaPLeakagesSlides_MidwestMacro.pdf" target="_blank"><u>[Slides]</u></a> 
-
- MaPLeakagesSlides_MidwestMacro
  
  ----
  
