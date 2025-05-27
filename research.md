@@ -57,13 +57,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> 
-  
 
 ----
- 
-<br>
-
-### Work in Progress
 
 <details>
   <summary markdown="span"><font color="blue">Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy </font> (with Andrew Faris)
@@ -77,6 +72,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  <a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
   
  ----
+ 
+<br>
+
+### Work in Progress
 
 <details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
@@ -132,7 +131,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <font color="black"><b><u>Journal of International Money and Finance</u></b>. <i> Volume 148, October 2024.</i></font></summary>
+    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <font color="black"><b><u>Journal of International Money and Finance</u></b>. Volume 148, October 2024.</font></summary>
 
     
   | **Abstract**          |
