@@ -51,8 +51,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  <a href="https://cagranados.github.io/files/papers/MaPdynSlides_USurrey.pdf" target="_blank"><u>[Slides]</u></a> /
  <a href="https://www.youtube.com/watch?v=xX1YCaek0s0" target="_blank"><u>[Video (until 21:48)]</u></a>
  
-
- ----
  
 <details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
@@ -63,8 +61,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper]</u></a>
- 
- ----
  
 <details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font></summary>
@@ -78,13 +74,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  <a href="https://cagranados.github.io/files/papers/MaPLeakagesSlides_MidwestMacro.pdf" target="_blank"><u>[Slides]</u></a> 
  
 
----- 
- 
 <br> 
 ### Publications
 
-----
- 
  <details>
   <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
 		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) <font color="black"><b><u>Journal of Financial Stability</u></b>.<i> Accepted.</i></font>
@@ -97,7 +89,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
 <a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Paper]</u></a>
 
-
 <details>
   <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
     (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <font color="black"><b><u>Journal of International Money and Finance</u></b>. Volume 148, October 2024.</font></summary>
@@ -109,8 +100,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
 </details>
 <a href="https://doi.org/10.1016/j.jimonfin.2024.103156"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Working Paper]</u></a>
-  
- ----
 
 <details>
   <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Economic Modelling</u></b>. Volume 135, June 2024.</font>
@@ -124,7 +113,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
  <a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
 
-----
  
 <br> 
 ### Work in Progress
@@ -140,7 +128,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
   
- ----
 
 <details>
   <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
@@ -152,7 +139,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
  <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper]</u></a>
  
- ----
  
  <details>
   <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
@@ -165,7 +151,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
  
- ----
  
  <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
