@@ -79,7 +79,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
  <details>
   <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
-		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) <font color="black"><b><u>Journal of Financial Stability</u></b>.<i> Volume 75, August 2025.</i></font>
+		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) <font color="black"><b><u>Journal of Financial Stability</u></b>. Volume 75, August 2025.</font>
   </summary>
     
   | **Abstract**          |
