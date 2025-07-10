@@ -34,7 +34,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  <a href="https://www.youtube.com/watch?v=xX1YCaek0s0" target="_blank"><u>[Video (until 21:48)]</u></a>
  
 
- ----
  
 <details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
@@ -46,7 +45,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper]</u></a>
  
- ----
  
 <details>
   <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font><i><u> R&R at Macroeconomic Dynamics</u></i></summary>
@@ -58,10 +56,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> 
 
-----
 
 <details>
-  <summary markdown="span"><font color="blue">Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy </font> (with Andrew Faris)
+  <summary markdown="span"><font color="blue">Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy </font><i><u> R&R at Review of International Economics</u></i> (with Andrew Faris)
   </summary>
     
   | **Abstract**          |
@@ -87,7 +84,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
  <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper]</u></a>
  
- ----
  
  <details>
   <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
@@ -100,7 +96,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  </details>
  <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
  
- ----
  
  <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
@@ -118,15 +113,32 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
  <details>
   <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
-		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) <font color="black"><b><u>Journal of Financial Stability</u></b>. <i> Accepted.</i>
+		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) <font color="black"><b><u>Journal of Financial Stability</u></b>.<i> Volume 75, August 2025.</i></font>
   </summary>
     
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">To rationalize the increased use of capital flows regulations in recent times, we study the capacity of capital flow management measures (CFMs) to insulate an economy from external shocks. We examine the extent to which CFMs mitigate the effects of US monetary shocks and whether measuring this mitigation at the net or gross level of flows matters. Our analysis is carried out for a panel of emerging market economies and for different disaggregations of the flows. Our results indicate that the level of aggregation matters for evaluating the effects of CFMs, and that analyses with excessively aggregated flows or with only net measures may lead to biases in assessing the insulation features of the CFMs. Furthermore, CFMs have insulation properties that mitigate capital repatriations; however, these are mostly related to risky portfolio and banking flows. </font> |
-   
+  
 </details>
-<a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Paper]</u></a>
+<a href="https://authors.elsevier.com/a/1lPg85bW6oywkk"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a>
+
+<a href="https://doi.org/10.1016/j.jimonfin.2024.103156"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Working Paper]</u></a>
+  
+
+<details>
+  <summary markdown="span"><font color="blue">Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Latin American Journal of Central Banking</u></b>. Accepted.</font>
+  </summary>
+	
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We estimate the output gap for the Colombian economy explicitly accounting for the COVID-19 period. Our estimates reveal a significant 20% decline in the output gap but with a faster recovery compared
+  to previous crises. Our empirical strategy follows a two-stage Bayesian vector autoregressive (BSVAR) model where i) a scaling factor in the reduced form of VAR is used to model extreme data, such as those observed around the 
+  COVID-19 period, and ii) permanent and transitory shocks are structurally identified. As a result, we obtain that a single structural shock explains the potential GDP, while the remaining shocks within the model are transitory 
+  in nature and thus can be used to estimate the output gap. We elaborate on the relative strengths of our method for drawing policy lessons and show that the improved approximation accuracy of our method allows for inflation forecasting gains through the use of Phillips curves, as well as for rule-based policy diagnostics that align more closely with the observed behavior of the Central Bank.</font> |
+    
+</details>
+<a href="https://cagranados.github.io/files/papers/ygap_covid_col.pdf"><u>[Working Paper]</u></a>
 
 
 <details>
@@ -141,7 +153,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
 <a href="https://doi.org/10.1016/j.jimonfin.2024.103156"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/conversion_er.pdf"><u>[Working Paper]</u></a>
   
- ----
 
 <details>
   <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Economic Modelling</u></b>. Volume 135, June 2024.</font>
@@ -173,7 +184,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
  <a href="https://onlinelibrary.wiley.com/doi/10.1155/2014/649734"><u>[Publisher]</u></a><a href="http://www.banrep.gov.co/docum/ftp/borra685.pdf"><u>[Working Paper]</u></a>
 
-----
 
 <details>
   <summary markdown="span"><font color="blue">Are the Real Exchange Rate Dynamics Explained by its Fundamentals? </font>  (in spanish), (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 72, December.</font>
@@ -187,7 +197,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0120448313700010"><u>[Publisher]</u></a><a href="https://doi.org/10.32468/be.742"><u>[Working Paper]</u></a>
 
-----
 
 <details>
   <summary markdown="span"><font color="blue">On the Determinants of Commodity Prices</font>  (in spanish), (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 71, December.</font>
@@ -201,7 +210,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0120448313700137"><u>[Publisher]</u></a><a href="https://doi.org/10.32468/be.701"><u>[Working Paper]</u></a>
 
-----
 
 <details>
   <summary markdown="span"><font color="blue">Inflation Expectations and Risk Premium Under an Inflation Compensation Method</font>  (in spanish), (with Luis F. Melo) <font color="black"><b><u>El Trimestre Económico</u></b>, vol. 79, No. 316, Fondo de Cultura Economica. México. October - December.</font>
@@ -215,7 +223,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 </details>
  <a href="https://www.jstor.org/stable/23349191"><u>[Publisher]</u></a><a href="https://doi.org/10.32468/be.589"><u>[Working Paper]</u></a>
 
-----
 
 <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Value at Risk</font>  (in spanish), (with Luis F. Melo) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>, vol. 29, No. 64.</font>
