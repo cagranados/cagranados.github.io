@@ -124,7 +124,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <a href="https://authors.elsevier.com/a/1lPg85bW6oywkk"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a>  
 
 <details>
-  <summary markdown="span"><font color="blue">Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Latin American Journal of Central Banking</u></b><i> Accepted. </i></font>
+  <summary markdown="span"><font color="blue">Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i></font>
   </summary>
 	
   | **Abstract**          |
