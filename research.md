@@ -124,7 +124,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <a href="https://authors.elsevier.com/a/1lPg85bW6oywkk"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a>  
 
 <details>
-  <summary markdown="span"><font color="blue">Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i></font>
+  <summary markdown="span"><font color="blue">Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach </font> 
+    (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i></font>
   </summary>
 	
   | **Abstract**          |
@@ -159,7 +160,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   |:---------------------------|
   | <font color="black">We examine the importance of adjusting output gap frameworks during large-scale disruptions, with a focus on the COVID-19 pandemic. Such adaptation can be crucial given the impact of such episodes on the reliability of time-series models and the inherent need for stability in output gap methods. We employ a Bayesian Structural Vector Autoregression model, identified through a permanent- transitory decomposition, and enhance it by scaling residuals around the pandemic period. Our analysis, conducted for seven developed economies, suggests that adjusting the model around the pandemic’s onset leads to improved estimates and reduced uncertainty. This approach surpasses traditional filters and other complex models lacking pandemic-timed adjustments. Notably, omitting such adjustments can result in biased and unstable gap estimates, potentially causing rapid gap recoveries post-downturns or increased volatility. Our findings underscore the importance of prompt reassessments of output gap frameworks during unprecedented global events, focusing on their stability and uncertainty.</font> |
     
-  
+
 </details>
  <a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
 
