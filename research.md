@@ -111,7 +111,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 ### Publications
 
- <details>
+<details>
   <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
 		 (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) <font color="black"><b><u>Journal of Financial Stability</u></b>. Volume 75, August 2025.</font>
   </summary>
@@ -127,7 +127,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   <summary markdown="span"><font color="blue">Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach </font> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i></font>
   </summary>
-	
+    
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">We estimate the output gap for the Colombian economy explicitly accounting for the COVID-19 period. Our estimates reveal a significant 20% decline in the output gap but with a faster recovery compared
