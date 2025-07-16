@@ -65,8 +65,19 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   |:---------------------------|
   | <font color="black">We examine how terms-of-trade fluctuations can shape the vulnerability of emerging economies to self-fulfilling financial crises and sudden stops. Building on a small open economy endowment model with importables, exportables, and nontradables, we allow the borrowing constraint to depend explicitly on the relative price of exports. This channel links terms-of-trade movements to the economy’s collateral capacity. We find that while terms-of-trade shocks may play a limited role in routine business-cycle dynamics, their importance intensifies under stressed conditions. Favorable terms-of-trade can deter the emergence of multiple equilibria and prevent expectation-driven crises. Our findings contribute to understanding the high relevance associated to the terms-of-trade in emerging economies, even in presence of the limited evidence of their importance as a fundamental driver during normal times.</font> |
   
- </details>
- <a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
+</details>
+<a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
+
+<details>
+  <summary markdown="span"><font color="blue">CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy </font> (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>)
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We analyze Covered Interest Parity (CIP) deviations across advanced and emerging economies post-crisis, using Libor and commercial paper data. Employing a lag-augmented local-projection framework, we leverage identified demand- and supply-driven commodity shocks and gauge their interaction with macroprudential tightening. We find that policy tightening alone deepens CIP deviations by 1–2 basis points in advanced economies and 15–20 in emerging markets. Demand shocks raise deviations by 2–4 basis points in advanced economies but reduce them by 5–10 in emerging markets, while supply shocks have more uniform effects. Macroprudential policy partially offsets demand-shock impacts but shows no interaction with other shocks. These results highlight the state-dependent effectiveness of macroprudential tools and the need for tailored regulatory design to manage cross-border funding risks.</font> |
+  
+</details>
+<a href="https://cagranados.github.io/files/papers/CIPDevMaP.pdf" target="_blank"><u>[Paper]</u></a> 
   
  ----
  
