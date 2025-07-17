@@ -112,7 +112,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 ### Publications
 
 <details>
-  <summary markdown="span"><font color="blue">Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy </font> (with Andrew Faris) <font color="black"><b><u>Review of International Economics</u></b>. <i>Conditionally Accepted. </i></font>
+  <summary markdown="span">
+    <font color="blue">
+      Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy 
+    </font> <br/>
+    (with Andrew Faris) <br/>
+    <font color="black">
+      <b><u>Review of International Economics</u></b>. <i>Conditionally Accepted. </i>
+    </font>
   </summary>
     
   | **Abstract**          |
@@ -173,7 +180,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   
 
 <details>
-  <summary markdown="span"><font color="blue">Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations </font> (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Economic Modelling</u></b>. Volume 135, June 2024.</font>
+  <summary markdown="span">
+    <font color="blue">
+      Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations 
+    </font> <br/>
+    (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
+    <font color="black">
+      <b><u>Economic Modelling</u></b>. Volume 135, June 2024.
+    </font>
   </summary>
 	
   | **Abstract**          |
