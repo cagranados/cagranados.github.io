@@ -123,10 +123,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
 
 <details>
-  <summary markdown="span"><font color="blue">Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  </font>
-		<br/> (with <a href="https://sites.google.com/view/kj-kwak" target="_blank">Kyongjun Kwak</a>) 
-    <br/> <font color="black"> <br/>
-    <b><u>Journal of Financial Stability</u></b>. Volume 75, August 2025.</font>
+  <summary markdown="span">
+    <font color="blue">
+    Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  
+    </font> <br/> 
+    (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
+    <font color="black">
+      <b><u>Journal of Financial Stability</u></b>. Volume 75, August 2025.
+    </font>
   </summary>
     
   | **Abstract**          |
@@ -150,9 +154,15 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">Exchange Rate Dynamics and the Central Bank’s Balance Sheet </font>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <font color="black"><b><u>Journal of International Money and Finance</u></b>. Volume 148, October 2024.</font></summary>
-
+  <summary markdown="span">
+    <font color="blue">
+      Exchange Rate Dynamics and the Central Bank’s Balance Sheet 
+    </font> <br/>
+    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
+    <font color="black">
+      <b><u>Journal of International Money and Finance</u></b>. Volume 148, October 2024.
+    </font>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
