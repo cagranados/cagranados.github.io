@@ -77,7 +77,11 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 ### Work in Progress
 
 <details>
-  <summary markdown="span"><font color="blue">Prices Stability and Macroeconomic Volatility Spillovers in Latin America</font></summary>
+  <summary markdown="span">
+  <font color="blue">
+    Prices Stability and Macroeconomic Volatility Spillovers in Latin America
+  </font>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -88,7 +92,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  
  <details>
-  <summary markdown="span"><font color="blue">Enhancing Economic Resiliency Through Prudential Cooperation </font>
+  <summary markdown="span">
+  <font color="blue">
+    Enhancing Economic Resiliency Through Prudential Cooperation 
+  </font>
   </summary>
     
   | **Abstract**          |
@@ -100,8 +107,11 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  
  <details>
-  <summary markdown="span"><font color="blue">Financial Regulation and Income Inequality </font>
-    (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>)
+  <summary markdown="span">
+  <font color="blue">
+    Financial Regulation and Income Inequality 
+  </font> <br/>
+    (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
   </summary>
    
   
