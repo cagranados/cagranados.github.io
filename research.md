@@ -8,7 +8,7 @@
 <details>
   <summary markdown="span">
   <font color="blue">
-  Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?
+    Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?
   </font> <span style="color:black"> <b></b> </span> </summary>
   
     
@@ -25,7 +25,7 @@
 <details>
   <summary markdown="span">
   <font color="blue">
-  Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?
+    Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?
   </font></summary>
     
   | **Abstract**          |
@@ -39,9 +39,10 @@
 <details>
   <summary markdown="span">
   <font color="blue">
-  Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
+    Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
   </font> <br/>
-  <i><u> R&R at Macroeconomic Dynamics</u></i></summary>
+    <i><u> R&R at Macroeconomic Dynamics</u></i>
+  </summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -54,9 +55,9 @@
 <details>
   <summary markdown="span">
   <font color="blue">
-  CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
+    CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
   </font> <br/>
-  (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
+    (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
   </summary>
     
   | **Abstract**          |
@@ -125,7 +126,7 @@
     <font color="blue">
       Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy 
     </font> <br/>
-    (with Andrew Faris) <br/>
+      (with Andrew Faris) <br/>
     <font color="black">
       <b><i>Review of International Economics</i></b>. <i>Conditionally Accepted. </i>
     </font>
@@ -180,7 +181,7 @@
     <font color="blue">
       Exchange Rate Dynamics and the Central Bank’s Balance Sheet 
     </font> <br/>
-    (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
+      (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
     <font color="black">
       <b><i>Journal of International Money and Finance</i></b>. Volume 148, October 2024.
     </font>
@@ -199,7 +200,7 @@
     <font color="blue">
       Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations 
     </font> <br/>
-    (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
+      (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
     <font color="black">
       <b><i>Economic Modelling</i></b>. Volume 135, June 2024.
     </font>
@@ -258,11 +259,11 @@
 <details>
   <summary markdown="span">
   <font color="blue">
-  On the Determinants of Commodity Prices
+    On the Determinants of Commodity Prices
   </font>  (in spanish) <br/> 
-  (with Carolina Arteaga and Jair Ojeda) <br/> 
+    (with Carolina Arteaga and Jair Ojeda) <br/> 
   <font color="black">
-  <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>. Vol. 31, No. 71, June 2013.
+    <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>. Vol. 31, No. 71, June 2013.
   </font>
   </summary>
 	
@@ -277,11 +278,11 @@
 <details>
   <summary markdown="span">
   <font color="blue">
-  Inflation Expectations and Risk Premium Under an Inflation Compensation Method
+    Inflation Expectations and Risk Premium Under an Inflation Compensation Method
   </font>  (in spanish) <br/>
    (with Luis F. Melo) <br/>
   <font color="black">
-  <b><i>El Trimestre Económico</i></b>, vol. 79, No. 316, FCE. México. October - December 2012.
+    <b><i>El Trimestre Económico</i></b>, vol. 79, No. 316, FCE. México. October - December 2012.
   </font>
   </summary>
 	
@@ -296,11 +297,11 @@
 <details>
   <summary markdown="span">
   <font color="blue">
-  Financial Regulation and Value at Risk
+    Financial Regulation and Value at Risk
   </font>  (in spanish) <br/> 
-  (with Luis F. Melo) <br/>
+    (with Luis F. Melo) <br/>
   <font color="black">
-  <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>, vol. 29, No. 64, 2011.
+    <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>, vol. 29, No. 64, 2011.
   </font>
   </summary>
 	
@@ -317,8 +318,3 @@
 <br>
 <b style="font-size:125">Repec link <a style="margin:0; font-size:125%; font-weight:bold" href="https://ideas.repec.org/f/pgr313.html">here</a></b> 
 <br>
-
-
-PhD, Economics, UW Seattle <br>
-MS, Data Science, UT Austin <br>
-BSc, Economics, UN Colombia
