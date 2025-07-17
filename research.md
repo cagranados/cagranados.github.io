@@ -5,23 +5,11 @@
 <font color="scarlet"><i><small>&bull; Click title to see abstract.</small></i></font> 
 ### Working Papers
 
-<!--
-Strategic Macroprudential Policymaking: When Does Cooperation Pay Off? \[[pdf](/files/papers/MaPDynamic.pdf)\] \[[slides](/files/papers/MaPdynSlides_BbagUW11272020.pdf)\]  **(Job Market Paper)**
-<p>
-<details><summary><span style="color:blue; font-size:0.85em"> View/Hide Abstract </span></summary>
-  <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"><p>
-  I study whether emerging economies can navigate the global financial cycle more successfully by resorting to internationally coordinated macroprudential policies. For this, I set an open economy model with banking frictions in a center-periphery environment with multiple emerging economies. Then, I evaluate the performance of several policy arrangements that differ by the degree and type of cooperation. I find that cooperation can generate welfare gains but is not always beneficial relative to nationally-oriented policies. Instead, only regimes where the financial center acts cooperatively generate welfare gains. When present, two mechanisms generate the gains: a cancellation effect of national incentives to manipulate the global interest rate and a motive for steering capital flows to emerging economies. The first mechanism eliminates unnecessary policy fluctuations and the second helps prevent capital retrenchments in the center. These effects can be quantitatively relevant as good cooperation regimes can reduce the welfare losses induced by a financial friction between 60% and 80%. <br></p></div>
-</details>
-</p>
-
-Macroprudential Policy Coordination in Open Economies: A Multicountry Approach. \[[pdf](/files/papers/MaPCoordFinite.pdf)\] \[[slides](/files/papers/MaPToySlides_WUSTL.pdf)\]
-
-Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis? \[[pdf](/files/papers/MaPInteractions.pdf)\] \[[slides](/files/papers/MaPInteractions_BbagApr2021.pdf)\]
-
--->
-
 <details>
-  <summary markdown="span"><font color="blue">Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?</font> <span style="color:black"> <b></b> </span> </summary>
+  <summary markdown="span">
+  <font color="blue">
+  Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?
+  </font> <span style="color:black"> <b></b> </span> </summary>
   
     
   | **Abstract**          |
@@ -35,7 +23,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
 
 <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?</font></summary>
+  <summary markdown="span">
+  <font color="blue">
+  Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?
+  </font></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -46,7 +37,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  
 <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font> <br/>
+  <summary markdown="span">
+  <font color="blue">
+  Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
+  </font> <br/>
   <i><u> R&R at Macroeconomic Dynamics</u></i></summary>
     
   | **Abstract**          |
@@ -58,7 +52,10 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy </font> <br/>
+  <summary markdown="span">
+  <font color="blue">
+  CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
+  </font> <br/>
   (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
   </summary>
     
@@ -130,7 +127,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
     </font> <br/>
     (with Andrew Faris) <br/>
     <font color="black">
-      <b><u>Review of International Economics</u></b>. <i>Conditionally Accepted. </i>
+      <b><i>Review of International Economics</i></b>. <i>Conditionally Accepted. </i>
     </font>
   </summary>
     
@@ -148,7 +145,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
     </font> <br/> 
       (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
     <font color="black">
-      <b><u>Journal of Financial Stability</u></b>. Volume 75, August 2025.
+      <b><i>Journal of Financial Stability</i></b>. Volume 75, August 2025.
     </font>
   </summary>
     
@@ -166,7 +163,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
-    <b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i>
+    <b><i>Latin American Journal of Central Banking</i></b><i>. Accepted. </i>
   </font>
   </summary>
     
@@ -185,7 +182,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
     </font> <br/>
     (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
     <font color="black">
-      <b><u>Journal of International Money and Finance</u></b>. Volume 148, October 2024.
+      <b><i>Journal of International Money and Finance</i></b>. Volume 148, October 2024.
     </font>
   </summary>
     
@@ -204,7 +201,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
     </font> <br/>
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
     <font color="black">
-      <b><u>Economic Modelling</u></b>. Volume 135, June 2024.
+      <b><i>Economic Modelling</i></b>. Volume 135, June 2024.
     </font>
   </summary>
 	
@@ -228,7 +225,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   </font> <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
   <font color="black">
-    <b><u>Economics Research International</u></b>. 2014, Article ID 649734.
+    <b><i>Economics Research International</i></b>. 2014, Article ID 649734.
   </font>
   </summary>
 	
@@ -246,7 +243,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   </font>  (in spanish) <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
   <font color="black">
-    <b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 72, December 2013.
+    <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>. Vol. 31, No. 72, December 2013.
   </font>
   </summary>
 	
@@ -259,8 +256,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">On the Determinants of Commodity Prices</font>  (in spanish) <br/> 
-  (with Carolina Arteaga and Jair Ojeda) <br/> <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 71, June 2013.</font>
+  <summary markdown="span">
+  <font color="blue">
+  On the Determinants of Commodity Prices
+  </font>  (in spanish) <br/> 
+  (with Carolina Arteaga and Jair Ojeda) <br/> 
+  <font color="black">
+  <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>. Vol. 31, No. 71, June 2013.
+  </font>
   </summary>
 	
   | **Abstract**          |
@@ -272,9 +275,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">Inflation Expectations and Risk Premium Under an Inflation Compensation Method</font>  (in spanish) <br/>
+  <summary markdown="span">
+  <font color="blue">
+  Inflation Expectations and Risk Premium Under an Inflation Compensation Method
+  </font>  (in spanish) <br/>
    (with Luis F. Melo) <br/>
-  <font color="black"><b><u>El Trimestre Económico</u></b>, vol. 79, No. 316, FCE. México. October - December 2012.</font>
+  <font color="black">
+  <b><i>El Trimestre Económico</i></b>, vol. 79, No. 316, FCE. México. October - December 2012.
+  </font>
   </summary>
 	
   | **Abstract**          |
@@ -286,9 +294,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">Financial Regulation and Value at Risk</font>  (in spanish) <br/> 
+  <summary markdown="span">
+  <font color="blue">
+  Financial Regulation and Value at Risk
+  </font>  (in spanish) <br/> 
   (with Luis F. Melo) <br/>
-  <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>, vol. 29, No. 64, 2011.</font>
+  <font color="black">
+  <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>, vol. 29, No. 64, 2011.
+  </font>
   </summary>
 	
   | **Abstract**          |
@@ -306,3 +319,6 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <br>
 
 
+PhD, Economics, UW Seattle <br>
+MS, Data Science, UT Austin <br>
+BSc, Economics, UN Colombia
