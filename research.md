@@ -154,7 +154,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   <font color="blue">
     Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach 
   </font> <br/> 
-    (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>  
+    (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
     <b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i>
   </font>
@@ -218,7 +218,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   </font> <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
   <font color="black">
-    <b><u>Economics Research International</u></b>. Vol. 2014, Article ID 649734.
+    <b><u>Economics Research International</u></b>. 2014, Article ID 649734.
   </font>
   </summary>
 	
@@ -236,7 +236,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
   </font>  (in spanish) <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
   <font color="black">
-    <b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 72, December.
+    <b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 72, December 2013.
   </font>
   </summary>
 	
@@ -250,7 +250,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 <details>
   <summary markdown="span"><font color="blue">On the Determinants of Commodity Prices</font>  (in spanish) <br/> 
-  (with Carolina Arteaga and Jair Ojeda) <br/> <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 71, December.</font>
+  (with Carolina Arteaga and Jair Ojeda) <br/> <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 71, June 2013.</font>
   </summary>
 	
   | **Abstract**          |
@@ -264,7 +264,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <details>
   <summary markdown="span"><font color="blue">Inflation Expectations and Risk Premium Under an Inflation Compensation Method</font>  (in spanish) <br/>
    (with Luis F. Melo) <br/>
-  <font color="black"><b><u>El Trimestre Económico</u></b>, vol. 79, No. 316, Fondo de Cultura Economica. México. October - December.</font>
+  <font color="black"><b><u>El Trimestre Económico</u></b>, vol. 79, No. 316, FCE. México. October - December 2012.</font>
   </summary>
 	
   | **Abstract**          |
@@ -278,7 +278,7 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <details>
   <summary markdown="span"><font color="blue">Financial Regulation and Value at Risk</font>  (in spanish) <br/> 
   (with Luis F. Melo) <br/>
-  <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>, vol. 29, No. 64.</font>
+  <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>, vol. 29, No. 64, 2011.</font>
   </summary>
 	
   | **Abstract**          |
