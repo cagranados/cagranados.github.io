@@ -46,7 +46,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
  
  
 <details>
-  <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font><i><u> R&R at Macroeconomic Dynamics</u></i></summary>
+  <summary markdown="span"><font color="blue">Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.</font> <br/>
+  <i><u> R&R at Macroeconomic Dynamics</u></i></summary>
     
   | **Abstract**          |
   |:---------------------------|
@@ -57,7 +58,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy </font> (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>)
+  <summary markdown="span"><font color="blue">CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy </font> <br/>
+  (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
   </summary>
     
   | **Abstract**          |
@@ -132,9 +134,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <details>
   <summary markdown="span">
     <font color="blue">
-    Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  
+      Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  
     </font> <br/> 
-    (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
+      (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
     <font color="black">
       <b><u>Journal of Financial Stability</u></b>. Volume 75, August 2025.
     </font>
@@ -148,8 +150,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <a href="https://authors.elsevier.com/a/1lPg85bW6oywkk"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a>  
 
 <details>
-  <summary markdown="span"><font color="blue">Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach </font> 
-    (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <font color="black"><b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i></font>
+  <summary markdown="span">
+  <font color="blue">
+    Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach 
+  </font> <br/> 
+    (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>  
+  <font color="black">
+    <b><u>Latin American Journal of Central Banking</u></b><i>. Accepted. </i>
+  </font>
   </summary>
     
   | **Abstract**          |
@@ -204,7 +212,14 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 <h4><a id="pre-phd-publications-updated" class="anchor" href="#publicationsPrePhd" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pre-Ph.D.</h4>
 
 <details>
-  <summary markdown="span"><font color="blue">The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. </font> (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Economics Research International</u></b>. Vol. 2014, Article ID 649734.</font>
+  <summary markdown="span">
+  <font color="blue">
+    The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. 
+  </font> <br/>
+    (with Carolina Arteaga and Jair Ojeda) <br/>
+  <font color="black">
+    <b><u>Economics Research International</u></b>. Vol. 2014, Article ID 649734.
+  </font>
   </summary>
 	
   | **Abstract**          |
@@ -216,7 +231,13 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">Are the Real Exchange Rate Dynamics Explained by its Fundamentals? </font>  (in spanish), (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 72, December.</font>
+  <summary markdown="span"><font color="blue">
+    Are the Real Exchange Rate Dynamics Explained by its Fundamentals? 
+  </font>  (in spanish) <br/>
+    (with Carolina Arteaga and Jair Ojeda) <br/>
+  <font color="black">
+    <b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 72, December.
+  </font>
   </summary>
 	
   | **Abstract**          |
@@ -228,7 +249,8 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">On the Determinants of Commodity Prices</font>  (in spanish), (with Carolina Arteaga and Jair Ojeda) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 71, December.</font>
+  <summary markdown="span"><font color="blue">On the Determinants of Commodity Prices</font>  (in spanish) <br/> 
+  (with Carolina Arteaga and Jair Ojeda) <br/> <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>. Vol. 31, No. 71, December.</font>
   </summary>
 	
   | **Abstract**          |
@@ -240,7 +262,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">Inflation Expectations and Risk Premium Under an Inflation Compensation Method</font>  (in spanish), (with Luis F. Melo) <font color="black"><b><u>El Trimestre Económico</u></b>, vol. 79, No. 316, Fondo de Cultura Economica. México. October - December.</font>
+  <summary markdown="span"><font color="blue">Inflation Expectations and Risk Premium Under an Inflation Compensation Method</font>  (in spanish) <br/>
+   (with Luis F. Melo) <br/>
+  <font color="black"><b><u>El Trimestre Económico</u></b>, vol. 79, No. 316, Fondo de Cultura Economica. México. October - December.</font>
   </summary>
 	
   | **Abstract**          |
@@ -252,7 +276,9 @@ Macroprudential Policy Interactions: What has Changed Since the Global Financial
 
 
 <details>
-  <summary markdown="span"><font color="blue">Financial Regulation and Value at Risk</font>  (in spanish), (with Luis F. Melo) <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>, vol. 29, No. 64.</font>
+  <summary markdown="span"><font color="blue">Financial Regulation and Value at Risk</font>  (in spanish) <br/> 
+  (with Luis F. Melo) <br/>
+  <font color="black"><b><u>Ensayos Sobre Política Económica (ESPE)</u></b>, vol. 29, No. 64.</font>
   </summary>
 	
   | **Abstract**          |
