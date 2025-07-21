@@ -164,7 +164,7 @@
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
-    <b><i>Latin American Journal of Central Banking</i></b><i>. Accepted. </i>
+    <b><i>Latin American Journal of Central Banking</i></b><i>. July 2025. </i>
   </font>
   </summary>
     
@@ -173,7 +173,7 @@
   | <font color="black">We estimate the output gap for the Colombian economy explicitly accounting for the COVID-19 period. Our estimates reveal a significant 20% decline in the output gap but with a faster recovery compared to previous crises. Our empirical strategy follows a two-stage Bayesian vector autoregressive (BSVAR) model where i) a scaling factor in the reduced form of VAR is used to model extreme data, such as those observed around the COVID-19 period, and ii) permanent and transitory shocks are structurally identified. As a result, we obtain that a single structural shock explains the potential GDP, while the remaining shocks within the model are transitory in nature and thus can be used to estimate the output gap. We elaborate on the relative strengths of our method for drawing policy lessons and show that the improved approximation accuracy of our method allows for inflation forecasting gains through the use of Phillips curves, as well as for rule-based policy diagnostics that align more closely with the observed behavior of the Central Bank.</font> |
     
 </details>
-<a href="https://cagranados.github.io/files/papers/ygap_covid_col.pdf"><u>[Working Paper]</u></a>
+<a href="https://authors.elsevier.com/sd/article/S2666-1438(25)00021-3"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/ygap_covid_col.pdf"><u>[Working Paper]</u></a>
 
 
 <details>
