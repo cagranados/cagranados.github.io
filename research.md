@@ -146,7 +146,7 @@
     </font> <br/> 
       (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
     <font color="black">
-      <b><i>Journal of Financial Stability</i></b>. Volume 75, August 2025.
+      <b><i>Journal of Financial Stability</i></b>. Volume 79, August 2025.
     </font>
   </summary>
     
