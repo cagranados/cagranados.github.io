@@ -65,7 +65,7 @@
   | <font color="black">We analyze Covered Interest Parity (CIP) deviations across advanced and emerging economies post-crisis, using Libor and commercial paper data. Employing a lag-augmented local-projection framework, we leverage identified demand- and supply-driven commodity shocks and gauge their interaction with macroprudential tightenings. We find that a policy tightening alone deepens CIP deviations by 1–2 basis points in advanced economies and 15–20 in emerging markets. Demand shocks raise deviations by 2–4 basis points in advanced economies but reduce them by 5–10 in emerging markets, while supply shocks have more uniform effects. Macroprudential policy partially offsets demand-shock impacts but shows no interaction with other shocks. These results highlight the state-dependent effectiveness of macroprudential tools and the need for tailored regulatory design to manage cross-border funding risks.</font> |
   
 </details>
-<a href="https://cagranados.github.io/files/papers/CIPDevMaP.pdf" target="_blank"><u>[Paper]</u></a> 
+<a href="https://cagranados.github.io/files/papers/CIPDeviationsMaP.pdf" target="_blank"><u>[Paper]</u></a> 
 
   
  ----
