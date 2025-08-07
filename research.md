@@ -128,7 +128,7 @@
     </font> <br/>
       (with Andrew Faris) <br/>
     <font color="black">
-      <b><i>Review of International Economics</i></b>. <i>Conditionally Accepted. </i>
+      <b><i>Review of International Economics</i></b>. August 2025.
     </font>
   </summary>
     
@@ -137,7 +137,7 @@
   | <font color="black">We examine how terms-of-trade fluctuations can shape the vulnerability of emerging economies to self-fulfilling financial crises and sudden stops. Building on a small open economy endowment model with importables, exportables, and nontradables, we allow the borrowing constraint to depend explicitly on the relative price of exports. This channel links terms-of-trade movements to the economy’s collateral capacity. We find that while terms-of-trade shocks may play a limited role in routine business-cycle dynamics, their importance intensifies under stressed conditions. Favorable terms-of-trade can deter the emergence of multiple equilibria and prevent expectation-driven crises. Our findings contribute to understanding the high relevance associated to the terms-of-trade in emerging economies, even in presence of the limited evidence of their importance as a fundamental driver during normal times.</font> |
 
 </details>
-<a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
+<a href="https://doi.org/10.1111/roie.70013"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/TOTMultipleEq.pdf" target="_blank"><u>[Paper]</u></a> 
 
 <details>
   <summary markdown="span">
@@ -164,7 +164,7 @@
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
-    <b><i>Latin American Journal of Central Banking</i></b><i>. July 2025. </i>
+    <b><i>Latin American Journal of Central Banking</i></b>. July 2025.
   </font>
   </summary>
     
