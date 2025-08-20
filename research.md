@@ -5,6 +5,25 @@
 <font color="scarlet"><i><small>&bull; Click title to see abstract.</small></i></font> 
 ### Working Papers
 
+<!--
+<details>
+  <summary markdown="span">
+    <font color="blue">
+      Productivity and Wedges: Economic Convergence and the Real Exchange Rate
+    </font> <br/>
+    (with <a href="https://sites.google.com/site/michaelbdevereux/home?authuser=0" target="_blank"> Michael B. Devereux </a> and <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank" > Ippei Fujiwara </a>) <br/>
+  </summary>
+  
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This paper explores the relationship between economic growth and the real exchange rate, specifically focusing on the convergence in price levels in Eastern European countries. While these countries have had significant convergence in GDP per capita (relative to the EU average) since the 1990s, convergence in real exchange rates for these countries stalled after the EU crisis. Using a standard theoretical framework, we estimate the main drivers of real exchange rates and show that a combination of productivity growth (Balassa-Samuelson effects) and labor market distortions help explain real exchange rate trends. We develop a structural two-country model that provides a rich decomposition of the long run determinants of the real exchange rate. Simulations based on observed sectoral productivities and labor market wedges show that the model can accurately account for the historical path of Eastern European real exchange rates, both before and after the EU crisis.</font> |
+
+</details>
+<a href="https://cagranados.github.io/files/papers/DynCoop.pdf" target="_blank"><u>[NBER Paper]</u></a> 
+
+-->
+
 <details>
   <summary markdown="span">
   <font color="blue">
