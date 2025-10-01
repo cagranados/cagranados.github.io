@@ -174,7 +174,7 @@
   | <font color="black">To rationalize the increased use of capital flows regulations in recent times, we study the capacity of capital flow management measures (CFMs) to insulate an economy from external shocks. We examine the extent to which CFMs mitigate the effects of US monetary shocks and whether measuring this mitigation at the net or gross level of flows matters. Our analysis is carried out for a panel of emerging market economies and for different disaggregations of the flows. Our results indicate that the level of aggregation matters for evaluating the effects of CFMs, and that analyses with excessively aggregated flows or with only net measures may lead to biases in assessing the insulation features of the CFMs. Furthermore, CFMs have insulation properties that mitigate capital repatriations; however, these are mostly related to risky portfolio and banking flows. </font> |
   
 </details>
-<a href="https://authors.elsevier.com/a/1lPg85bW6oywkk"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a>  
+<a href="https://doi.org/10.1016/j.jfs.2025.101433"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a>  
 
 <details>
   <summary markdown="span">
@@ -192,7 +192,7 @@
   | <font color="black">We estimate the output gap for the Colombian economy explicitly accounting for the COVID-19 period. Our estimates reveal a significant 20% decline in the output gap but with a faster recovery compared to previous crises. Our empirical strategy follows a two-stage Bayesian vector autoregressive (BSVAR) model where i) a scaling factor in the reduced form of VAR is used to model extreme data, such as those observed around the COVID-19 period, and ii) permanent and transitory shocks are structurally identified. As a result, we obtain that a single structural shock explains the potential GDP, while the remaining shocks within the model are transitory in nature and thus can be used to estimate the output gap. We elaborate on the relative strengths of our method for drawing policy lessons and show that the improved approximation accuracy of our method allows for inflation forecasting gains through the use of Phillips curves, as well as for rule-based policy diagnostics that align more closely with the observed behavior of the Central Bank.</font> |
     
 </details>
-<a href="https://authors.elsevier.com/sd/article/S2666-1438(25)00021-3"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/ygap_covid_col.pdf"><u>[Working Paper]</u></a>
+<a href="https://doi.org/10.1016/j.latcb.2025.100183"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/ygap_covid_col.pdf"><u>[Working Paper]</u></a>
 
 
 <details>
