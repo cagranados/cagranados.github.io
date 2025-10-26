@@ -13,31 +13,36 @@
   <!-- The "style" below is added to widen the content of the website. 
     Changes: Increase wrapper (main container), and lower width of sections to 70% 
     (to have no overlapping of columns within wrapper) -->
-  <style> 
-      /* Wrapper: Main container */
-      .wrapper {
-        max-width: 1101px; /* Adjust this to your desired width */
+  <style>
+    /* Set font for entire website */
+    body {
+      font-family: "Palatino Linotype", Palatino, serif;
+    }
+    
+    /* Wrapper: Main container */
+    .wrapper {
+      max-width: 1101px; /* Adjust this to your desired width */
+      width: 100%;
+      margin: 0 auto; /* Center the wrapper horizontally */
+      padding: 20px; /* Optional: Add padding for better spacing */
+    }
+
+    /* Section: Content container inside wrapper */
+    section {
+        width: 75%; /* Slightly smaller than wrapper to leave spacing */ 
+        margin: 20px auto; /* Adds vertical spacing and centers it */
+        padding: 20px; /* Internal spacing */
+        box-sizing: border-box; /* Includes padding in width calculation */
+    }
+
+
+    /* Optional: Make the section responsive for smaller screens */
+    @media (max-width: 768px) {
+      .wrapper, section {
         width: 100%;
-        margin: 0 auto; /* Center the wrapper horizontally */
-        padding: 20px; /* Optional: Add padding for better spacing */
+        padding: 10px;
       }
-
-      /* Section: Content container inside wrapper */
-      section {
-          width: 75%; /* Slightly smaller than wrapper to leave spacing */ 
-          margin: 20px auto; /* Adds vertical spacing and centers it */
-          padding: 20px; /* Internal spacing */
-          box-sizing: border-box; /* Includes padding in width calculation */
-      }
-  
-
-      /* Optional: Make the section responsive for smaller screens */
-      @media (max-width: 768px) {
-        .wrapper, section {
-          width: 100%;
-          padding: 10px;
-        }
-      }
+    }
   </style>
   </head>
   <body>
