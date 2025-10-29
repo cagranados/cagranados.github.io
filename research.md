@@ -160,12 +160,12 @@
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  
     </font> <br/> 
       (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
     <font color="black">
-      <i>Journal of Financial Stability</i>. Volume 79, August 2025.
+      <b>Journal of Financial Stability</b>. Volume 79, August 2025.
     </font>
   </summary>
     
@@ -178,12 +178,12 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="CornflowerBlue">
     Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach 
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
-    Latin American Journal of Central Banking. July 2025.
+    <b>Latin American Journal of Central Banking</b>. July 2025.
   </font>
   </summary>
     
@@ -197,7 +197,7 @@
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="DarkBlue">
       Exchange Rate Dynamics and the Central Bank’s Balance Sheet 
     </font> <br/>
       (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
@@ -221,7 +221,7 @@
     </font> <br/>
       (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
     <font color="black">
-      <b><i>Economic Modelling</i></b>. Volume 135, June 2024.
+      <b>Economic Modelling</b>. Volume 135, June 2024.
     </font>
   </summary>
 	
@@ -240,7 +240,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="SteelBlue">
     The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. 
   </font> <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
@@ -258,7 +258,7 @@
 
 
 <details>
-  <summary markdown="span"><font color="blue">
+  <summary markdown="span"><font color="RoyalBlue">
     Are the Real Exchange Rate Dynamics Explained by its Fundamentals? 
   </font>  (in spanish) <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
@@ -277,7 +277,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="DarkSlateBlue">
     On the Determinants of Commodity Prices
   </font>  (in spanish) <br/> 
     (with Carolina Arteaga and Jair Ojeda) <br/> 
