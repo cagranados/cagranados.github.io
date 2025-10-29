@@ -165,7 +165,7 @@
     </font> <br/> 
       (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
     <font color="black">
-      <b><i>Journal of Financial Stability</i></b>. Volume 79, August 2025.
+      <i>Journal of Financial Stability</i>. Volume 79, August 2025.
     </font>
   </summary>
     
@@ -183,7 +183,7 @@
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
-    <b><i>Latin American Journal of Central Banking</i></b>. July 2025.
+    Latin American Journal of Central Banking. July 2025.
   </font>
   </summary>
     
@@ -202,7 +202,7 @@
     </font> <br/>
       (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
     <font color="black">
-      <b><i>Journal of International Money and Finance</i></b>. Volume 148, October 2024.
+      <b>Journal of International Money and Finance</b>. Volume 148, October 2024.
     </font>
   </summary>
     
@@ -216,7 +216,7 @@
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="navy">
       Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations 
     </font> <br/>
       (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
