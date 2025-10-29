@@ -142,12 +142,12 @@
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy 
     </font> <br/>
       (with Andrew Faris) <br/>
     <font color="black">
-      <b><i>Review of International Economics</i></b>. August 2025.
+      <b>Review of International Economics</b>. August 2025.
     </font>
   </summary>
     
@@ -178,7 +178,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="CornflowerBlue">
+  <font color="MediumBlue">
     Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach 
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
@@ -197,7 +197,7 @@
 
 <details>
   <summary markdown="span">
-    <font color="DarkBlue">
+    <font color="MediumBlue">
       Exchange Rate Dynamics and the Central Bank’s Balance Sheet 
     </font> <br/>
       (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
@@ -216,7 +216,7 @@
 
 <details>
   <summary markdown="span">
-    <font color="navy">
+    <font color="MediumBlue">
       Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations 
     </font> <br/>
       (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
@@ -245,7 +245,7 @@
   </font> <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
   <font color="black">
-    <b><i>Economics Research International</i></b>. 2014, Article ID 649734.
+    <b>Economics Research International</b>. 2014, Article ID 649734.
   </font>
   </summary>
 	
@@ -258,12 +258,12 @@
 
 
 <details>
-  <summary markdown="span"><font color="RoyalBlue">
+  <summary markdown="span"><font color="SteelBlue">
     Are the Real Exchange Rate Dynamics Explained by its Fundamentals? 
   </font>  (in spanish) <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
   <font color="black">
-    <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>. Vol. 31, No. 72, December 2013.
+    <b>Ensayos Sobre Política Económica (ESPE)</b>. Vol. 31, No. 72, December 2013.
   </font>
   </summary>
 	
@@ -277,12 +277,12 @@
 
 <details>
   <summary markdown="span">
-  <font color="DarkSlateBlue">
+  <font color="RoyalBlue">
     On the Determinants of Commodity Prices
   </font>  (in spanish) <br/> 
     (with Carolina Arteaga and Jair Ojeda) <br/> 
   <font color="black">
-    <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>. Vol. 31, No. 71, June 2013.
+    <b>Ensayos Sobre Política Económica (ESPE)</b>. Vol. 31, No. 71, June 2013.
   </font>
   </summary>
 	
@@ -296,12 +296,12 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="RoyalBlue">
     Inflation Expectations and Risk Premium Under an Inflation Compensation Method
   </font>  (in spanish) <br/>
    (with Luis F. Melo) <br/>
   <font color="black">
-    <b><i>El Trimestre Económico</i></b>, vol. 79, No. 316, FCE. México. October - December 2012.
+    <b>El Trimestre Económico</b>, vol. 79, No. 316, FCE. México. October - December 2012.
   </font>
   </summary>
 	
@@ -315,12 +315,12 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="">
     Financial Regulation and Value at Risk
   </font>  (in spanish) <br/> 
     (with Luis F. Melo) <br/>
   <font color="black">
-    <b><i>Ensayos Sobre Política Económica (ESPE)</i></b>, vol. 29, No. 64, 2011.
+    <b>Ensayos Sobre Política Económica (ESPE)</b>, vol. 29, No. 64, 2011.
   </font>
   </summary>
 	
