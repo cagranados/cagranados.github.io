@@ -315,7 +315,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="">
+  <font >
     Financial Regulation and Value at Risk
   </font>  (in spanish) <br/> 
     (with Luis F. Melo) <br/>
