@@ -258,7 +258,8 @@
 
 
 <details>
-  <summary markdown="span"><font color="SteelBlue">
+  <summary markdown="span">
+  <font color="SteelBlue">
     Are the Real Exchange Rate Dynamics Explained by its Fundamentals? 
   </font>  (in spanish) <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
@@ -277,7 +278,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="RoyalBlue">
+  <font color="SteelBlue">
     On the Determinants of Commodity Prices
   </font>  (in spanish) <br/> 
     (with Carolina Arteaga and Jair Ojeda) <br/> 
@@ -296,10 +297,10 @@
 
 <details>
   <summary markdown="span">
-  <font color="RoyalBlue">
+  <font color="SteelBlue">
     Inflation Expectations and Risk Premium Under an Inflation Compensation Method
   </font>  (in spanish) <br/>
-   (with Luis F. Melo) <br/>
+   (with Luis Melo) <br/>
   <font color="black">
     <b>El Trimestre Económico</b>, vol. 79, No. 316, FCE. México. October - December 2012.
   </font>
@@ -315,8 +316,9 @@
 
 <details>
   <summary markdown="span">
+  <font color="SteelBlue">
     Financial Regulation and Value at Risk
-    (in spanish) <br/> 
+  </font>  (in spanish) <br/>
     (with Luis Melo) <br/>
   <font color="black">
     <b>Ensayos Sobre Política Económica (ESPE)</b>, vol. 29, No. 64, 2011.
