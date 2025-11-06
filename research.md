@@ -315,10 +315,9 @@
 
 <details>
   <summary markdown="span">
-  <font >
     Financial Regulation and Value at Risk
-  </font>  (in spanish) <br/> 
-    (with Luis F. Melo) <br/>
+    (in spanish) <br/> 
+    (with Luis Melo) <br/>
   <font color="black">
     <b>Ensayos Sobre Política Económica (ESPE)</b>, vol. 29, No. 64, 2011.
   </font>
