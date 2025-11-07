@@ -217,10 +217,10 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   | <font color="black">In order to determine the presence of volatility spillovers among macroeconomic variables a Vector Autorregresive (VAR) model with multivariate heteroskedasticity effects is carried out for five countries in Latin America. The variables considered are real activity, price level, interest rate, and exchange rate. The results indicate that there are few within country volatility spillovers. Those that are significant are usually sizable and point to the relevance of international shocks in spreading volatility to other countries rather than local effects. Finally, we obtain that the volatility of inflation is not generally affected by the uncertainty shocks in the exchange rate, this result is noticeable as the price instability effects of the exchange rate fluctuations is usually the justification behind exchange rate intervention programs in these economies.</font> |
   
 </details>
- <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper]</u></a>
+  <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper]</u></a>
  
  
- <details>
+<details>
   <summary markdown="span">
   <font color="blue">
     Enhancing Economic Resiliency Through Prudential Cooperation 
@@ -231,11 +231,11 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   |:---------------------------|
   | <font color="black">I analyze the short-run resilience and financial stability properties of an array of cooperative policy regimes relative to nationally-oriented regulations. I show that countries that rely on internationally coordinated policies are more insulated to the negative effects of international financial downturns like the global financial crisis. Additionally, cooperative policies allow countries to increase the countercyclicality of the prudential policies, to lower the required level of interventionism to deal with crises, and to mitigate the deleveraging processes after a financial crisis. All of these properties imply that smoother and less volatile policy responses can be compatible with improved economic performance after external shocks which makes a case for the implementation of coordinated policy schemes that go beyond the potential welfare gains involved in these initiatives.</font> |
   
- </details>
+</details>
  <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
  
  
- <details>
+<details>
   <summary markdown="span">
   <font color="blue">
     Financial Regulation and Income Inequality 
@@ -243,11 +243,10 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
   </summary>
    
-  
- </details>
+</details>
 
 
- <details>
+<details>
   <summary markdown="span">
   <font color="blue">
     Beyond Net Flows: Gross Capital Flows Management under Collateral Constraints 
@@ -259,6 +258,6 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   |:---------------------------|
   | <font color="black">This study investigates optimal tax rates on gross capital flows within a three-period model of pecuniary externalities. In the model, private domestic agents fail to internalize the impact of their borrowing and overseas investment decisions on their own financial constraints. Unlike previous frameworks that focus on net capital flows, this study explicitly distinguishes gross inflows (borrowing from foreign investors) from gross outflows (domestic investment in foreign assets), reflecting the growing importance of outward investment by emerging economies. The results show that the optimal tax rate on gross inflows is about 0.6 percentage points higher when foreign assets are included, reflecting stronger externalities transmitted through the foreign-asset price channel. These findings generalize net-flow models by demonstrating that externalities can be corrected through a Pigouvian tax on borrowing and a subsidy on overseas investment. Additionally, by linking the valuation of foreign safe assets to the tightness of collateral constraints, the framework is consistent with policy discussions of international feedback mechanisms often referred to as “spillbacks.” The analysis further provides policy insights for capital flow management by highlighting the need to manage gross inflows and outflows separately.</font> |
   
- </details>
+</details>
  
  ----
