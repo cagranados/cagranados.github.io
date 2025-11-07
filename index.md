@@ -243,12 +243,12 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   </summary>
    
 </details>
-<a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
+<a href=""><u> </u></a>
 
 <details>
   <summary markdown="span">
     <font color="blue">
-      Beyond Net Flows: Gross Capital Flows Management under Collateral Constraints 
+      Beyond Net Flows: Gross Capital Flows Management Under Collateral Constraints 
     </font> <br/>
       (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/>
   </summary>
