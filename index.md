@@ -104,8 +104,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 </details>
 <a href="https://cagranados.github.io/files/papers/CIPDeviationsMaP.pdf" target="_blank"><u>[Paper]</u></a> 
 
-  
- ----
+
  
 <br> 
 ### Publications
@@ -237,9 +236,9 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
  
 <details>
   <summary markdown="span">
-  <font color="blue">
-    Financial Regulation and Income Inequality 
-  </font> <br/>
+    <font color="blue">
+      Financial Regulation and Income Inequality 
+    </font> <br/>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
   </summary>
    
@@ -248,10 +247,10 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-  <font color="blue">
-    Beyond Net Flows: Gross Capital Flows Management under Collateral Constraints 
-  </font> <br/>
-    (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/>
+    <font color="blue">
+      Beyond Net Flows: Gross Capital Flows Management under Collateral Constraints 
+    </font> <br/>
+      (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/>
   </summary>
    
   | **Abstract**          |
@@ -259,5 +258,3 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   | <font color="black">This study investigates optimal tax rates on gross capital flows within a three-period model of pecuniary externalities. In the model, private domestic agents fail to internalize the impact of their borrowing and overseas investment decisions on their own financial constraints. Unlike previous frameworks that focus on net capital flows, this study explicitly distinguishes gross inflows (borrowing from foreign investors) from gross outflows (domestic investment in foreign assets), reflecting the growing importance of outward investment by emerging economies. The results show that the optimal tax rate on gross inflows is about 0.6 percentage points higher when foreign assets are included, reflecting stronger externalities transmitted through the foreign-asset price channel. These findings generalize net-flow models by demonstrating that externalities can be corrected through a Pigouvian tax on borrowing and a subsidy on overseas investment. Additionally, by linking the valuation of foreign safe assets to the tightness of collateral constraints, the framework is consistent with policy discussions of international feedback mechanisms often referred to as “spillbacks.” The analysis further provides policy insights for capital flow management by highlighting the need to manage gross inflows and outflows separately.</font> |
   
 </details>
- 
- ----
