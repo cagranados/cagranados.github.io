@@ -26,7 +26,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Productivity and Wedges: Economic Convergence and the Real Exchange Rate
     </font> <br/>
     (with <a href="https://sites.google.com/site/michaelbdevereux/home?authuser=0" target="_blank"> Michael B. Devereux </a> and <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank" > Ippei Fujiwara </a>) <br/>
@@ -44,7 +44,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?
   </font> <span style="color:black"> <b></b> </span> </summary>
   
@@ -61,7 +61,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?
   </font></summary>
     
@@ -75,7 +75,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
  
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
   </font> <br/>
     <i><u> R&R at Macroeconomic Dynamics</u></i>
@@ -91,7 +91,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
   </font> <br/>
     (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
@@ -111,12 +111,12 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Terms of Trade Fluctuations and Sudden Stops in A Small Open Economy 
     </font> <br/>
       (with Andrew Faris) <br/>
     <font color="black">
-      <b><i>Review of International Economics</i></b>. August 2025.
+      <b>Review of International Economics</b>. August 2025.
     </font>
   </summary>
     
@@ -129,12 +129,12 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  
     </font> <br/> 
       (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
     <font color="black">
-      <b><i>Journal of Financial Stability</i></b>. Volume 79, August 2025.
+      <b>Journal of Financial Stability</b>. Volume 79, August 2025.
     </font>
   </summary>
     
@@ -147,12 +147,12 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach 
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
-    <b><i>Latin American Journal of Central Banking</i></b>. July 2025.
+    <b>Latin American Journal of Central Banking</b>. July 2025.
   </font>
   </summary>
     
@@ -166,12 +166,12 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Exchange Rate Dynamics and the Central Bank’s Balance Sheet 
     </font> <br/>
       (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
     <font color="black">
-      <b><i>Journal of International Money and Finance</i></b>. Volume 148, October 2024.
+      <b>Journal of International Money and Finance</b>. Volume 148, October 2024.
     </font>
   </summary>
     
@@ -185,12 +185,12 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Estimating Potential Output After Covid: How to Address Unpredecented Macroeconomic Variations 
     </font> <br/>
       (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
     <font color="black">
-      <b><i>Economic Modelling</i></b>. Volume 135, June 2024.
+      <b>Economic Modelling</b>. Volume 135, June 2024.
     </font>
   </summary>
 	
@@ -206,7 +206,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Prices Stability and Macroeconomic Volatility Spillovers in Latin America
   </font>
   </summary>
@@ -221,7 +221,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
  
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Enhancing Economic Resiliency Through Prudential Cooperation 
   </font>
   </summary>
@@ -236,7 +236,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
  
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Financial Regulation and Income Inequality 
     </font> <br/>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
@@ -247,7 +247,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Beyond Net Flows: Gross Capital Flows Management Under Collateral Constraints 
     </font> <br/>
       (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/>
