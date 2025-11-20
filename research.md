@@ -8,7 +8,7 @@
 
 <details>
   <summary markdown="span">
-    <font color="blue">
+    <font color="MediumBlue">
       Productivity and Wedges: Economic Convergence and the Real Exchange Rate
     </font> <br/>
     (with <a href="https://sites.google.com/site/michaelbdevereux/home?authuser=0" target="_blank"> Michael B. Devereux </a> and <a href="https://sites.google.com/site/ippeifujiwara/" target="_blank" > Ippei Fujiwara </a>) <br/>
@@ -26,7 +26,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Strategic Macroprudential Policymaking: When Does Cooperation Pay Off?
   </font> <span style="color:black"> <b></b> </span> </summary>
   
@@ -43,7 +43,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Macroprudential Policy Interactions: What has Changed Since the Global Financial Crisis?
   </font></summary>
     
@@ -57,7 +57,7 @@
  
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
   </font> <br/>
     <i><u> R&R at Macroeconomic Dynamics</u></i>
@@ -73,7 +73,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
   </font> <br/>
     (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
@@ -92,7 +92,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Prices Stability and Macroeconomic Volatility Spillovers in Latin America
   </font>
   </summary>
@@ -106,7 +106,7 @@
  
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Enhancing Economic Resiliency Through Prudential Cooperation 
   </font>
   </summary>
@@ -117,17 +117,32 @@
   
 </details>
 <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
+
+<details>
+  <summary markdown="span">
+    <font color="MediumBlue">
+      Beyond Net Flows: Gross Capital Flows Management Under Collateral Constraints 
+    </font> <br/>
+      (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/>
+  </summary>
+   
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">This study investigates optimal tax rates on gross capital flows within a three-period model of pecuniary externalities. In the model, private domestic agents fail to internalize the impact of their borrowing and overseas investment decisions on their own financial constraints. Unlike previous frameworks that focus on net capital flows, this study explicitly distinguishes gross inflows (borrowing from foreign investors) from gross outflows (domestic investment in foreign assets), reflecting the growing importance of outward investment by emerging economies. The results show that the optimal tax rate on gross inflows is about 0.6 percentage points higher when foreign assets are included, reflecting stronger externalities transmitted through the foreign-asset price channel. These findings generalize net-flow models by demonstrating that externalities can be corrected through a Pigouvian tax on borrowing and a subsidy on overseas investment. Additionally, by linking the valuation of foreign safe assets to the tightness of collateral constraints, the framework is consistent with policy discussions of international feedback mechanisms often referred to as “spillbacks.” The analysis further provides policy insights for capital flow management by highlighting the need to manage gross inflows and outflows separately.</font> |
+  
+</details>
  
  
 <details>
   <summary markdown="span">
-  <font color="blue">
+  <font color="MediumBlue">
     Financial Regulation and Income Inequality 
   </font> <br/>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
   </summary>
 
 </details>
+<a href=""><u> </u></a>
 
 
 <br>
@@ -233,7 +248,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="SteelBlue">
+  <font color="MediumBlue">
     The Effect of Monetary Policy on Commodity Prices: Disentangling the Evidence for Individual Prices. 
   </font> <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
@@ -252,7 +267,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="SteelBlue">
+  <font color="MediumBlue">
     Are the Real Exchange Rate Dynamics Explained by its Fundamentals? 
   </font>  (in spanish) <br/>
     (with Carolina Arteaga and Jair Ojeda) <br/>
@@ -271,7 +286,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="SteelBlue">
+  <font color="MediumBlue">
     On the Determinants of Commodity Prices
   </font>  (in spanish) <br/> 
     (with Carolina Arteaga and Jair Ojeda) <br/> 
@@ -290,7 +305,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="SteelBlue">
+  <font color="MediumBlue">
     Inflation Expectations and Risk Premium Under an Inflation Compensation Method
   </font>  (in spanish) <br/>
    (with Luis Melo) <br/>
@@ -309,7 +324,7 @@
 
 <details>
   <summary markdown="span">
-  <font color="SteelBlue">
+  <font color="MediumBlue">
     Financial Regulation and Value at Risk
   </font>  (in spanish) <br/>
     (with Luis Melo) <br/>
