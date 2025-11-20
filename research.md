@@ -85,9 +85,6 @@
   
 </details>
 <a href="https://cagranados.github.io/files/papers/CIPDeviationsMaP.pdf" target="_blank"><u>[Paper]</u></a> 
-
-  
- ----
  
 <br>
 
@@ -103,12 +100,11 @@
   | **Abstract**          |
   |:---------------------------|
   | <font color="black">In order to determine the presence of volatility spillovers among macroeconomic variables a Vector Autorregresive (VAR) model with multivariate heteroskedasticity effects is carried out for five countries in Latin America. The variables considered are real activity, price level, interest rate, and exchange rate. The results indicate that there are few within country volatility spillovers. Those that are significant are usually sizable and point to the relevance of international shocks in spreading volatility to other countries rather than local effects. Finally, we obtain that the volatility of inflation is not generally affected by the uncertainty shocks in the exchange rate, this result is noticeable as the price instability effects of the exchange rate fluctuations is usually the justification behind exchange rate intervention programs in these economies.</font> |
-  
 </details>
- <a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper]</u></a>
+<a href="https://cagranados.github.io/files/papers/VolSpilloversLatam.pdf"><u>[Paper]</u></a>
  
  
- <details>
+<details>
   <summary markdown="span">
   <font color="blue">
     Enhancing Economic Resiliency Through Prudential Cooperation 
@@ -119,22 +115,20 @@
   |:---------------------------|
   | <font color="black">I analyze the short-run resilience and financial stability properties of an array of cooperative policy regimes relative to nationally-oriented regulations. I show that countries that rely on internationally coordinated policies are more insulated to the negative effects of international financial downturns like the global financial crisis. Additionally, cooperative policies allow countries to increase the countercyclicality of the prudential policies, to lower the required level of interventionism to deal with crises, and to mitigate the deleveraging processes after a financial crisis. All of these properties imply that smoother and less volatile policy responses can be compatible with improved economic performance after external shocks which makes a case for the implementation of coordinated policy schemes that go beyond the potential welfare gains involved in these initiatives.</font> |
   
- </details>
- <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
+</details>
+<a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
  
  
- <details>
+<details>
   <summary markdown="span">
   <font color="blue">
     Financial Regulation and Income Inequality 
   </font> <br/>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
   </summary>
-   
-  
- </details>
- 
- ----
+
+</details>
+
 
 <br>
 
@@ -230,9 +224,8 @@
   | <font color="black">We examine the importance of adjusting output gap frameworks during large-scale disruptions, with a focus on the COVID-19 pandemic. Such adaptation can be crucial given the impact of such episodes on the reliability of time-series models and the inherent need for stability in output gap methods. We employ a Bayesian Structural Vector Autoregression model, identified through a permanent- transitory decomposition, and enhance it by scaling residuals around the pandemic period. Our analysis, conducted for seven developed economies, suggests that adjusting the model around the pandemic’s onset leads to improved estimates and reduced uncertainty. This approach surpasses traditional filters and other complex models lacking pandemic-timed adjustments. Notably, omitting such adjustments can result in biased and unstable gap estimates, potentially causing rapid gap recoveries post-downturns or increased volatility. Our findings underscore the importance of prompt reassessments of output gap frameworks during unprecedented global events, focusing on their stability and uncertainty.</font> |
     
 </details>
- <a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
+<a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
 
-----
 
 <br> 
  
