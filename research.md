@@ -77,6 +77,7 @@
     CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
   </font> <br/>
     (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
+    <i><u> R&R at the Journal of International Financial Markets, Institutions and Money</u></i>
   </summary>
     
   | **Abstract**          |
