@@ -71,7 +71,21 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   
 </details>
 <a href="https://cagranados.github.io/files/papers/MaPInteractions.pdf"><u>[Paper]</u></a>
- 
+
+<details>
+  <summary markdown="span">
+    <font color="MediumBlue">
+      Beyond Net Flows: Managing Gross Capital Flows under Collateral Constraints 
+    </font> <br/>
+      (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/>
+  </summary>
+   
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">The growing importance of capital outflows from emerging economies has led to a disconnect between net and gross inflows, raising the question of whether these quantities should be analyzed separately. We study a framework in which the distinction between foreign borrowing (gross inflows) and residents' overseas investment (gross outflows) is made explicit, in an environment with a collateral constraint where both types of flows are pledgeable. Because private agents do not internalize how their borrowing and investments jointly affect future asset prices and collateral values, their decisions generate substantial pecuniary externalities operating through both domestic and foreign asset price channels. As a result, the implied crisis probability and overborrowing extend beyond those obtained in net-flow models. We show that a set of taxes can correct the externalities, and that the interventions are considerably tighter in our environment than under net-flow regulations. Our results align with empirical evidence suggesting asymmetries in the effects of policies targeting these gross flows, as well as their interactions with global financial conditions. Overall, our setup provides a useful benchmark for assessing the potential benefits of policy prescriptions that manage separately different types of capital flows.</font> |
+  
+</details> 
+<a href="https://cagranados.github.io/files/papers/GOT.pdf"><u>[Paper]</u></a>
  
 <details>
   <summary markdown="span">
@@ -245,16 +259,4 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 </details>
 <a href=""><u> </u></a>
 
-<details>
-  <summary markdown="span">
-    <font color="MediumBlue">
-      Beyond Net Flows: Gross Capital Flows Management Under Collateral Constraints 
-    </font> <br/>
-      (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/>
-  </summary>
-   
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">This study investigates optimal tax rates on gross capital flows within a three-period model of pecuniary externalities. In the model, private domestic agents fail to internalize the impact of their borrowing and overseas investment decisions on their own financial constraints. Unlike previous frameworks that focus on net capital flows, this study explicitly distinguishes gross inflows (borrowing from foreign investors) from gross outflows (domestic investment in foreign assets), reflecting the growing importance of outward investment by emerging economies. The results show that the optimal tax rate on gross inflows is about 0.6 percentage points higher when foreign assets are included, reflecting stronger externalities transmitted through the foreign-asset price channel. These findings generalize net-flow models by demonstrating that externalities can be corrected through a Pigouvian tax on borrowing and a subsidy on overseas investment. Additionally, by linking the valuation of foreign safe assets to the tightness of collateral constraints, the framework is consistent with policy discussions of international feedback mechanisms often referred to as “spillbacks.” The analysis further provides policy insights for capital flow management by highlighting the need to manage gross inflows and outflows separately.</font> |
-  
-</details>
+
