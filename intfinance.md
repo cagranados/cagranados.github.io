@@ -1,5 +1,5 @@
 ## Economics 4382: International Finance (UTD)
-### Spring 2025
+### Spring 2026
 
 **Instructor:** Camilo Granados \
 **Class Time and Location:** Monday and Wednesday 11:30PM-12:45PM, GR 4.204 \
@@ -15,7 +15,7 @@ This course explores the functioning of the international financial system. For 
 As we will see, these topics are not independent of the governments and policy decision making. Thus, we also cover the determination of exchange rate regimes, international financial regulations, and even international monetary theory, among others. Finally, some emphasis is put on the financial and trade interlinks between economies that are integrated to the global financial market and how these will imply that the economic outcomes between countries are interrelated too.
 
 
-### Syllabus:  <a href="https://cagranados.github.io/files/intfinspr25/IntFinSpr25_syllabus.pdf"><u>[pdf]</u></a>
+### Syllabus:  <a href="https://cagranados.github.io/files/intfinspr26/IntFinSpr26_syllabus.pdf"><u>[pdf]</u></a>
 
 
 ### Outline:
@@ -50,15 +50,15 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 ### Assignments, Exams and Deadlines
 
-**Problem set 1:** due date 2/5 <a href="https://cagranados.github.io/files/intfinspr25/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr25/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> --> \
-**Problem set 2:** due date 2/19 <a href="https://cagranados.github.io/files/intfinspr25/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 3:** due date 3/24 <a href="https://cagranados.github.io/files/intfinspr25/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 4:** due date 4/9 <a href="https://cagranados.github.io/files/intfinspr25/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr25/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
+**Problem set 1:** due date 2/4 <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> --> \
+**Problem set 2:** due date 2/18 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 3/11 <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 4:** due date 4/8 <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
-**Midterm 1:** 2/26 <!-- <a href="https://cagranados.github.io/files/intfinspr25/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Midterm 2:** 4/16 <!-- <a href="https://cagranados.github.io/files/intfinspr25/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** <font color="scarlet"> 5/7 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr25/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
+**Midterm 1:** 2/23 <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 4/8 <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Final exam:** <font color="scarlet"> 5/6 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
 
@@ -66,30 +66,28 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Exchange Rate Pegs and Currency Crises \
-**Next:** Group presentations
+**Now:** Introduction \
+**Next:** Exchange rates
 
-Lecture 1: <a href="https://cagranados.github.io/files/intfinspr25/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
+**Lecture 1:** <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
-Lecture 2: <a href="https://cagranados.github.io/files/intfinspr25/L2_part1_ER.pdf"><u>[Slides]</u></a> 
+Lecture 2: <a href="https://cagranados.github.io/files/intfinspr26/L2_part1_ER.pdf"><u>[Slides]</u></a> 
 
-Lecture 3: <a href="https://cagranados.github.io/files/intfinspr25/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
+Lecture 3: <a href="https://cagranados.github.io/files/intfinspr26/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
 
-Lecture 4: <a href="https://cagranados.github.io/files/intfinspr25/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
+Lecture 4: <a href="https://cagranados.github.io/files/intfinspr26/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
 
-Lecture 5: <a href="https://cagranados.github.io/files/intfinspr25/L5_part2_BOP.pdf"><u>[Slides]</u></a>
+Lecture 5: <a href="https://cagranados.github.io/files/intfinspr26/L5_part2_BOP.pdf"><u>[Slides]</u></a>
 
-Lecture 6: <a href="https://cagranados.github.io/files/intfinspr25/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
+Lecture 6: <a href="https://cagranados.github.io/files/intfinspr26/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 
-Lecture 7: <a href="https://cagranados.github.io/files/intfinspr25/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
+Lecture 7: <a href="https://cagranados.github.io/files/intfinspr26/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
 
-Lecture 8: <a href="https://cagranados.github.io/files/intfinspr25/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L8_part3_FixedAndFloatingER_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Lecture 8: <a href="https://cagranados.github.io/files/intfinspr26/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
 
-**Lecture 9:** <a href="https://cagranados.github.io/files/intfinspr25/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/intfinspr24/L9_part3_ERPegs_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+Lecture 9: <a href="https://cagranados.github.io/files/intfinspr26/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
 
-<!-- Lecture 10: <a href="https://cagranados.github.io/files/intfinspr25/L10_part3_TheEuro.pdf"><u>[Slides]</u></a> -->
+<!-- Lecture 10: <a href="https://cagranados.github.io/files/intfinspr26/L10_part3_TheEuro.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L10_part3_TheEuro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 
@@ -97,8 +95,8 @@ Lecture 8: <a href="https://cagranados.github.io/files/intfinspr25/L8_part3_Fixe
 
 (bonus —to be held on last weeks of classes and prior to the final exam)
 
-Description: <a href="https://cagranados.github.io/files/intfinspr25/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a> \
-Schedule: <a href="https://cagranados.github.io/files/intfinspr25/FinalPresentations_schedule.pdf"><u>[pdf]</u></a>
+Description: <a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a> \
+Schedule: To be posted here <!-- <a href="https://cagranados.github.io/files/intfinspr26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> -->
 
 To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above).
 
