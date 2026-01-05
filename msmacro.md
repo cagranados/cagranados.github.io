@@ -64,18 +64,18 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Assignments, Exams and Deadlines
 
 
-**Problem set 0:** due date 2/3 <a href="https://cagranados.github.io/files/msmacrospr26/PS0.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS0_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 1:** due date 2/17 <a href="https://cagranados.github.io/files/msmacrospr26/PS1.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/ps1q2_code.m"><u>[code_q2]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/hpfilter.m"><u>[hpfilter.m]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospr26/data_ps1.xlsx"><u>[data loaded in Ans]</u></a> --> \
-**Problem set 2:** due date 3/3 <a href="https://cagranados.github.io/files/msmacrospr26/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 3:** due date 3/31 <a href="https://cagranados.github.io/files/msmacrospr26/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> -->   \
-**Problem set 4:** due date 4/14 <a href="https://cagranados.github.io/files/msmacrospr26/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/simpleDSGEexample.mod"><u>[dynare code]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 5:** due date 4/28 <a href="https://cagranados.github.io/files/msmacrospr26/PS5.pdf"><u>[Problem Set]</u></a> 
+**Problem set 0:** due date 2/2 <a href="https://cagranados.github.io/files/msmacrospr26/PS0.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS0_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 1:** due date 2/16 <a href="https://cagranados.github.io/files/msmacrospr26/PS1.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/ps1q2_code.m"><u>[code_q2]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/hpfilter.m"><u>[hpfilter.m]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS1_AnswerKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/msmacrospr26/data_ps1.xlsx"><u>[data loaded in Ans]</u></a> --> \
+**Problem set 2:** due date 3/2 <a href="https://cagranados.github.io/files/msmacrospr26/PS2.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS2_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 3/30 <a href="https://cagranados.github.io/files/msmacrospr26/PS3.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS3_AnswerKey.pdf"><u>[Answer Key]</u></a> -->   \
+**Problem set 4:** due date 4/13 <a href="https://cagranados.github.io/files/msmacrospr26/PS4.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/Calvo.pdf"><u>[Calvo handout]</u></a> <a href="https://cagranados.github.io/files/msmacrospr26/simpleDSGEexample.mod"><u>[dynare code]</u></a> <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS4_AnswerKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 5:** due date 4/27 <a href="https://cagranados.github.io/files/msmacrospr26/PS5.pdf"><u>[Problem Set]</u></a> 
 <a href="https://cagranados.github.io/files/msmacrospr26/Gali_2008_chapter_2.mod"><u>[code Gali Ch2]</u></a>
 <a href="https://cagranados.github.io/files/msmacrospr26/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 3/10 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** <font color="scarlet"> 5/12 </font> <!--  <a href="https://cagranados.github.io/files/msmacrospr26/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
+**Midterm 1:** 3/09 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Final exam:** <font color="scarlet"> 5/11 </font> <!--  <a href="https://cagranados.github.io/files/msmacrospr26/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 (these dates may be updated as necessary through the semester)
 
@@ -125,4 +125,4 @@ To be held on last weeks of classes and prior to the final exam.
 
 Description: <a href="https://cagranados.github.io/files/msmacrospr26/PresentationsTopics.pdf"><u>[pdf]</u></a>
 
-To declare your topic send me an email on behalf of your group (with group members included in the CC) by <font color="scarlet"> 4/14</font>.
+To declare your topic send me an email on behalf of your group (with group members included in the CC) by <font color="scarlet"> 4/13</font>.
