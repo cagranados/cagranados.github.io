@@ -66,14 +66,14 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Introduction \
-**Next:** Exchange rates
+**Now:** Exchange rates (short-run) \
+**Next:** Exchange rates (long-run)
 
-**Lecture 1:** <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
+Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
 Lecture 2: <a href="https://cagranados.github.io/files/intfinspr26/L2_part1_ER.pdf"><u>[Slides]</u></a> 
 
-Lecture 3: <a href="https://cagranados.github.io/files/intfinspr26/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
+**Lecture 3:** <a href="https://cagranados.github.io/files/intfinspr26/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
 
 Lecture 4: <a href="https://cagranados.github.io/files/intfinspr26/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
 
