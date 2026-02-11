@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Exchange rates (short-run) \
-**Next:** Exchange rates (long-run)
+**Now:** Exchange rates (long-run) \
+**Next:** Balance of payments
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
