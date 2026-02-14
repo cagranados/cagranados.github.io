@@ -51,12 +51,12 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Assignments, Exams and Deadlines
 
 **Problem set 1:** due date 2/9 <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
-**Problem set 2:** due date 2/18 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 2:** due date 2/21 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 3:** due date 3/11 <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 4:** due date 4/8 <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
-**Midterm 1:** 2/23 <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 2/25 <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Midterm 2:** 4/8 <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** <font color="scarlet"> 5/6 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
