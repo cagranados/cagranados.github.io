@@ -67,15 +67,15 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 (this is updated on a regular basis)
 
 **Now:** Exchange rates (long-run) \
-**Next:** Balance of payments
+**Next:** Midterm 1
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
 Lecture 2: <a href="https://cagranados.github.io/files/intfinspr26/L2_part1_ER.pdf"><u>[Slides]</u></a> 
 
-**Lecture 3:** <a href="https://cagranados.github.io/files/intfinspr26/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
+Lecture 3: <a href="https://cagranados.github.io/files/intfinspr26/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
 
-Lecture 4: <a href="https://cagranados.github.io/files/intfinspr26/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
+**Lecture 4:** <a href="https://cagranados.github.io/files/intfinspr26/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
 
 Lecture 5: <a href="https://cagranados.github.io/files/intfinspr26/L5_part2_BOP.pdf"><u>[Slides]</u></a>
 
@@ -100,3 +100,11 @@ Schedule: To be posted here <!-- <a href="https://cagranados.github.io/files/int
 
 To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above).
 
+<!-- 
+### Other materials
+
+These are some additional practice materials related to the lectures' topics.
+
+Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a>
+<a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a>
+-->

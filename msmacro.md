@@ -74,7 +74,7 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 <a href="https://cagranados.github.io/files/msmacrospr26/Gali_2008_chapter_3.mod"><u>[code Gali Ch3]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/PS5_AnswerKey.pdf"><u>[Answer Key]</u></a> -->
 
-**Midterm 1:** 3/09 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 3/9 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Midterm_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** <font color="scarlet"> 5/11 </font> <!--  <a href="https://cagranados.github.io/files/msmacrospr26/Final_MSMacro_AnsKey.pdf"><u>[Answer Key]</u></a> -->
 
 (these dates may be updated as necessary through the semester)
