@@ -100,11 +100,10 @@ Schedule: To be posted here <!-- <a href="https://cagranados.github.io/files/int
 
 To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above).
 
-<!-- 
+
 ### Other materials
 
 These are some additional practice materials related to the lectures' topics.
 
-Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a>
-<a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a>
--->
+Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26/practice_part1_opt1.pdf"><u>[pdf]</u></a>
+
