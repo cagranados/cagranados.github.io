@@ -51,7 +51,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Assignments, Exams and Deadlines
 
 **Problem set 1:** due date 2/9 <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
-**Problem set 2:** due date 2/21 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 2:** due date 2/21 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 3/11 <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 4:** due date 4/8 <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
@@ -106,4 +106,3 @@ To declare you want to present you must send me an email on behalf of your group
 These are some additional practice materials related to the lectures' topics.
 
 Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26/practice_part1_opt1.pdf"><u>[pdf]</u></a>
-
