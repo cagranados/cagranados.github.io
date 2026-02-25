@@ -159,7 +159,7 @@
     </font> <br/>
       (with Andrew Faris) <br/>
     <font color="black">
-      <b>Review of International Economics</b>. August 2025.
+      <b>Review of International Economics</b>. Volume 34, February 2026.
     </font>
   </summary>
     
