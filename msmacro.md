@@ -126,3 +126,7 @@ To be held on last weeks of classes and prior to the final exam.
 Description: <a href="https://cagranados.github.io/files/msmacrospr26/PresentationsTopics.pdf"><u>[pdf]</u></a>
 
 To declare your topic send me an email on behalf of your group (with group members included in the CC) by <font color="scarlet"> 4/13</font>.
+
+### Other materials
+
+Log-linearization handout: <a href="https://cagranados.github.io/files/msmacrospr26/Log_linearization_handout.pdf"><u>[pdf]</u></a>
