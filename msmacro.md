@@ -130,3 +130,5 @@ To declare your topic send me an email on behalf of your group (with group membe
 ### Other materials
 
 Log-linearization handout: <a href="https://cagranados.github.io/files/msmacrospr26/Log_linearization_handout.pdf"><u>[pdf]</u></a>
+
+Method of Undetermined Coefficients handout (applied to RBC model): <a href="https://cagranados.github.io/files/msmacrospr26/MUC_RBC_handout.pdf"><u>[pdf]</u></a>
