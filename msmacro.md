@@ -90,8 +90,9 @@ This is updated on a regular basis.
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr26/Topic1_Intro.pdf"><u>[Slides]</u></a> 
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
-Topic 2: <a href="https://cagranados.github.io/files/msmacrospr26/Topic2_RBC.pdf"><u>[Slides]</u></a> 
-<a href="https://cagranados.github.io/files/msmacrospr26/IRFs_RBC.xlsx"><u>[RBC simple IRFs]</u></a> 
+Topic 2: <a href="https://cagranados.github.io/files/msmacrospr26/Topic2_RBC.pdf"><u>[Slides]</u></a>
+<a href="/files/msmacrospr26/IRFs_RBC.xlsx" download="IRFs_RBC.xlsx">IRFs_RBC.xlsx</a> 
+<!--<a href="https://cagranados.github.io/files/msmacrospr26/IRFs_RBC.xlsx"><u>[RBC simple IRFs]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 3: <a href="https://cagranados.github.io/files/msmacrospr26/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
