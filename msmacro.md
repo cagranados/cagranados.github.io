@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 This is updated on a regular basis.
 
-**Now:** Group presentations \
-**Next:** Final Exam
+**Now:** Midterm 1 \
+**Next:** Topic 3 - Information frictions and Nominal Rigidities
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr26/Topic1_Intro.pdf"><u>[Slides]</u></a> 

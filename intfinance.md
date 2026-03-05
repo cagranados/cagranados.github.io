@@ -66,8 +66,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Exchange rates (long-run) \
-**Next:** Midterm 1
+**Now:** Balance of payments \
+**Next:** External wealth and Long Run Budget Constraint
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -75,9 +75,9 @@ Lecture 2: <a href="https://cagranados.github.io/files/intfinspr26/L2_part1_ER.p
 
 Lecture 3: <a href="https://cagranados.github.io/files/intfinspr26/L3_part1_ERLongRun.pdf"><u>[Slides]</u></a> 
 
-**Lecture 4:** <a href="https://cagranados.github.io/files/intfinspr26/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
+Lecture 4: <a href="https://cagranados.github.io/files/intfinspr26/L4_part1_ERShortRun.pdf"><u>[Slides]</u></a> 
 
-Lecture 5: <a href="https://cagranados.github.io/files/intfinspr26/L5_part2_BOP.pdf"><u>[Slides]</u></a>
+**Lecture 5:** <a href="https://cagranados.github.io/files/intfinspr26/L5_part2_BOP.pdf"><u>[Slides]</u></a>
 
 Lecture 6: <a href="https://cagranados.github.io/files/intfinspr26/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 
