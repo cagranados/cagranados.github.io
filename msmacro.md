@@ -126,7 +126,7 @@ To be held on last weeks of classes and prior to the final exam.
 
 Description: <a href="https://cagranados.github.io/files/msmacrospr26/PresentationsTopics.pdf"><u>[pdf]</u></a>
 
-To declare your topic send me an email on behalf of your group (with group members included in the CC) by <font color="scarlet"> 4/13</font>.
+To declare your topic send me an email on behalf of your group (with group members included in the CC) by <font color="scarlet"> 4/6</font>.
 
 ### Other materials
 
