@@ -61,13 +61,11 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Final exam:** <font color="scarlet"> 5/6 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
-
-
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** External wealth and Long Run Budget Constraint \
-**Next:** Benefits of Financial Globalization
+**Now:** Benefits of Financial Globalization \
+**Next:** Unified IS-LM-FX framework
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
