@@ -64,8 +64,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Benefits of Financial Globalization \
-**Next:** Unified IS-LM-FX framework
+**Now:** Unified IS-LM-FX framework \
+**Next:** Midterm 2
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -77,9 +77,9 @@ Lecture 4: <a href="https://cagranados.github.io/files/intfinspr26/L4_part1_ERSh
 
 Lecture 5: <a href="https://cagranados.github.io/files/intfinspr26/L5_part2_BOP.pdf"><u>[Slides]</u></a>
 
-**Lecture 6:** <a href="https://cagranados.github.io/files/intfinspr26/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
+Lecture 6: <a href="https://cagranados.github.io/files/intfinspr26/L6_part2_LRBCandGains.pdf"><u>[Slides]</u></a>
 
-Lecture 7: <a href="https://cagranados.github.io/files/intfinspr26/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
+**Lecture 7:** <a href="https://cagranados.github.io/files/intfinspr26/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
 
 Lecture 8: <a href="https://cagranados.github.io/files/intfinspr26/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
 
