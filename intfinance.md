@@ -106,3 +106,5 @@ To declare you want to present you must send me an email on behalf of your group
 These are some additional practice materials related to the lectures' topics.
 
 Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26/practice_part1_opt1.pdf"><u>[pdf]</u></a>
+
+Part 2 - Chapters 16-18: <a href="https://cagranados.github.io/files/intfinspr26/practice_part2_opt1.pdf"><u>[pdf]</u></a>
