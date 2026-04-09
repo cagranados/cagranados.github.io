@@ -71,7 +71,7 @@
 <a href="https://cagranados.github.io/files/papers/GOT.pdf"><u>[Paper]</u></a>
 
 
-<details>
+<!-- <details>
   <summary markdown="span">
   <font color="MediumBlue">
     Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
@@ -84,7 +84,7 @@
   | <font color="black">To understand the international nature of the macroprudential policy and the potential cross-border regulatory leakages these imply we develop a three-country center-periphery framework with financial frictions and limited financial intermediation in emerging economies. Each country has a macroprudential instrument to smooth credit spread distortions; however, the banking regulations can leak to other economies and be subject to costs. Our results show the presence of cross-border regulation spillovers that increase with the extent of financial frictions, that are driven by the capacity of the regulation to limit aggregate intermediation, and that can be magnified if policymakers are forward-looking. We discuss the policy implications of the resulting macroprudential interdependence and the potential scope for policy design that improves the management of the trade-off between mitigating the financial frictions and curtailing intermediation.</font> |
   
 </details>
-<a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> 
+<a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a>  -->
 
 
 <details>
@@ -151,6 +151,24 @@
 <br>
 
 ### Publications
+
+<details>
+  <summary markdown="span">
+  <font color="MediumBlue">
+    Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
+  </font> <br/>
+  <font color="black">
+    <b>Macroeconomic Dynamics</b>. 
+  </font>
+    <i> Accepted. </i>
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">To understand the international nature of the macroprudential policy and the potential cross-border regulatory leakages these imply we develop a three-country center-periphery framework with financial frictions and limited financial intermediation in emerging economies. Each country has a macroprudential instrument to smooth credit spread distortions; however, the banking regulations can leak to other economies and be subject to costs. Our results show the presence of cross-border regulation spillovers that increase with the extent of financial frictions, that are driven by the capacity of the regulation to limit aggregate intermediation, and that can be magnified if policymakers are forward-looking. We discuss the policy implications of the resulting macroprudential interdependence and the potential scope for policy design that improves the management of the trade-off between mitigating the financial frictions and curtailing intermediation.</font> |
+  
+</details>
+<a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a> 
 
 <details>
   <summary markdown="span">
