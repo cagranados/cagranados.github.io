@@ -83,8 +83,8 @@ VII. APPLICATIONS AND ADDITIONAL TOPICS IN MACROECONOMICS
 ### Lectures and detailed outline: 
 This is updated on a regular basis.
 
-**Now:** Midterm 1 \
-**Next:** Topic 3 - Information frictions and Nominal Rigidities
+**Now:** Topic 5 - Monetary Policy and Basic NK-DSGE model \
+**Next:** Topic 6 - Financial Frictions and Wrap-up
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr26/Topic1_Intro.pdf"><u>[Slides]</u></a> 
@@ -102,7 +102,7 @@ Topic 4: <a href="https://cagranados.github.io/files/msmacrospr26/Topic4_Consump
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 5: <a href="https://cagranados.github.io/files/msmacrospr26/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
-<!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic5_MonetaryPolicyAndBasicNKModel_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
+<a href="/files/msmacrospr26/msmacrospr26/NK_DSGE_3eqs.mod" download="msmacrospr26/NK_DSGE_3eqs.mod">[Basic 3 eq. NK-DSGE code]</a> 
 
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospr26/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
