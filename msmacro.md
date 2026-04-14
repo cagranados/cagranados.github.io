@@ -102,7 +102,7 @@ Topic 4: <a href="https://cagranados.github.io/files/msmacrospr26/Topic4_Consump
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 5: <a href="https://cagranados.github.io/files/msmacrospr26/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
-<a href="/files/msmacrospr26/msmacrospr26/NK_DSGE_3eqs.mod" download="msmacrospr26/NK_DSGE_3eqs.mod">[Basic 3 eq. NK-DSGE code]</a> 
+<a href="/files/msmacrospr26/msmacrospr26/NK_DSGE_3eqs.mod" download="NK_DSGE_3eqs.mod">[Basic 3 eq. NK-DSGE code]</a> 
 
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospr26/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
