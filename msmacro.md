@@ -88,22 +88,16 @@ This is updated on a regular basis.
 <!--**Next:** Group presentations and <span style="color: red;">Final Exam (May 8, 7:00PM)</span> -->
 
 Topic 1: <a href="https://cagranados.github.io/files/msmacrospr26/Topic1_Intro.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic1_Intro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 2: <a href="https://cagranados.github.io/files/msmacrospr26/Topic2_RBC.pdf"><u>[Slides]</u></a>
 <a href="/files/msmacrospr26/IRFs_RBC.xlsx" download="IRFs_RBC.xlsx">[RBC simple IRFs]</a> 
-<!--<a href="https://cagranados.github.io/files/msmacrospr26/IRFs_RBC.xlsx"><u>[RBC simple IRFs]</u></a> -->
-<!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic2_RBC_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 3: <a href="https://cagranados.github.io/files/msmacrospr26/Topic3_InfoFrictionsAndNominalRigidities.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic3_InfoFrictionsAndNominalRigidities_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 4: <a href="https://cagranados.github.io/files/msmacrospr26/Topic4_ConsumptionAndAggregateDemand.pdf"><u>[Slides]</u></a> 
-<!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic4_ConsumptionAndAggregateDemand_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
 
 Topic 5: <a href="https://cagranados.github.io/files/msmacrospr26/Topic5_MonetaryPolicyAndBasicNKModel.pdf"><u>[Slides]</u></a>
 <a href="/files/msmacrospr26/NK_DSGE_3eqs.mod" download="NK_DSGE_3eqs.mod">[Basic 3 eq. NK-DSGE code]</a> 
-<a href="https://cagranados.github.io/files/msmacrospr26/simpleDSGEexample.mod"><u>[dynare code]</u></a>
 
 Topic 6: <a href="https://cagranados.github.io/files/msmacrospr26/Topic6_FinancialFrictions.pdf"><u>[Slides]</u></a>
 <!-- <a href="https://cagranados.github.io/files/msmacrospr26/Topic6_FinancialFrictions_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
