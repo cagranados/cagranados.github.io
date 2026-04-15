@@ -57,15 +57,15 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
 **Midterm 1:** 2/25 <a href="https://cagranados.github.io/files/intfinspr26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 4/8 <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 4/8  <a href="https://cagranados.github.io/files/intfinspr26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** <font color="scarlet"> 5/6 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Midterm 2 \
-**Next:** Exchange rate regimes and policy
+**Now:** Exchange rate regimes and policy \
+**Next:** Exchange rates crises
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -81,9 +81,9 @@ Lecture 6: <a href="https://cagranados.github.io/files/intfinspr26/L6_part2_LRBC
 
 Lecture 7: <a href="https://cagranados.github.io/files/intfinspr26/L7_part2_OpenEcPolicySR.pdf"><u>[Slides]</u></a>
 
-**Lecture 8:** <a href="https://cagranados.github.io/files/intfinspr26/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
+Lecture 8: <a href="https://cagranados.github.io/files/intfinspr26/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
 
-Lecture 9: <a href="https://cagranados.github.io/files/intfinspr26/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
+**Lecture 9:** <a href="https://cagranados.github.io/files/intfinspr26/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
 
 <!-- Lecture 10: <a href="https://cagranados.github.io/files/intfinspr26/L10_part3_TheEuro.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L10_part3_TheEuro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
@@ -108,3 +108,5 @@ These are some additional practice materials related to the lectures' topics.
 Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26/practice_part1_opt1.pdf"><u>[pdf]</u></a>
 
 Part 2 - Chapters 16-18: <a href="https://cagranados.github.io/files/intfinspr26/practice_part2_opt1.pdf"><u>[pdf]</u></a>
+
+<!-- Part 3 - Chapters 19-20: <a href="https://cagranados.github.io/files/intfinspr26/practice_part3_opt1.pdf"><u>[pdf]</u></a> -->
