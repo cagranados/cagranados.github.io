@@ -109,4 +109,4 @@ Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26
 
 Part 2 - Chapters 16-18: <a href="https://cagranados.github.io/files/intfinspr26/practice_part2_opt1.pdf"><u>[pdf]</u></a>
 
-<!-- Part 3 - Chapters 19-20: <a href="https://cagranados.github.io/files/intfinspr26/practice_part3_opt1.pdf"><u>[pdf]</u></a> -->
+Part 3 - Chapters 19-20: <a href="https://cagranados.github.io/files/intfinspr26/practice_part3_opt1.pdf"><u>[pdf]</u></a>
