@@ -64,8 +64,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Exchange rate regimes and policy \
-**Next:** Exchange rates crises
+**Now:** Presentations module \
+**Next:** Final Exam (5/6)
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -83,7 +83,7 @@ Lecture 7: <a href="https://cagranados.github.io/files/intfinspr26/L7_part2_Open
 
 Lecture 8: <a href="https://cagranados.github.io/files/intfinspr26/L8_part3_FixedAndFloatingER.pdf"><u>[Slides]</u></a>
 
-**Lecture 9:** <a href="https://cagranados.github.io/files/intfinspr26/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
+Lecture 9: <a href="https://cagranados.github.io/files/intfinspr26/L9_part3_ERPegs.pdf"><u>[Slides]</u></a>
 
 <!-- Lecture 10: <a href="https://cagranados.github.io/files/intfinspr26/L10_part3_TheEuro.pdf"><u>[Slides]</u></a> -->
 <!-- <a href="https://cagranados.github.io/files/intfinspr24/L10_part3_TheEuro_wNotes.pdf"><u>[Annotated Slides]</u></a> -->
@@ -96,9 +96,11 @@ Lecture 8: <a href="https://cagranados.github.io/files/intfinspr26/L8_part3_Fixe
 Deadline for opting to present: <font color="scarlet"> April 1st </font>
 
 Description: <a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a> \
-Schedule: To be posted here <a href="https://cagranados.github.io/files/intfinspr26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a>
+Schedule: <a href="https://cagranados.github.io/files/intfinspr26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> \
 
-To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above).
+Datate: 4-27 - (All groups must be ready to present on the first day)
+
+To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above). 
 
 
 ### Other materials
