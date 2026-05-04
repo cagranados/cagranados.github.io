@@ -54,7 +54,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 2:** due date 2/21 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 3:** due date 3/11 <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Problem set 4:** due date 4/6 <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin.pdf"><u>[Problem Set]</u></a>  <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
+**Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a>  <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> 
 
 **Midterm 1:** 2/25 <a href="https://cagranados.github.io/files/intfinspr26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 4/8  <a href="https://cagranados.github.io/files/intfinspr26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
@@ -96,7 +96,7 @@ Lecture 9: <a href="https://cagranados.github.io/files/intfinspr26/L9_part3_ERPe
 Deadline for opting to present: <font color="scarlet"> April 1st </font>
 
 Description: <a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a> \
-Schedule: <a href="https://cagranados.github.io/files/intfinspr26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> \
+Schedule: <a href="https://cagranados.github.io/files/intfinspr26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> 
 
 > **Date:** 4-27 - (All groups must be ready to present on the first day)
 
