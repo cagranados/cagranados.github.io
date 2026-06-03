@@ -1,9 +1,9 @@
 ## Economics 4382: International Finance (UTD)
-### Spring 2026
+### Fall 2026
 
 **Instructor:** Camilo Granados \
-**Class Time and Location:** Monday and Wednesday 11:30PM-12:45PM, GR 4.204 \
-**Course Office Hours:** GR 2.820, Monday 4:00PM-6:00PM or by appointment, GR 2.820 \
+**Class Time and Location:** Thursday TIME/ROOM: TBA 11:30PM-12:45PM, GR 4.204 \
+**Course Office Hours:** GR 2.820, Thursday 2:00PM-4:00PM or by appointment, GR 2.820 \
 **Email:** Camilo.granados@utdallas.edu \
 **Website:** <a href="https://cagranados.github.io/intfinance.html"><u>https://cagranados.github.io/intfinance.html</u></a> 
 
@@ -50,22 +50,22 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 ### Assignments, Exams and Deadlines
 
-**Problem set 1:** due date 2/9 <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
-**Problem set 2:** due date 2/21 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 3:** due date 3/11 <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 4:** due date 4/6 <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin.pdf"><u>[Problem Set]</u></a>  <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a>  <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> 
+**Problem set 1:** due date 2/9 <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinspr26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> --> \
+**Problem set 2:** due date 2/21 <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 3/11 <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 4:** due date 4/6 <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinspr26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
-**Midterm 1:** 2/25 <a href="https://cagranados.github.io/files/intfinspr26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 4/8  <a href="https://cagranados.github.io/files/intfinspr26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
+**Midterm 1:** 2/25 <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 4/8  <!-- <a href="https://cagranados.github.io/files/intfinspr26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** <font color="scarlet"> 5/6 11:30pm-12:45pm (GR 4.204)</font> <!-- <a href="https://cagranados.github.io/files/intfinspr26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Presentations module \
-**Next:** Final Exam (5/6)
+**Now:** Introduction \
+**Next:** Exchange Rate Fundamentals
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinspr26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -96,9 +96,9 @@ Lecture 9: <a href="https://cagranados.github.io/files/intfinspr26/L9_part3_ERPe
 Deadline for opting to present: <font color="scarlet"> April 1st </font>
 
 Description: <a href="https://cagranados.github.io/files/intfinspr26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a> \
-Schedule: <a href="https://cagranados.github.io/files/intfinspr26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> 
+Schedule: TBA <!-- <a href="https://cagranados.github.io/files/intfinspr26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> -->
 
-> **Date:** 4-27 - (All groups must be ready to present on the first day)
+> **Date:** TBA - (All groups must be ready to present on the first day)
 
 To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above). 
 
@@ -109,6 +109,8 @@ These are some additional practice materials related to the lectures' topics.
 
 Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinspr26/practice_part1_opt1.pdf"><u>[pdf]</u></a>
 
-Part 2 - Chapters 16-18: <a href="https://cagranados.github.io/files/intfinspr26/practice_part2_opt1.pdf"><u>[pdf]</u></a>
+Next parts: TBA
 
-Part 3 - Chapters 19-20: <a href="https://cagranados.github.io/files/intfinspr26/practice_part3_opt1.pdf"><u>[pdf]</u></a>
+<!-- Part 2 - Chapters 16-18: <a href="https://cagranados.github.io/files/intfinspr26/practice_part2_opt1.pdf"><u>[pdf]</u></a> -->
+
+<!-- Part 3 - Chapters 19-20: <a href="https://cagranados.github.io/files/intfinspr26/practice_part3_opt1.pdf"><u>[pdf]</u></a> -->
