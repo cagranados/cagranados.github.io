@@ -50,11 +50,11 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 ### Assignments, Exams and Deadlines
 
-**Problem set 1:** due date 2/9 <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/intfinfall26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> --> \
-**Problem set 2:** due date 2/21 <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 3:** due date 3/11 <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 4:** due date 4/6 <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Problem set 5:** due date 5/4 <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
+**Problem set 1:** due date 9/17 <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/intfinfall26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> --> \
+**Problem set 2:** due date 10/1 <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 10/15 <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 4:** due date 11/2 <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 5:** due date 11/30 <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
 **Midterm 1:** 10/1 <!-- <a href="https://cagranados.github.io/files/intfinfall26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Midterm 2:** 11/5  <!-- <a href="https://cagranados.github.io/files/intfinfall26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
@@ -93,12 +93,12 @@ Lecture 9: <a href="https://cagranados.github.io/files/intfinfall26/L9_part3_ERP
 
 (bonus —to be held on last weeks of classes and prior to the final exam)
 
-Deadline for opting to present: <font color="scarlet"> April 1st </font>
+Deadline for opting to present: <font color="scarlet"> October 8th </font>
 
 Description: <a href="https://cagranados.github.io/files/intfinfall26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a> \
 Schedule: TBA <!-- <a href="https://cagranados.github.io/files/intfinfall26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> -->
 
-> **Date:** TBA - (All groups must be ready to present on the first day)
+> **Date:** TBA - (around the last weeks of the term. All groups must be ready to present on the first day)
 
 To declare you want to present you must send me an email on behalf of your group (with group members included in the CC) with the citation of the paper you want to present and a backup option (these citations can be obtained from the description document above). 
 
@@ -107,7 +107,7 @@ To declare you want to present you must send me an email on behalf of your group
 
 These are some additional practice materials related to the lectures' topics.
 
-Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinfall26/practice_part1_opt1.pdf"><u>[pdf]</u></a>
+Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinfall26/practice_part1_opt2.pdf"><u>[pdf]</u></a>
 
 Next parts: TBA
 
