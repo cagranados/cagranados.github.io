@@ -90,7 +90,6 @@ Lecture 9: <a href="https://cagranados.github.io/files/intfinfall26/L9_part3_ERP
 
 
 ### Optional presentation:
-
 (bonus —to be held on last weeks of classes and prior to the final exam)
 
 Deadline for opting to present: <font color="scarlet"> October 8th </font>
