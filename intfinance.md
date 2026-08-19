@@ -10,9 +10,9 @@
 
 ### Course Description
 
-This course explores the functioning of the international financial system. For that we study the foreign exchange rates and markets, the balance of payments accounts, and the international exchange of financial assets as well as the link of these variables and the trade of goods and services between countries. 
+This course explores the functioning of the international financial system. For that, we study foreign exchange rates and markets, the balance of payments accounts, and the international exchange of financial assets, as well as the link between these variables and the trade of goods and services between countries.
 
-As we will see, these topics are not independent of the governments and policy decision making. Thus, we also cover the determination of exchange rate regimes, international financial regulations, and even international monetary theory, among others. Finally, some emphasis is put on the financial and trade interlinks between economies that are integrated to the global financial market and how these will imply that the economic outcomes between countries are interrelated too.
+As we will see, these topics are not independent of the governments and policy decision-making. Thus, we also cover the determination of exchange rate regimes, international financial regulations, and even international monetary theory, among others. Finally, we emphasize the financial and trade interlinks between economies integrated into the global financial market and how these imply that economic outcomes between countries are interrelated, too.
 
 
 ### Syllabus:  <a href="https://cagranados.github.io/files/intfinfall26/IntFinFall26_syllabus.pdf"><u>[pdf]</u></a>
