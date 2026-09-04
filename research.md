@@ -69,39 +69,6 @@
   
 </details> 
 <a href="https://cagranados.github.io/files/papers/GOT.pdf"><u>[Paper]</u></a>
-
-
-<!-- <details>
-  <summary markdown="span">
-  <font color="MediumBlue">
-    Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
-  </font> <br/>
-    <i><u> R&R at Macroeconomic Dynamics</u></i>
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">To understand the international nature of the macroprudential policy and the potential cross-border regulatory leakages these imply we develop a three-country center-periphery framework with financial frictions and limited financial intermediation in emerging economies. Each country has a macroprudential instrument to smooth credit spread distortions; however, the banking regulations can leak to other economies and be subject to costs. Our results show the presence of cross-border regulation spillovers that increase with the extent of financial frictions, that are driven by the capacity of the regulation to limit aggregate intermediation, and that can be magnified if policymakers are forward-looking. We discuss the policy implications of the resulting macroprudential interdependence and the potential scope for policy design that improves the management of the trade-off between mitigating the financial frictions and curtailing intermediation.</font> |
-  
-</details>
-<a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a>  -->
-
-
-<details>
-  <summary markdown="span">
-  <font color="MediumBlue">
-    CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
-  </font> <br/>
-    (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) 
-    <i><u> R&R at the Journal of International Financial Markets, Institutions and Money</u></i>
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">We analyze Covered Interest Parity (CIP) deviations across advanced and emerging economies post-crisis, using Libor and commercial paper data. Employing a lag-augmented local-projection framework, we leverage identified demand- and supply-driven commodity shocks and gauge their interaction with macroprudential tightenings. We find that a policy tightening alone deepens CIP deviations by 1–2 basis points in advanced economies and 15–20 in emerging markets. Demand shocks raise deviations by 2–4 basis points in advanced economies but reduce them by 5–10 in emerging markets, while supply shocks have more uniform effects. Macroprudential policy partially offsets demand-shock impacts but shows no interaction with other shocks. These results highlight the state-dependent effectiveness of macroprudential tools and the need for tailored regulatory design to manage cross-border funding risks.</font> |
-  
-</details>
-<a href="https://cagranados.github.io/files/papers/CIPDeviationsMaP.pdf" target="_blank"><u>[Paper]</u></a> 
  
 <br>
 
@@ -155,10 +122,25 @@
 <details>
   <summary markdown="span">
   <font color="MediumBlue">
+    CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
+  </font> <br/>
+    (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) <b>Journal of International Financial Markets, Institutions and Money</b>. Volume 113, 2026.
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">We analyze Covered Interest Parity (CIP) deviations across advanced and emerging economies post-crisis, using Libor and commercial paper data. Employing a lag-augmented local-projection framework, we leverage identified demand- and supply-driven commodity shocks and gauge their interaction with macroprudential tightenings. We find that a policy tightening alone deepens CIP deviations by 1–2 basis points in advanced economies and 15–20 in emerging markets. Demand shocks raise deviations by 2–4 basis points in advanced economies but reduce them by 5–10 in emerging markets, while supply shocks have more uniform effects. Macroprudential policy partially offsets demand-shock impacts but shows no interaction with other shocks. These results highlight the state-dependent effectiveness of macroprudential tools and the need for tailored regulatory design to manage cross-border funding risks.</font> |
+  
+</details>
+<a href="10.1016/j.intfin.2026.102392"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/CIPDeviationsMaP.pdf" target="_blank"><u>[Paper]</u></a> 
+
+<details>
+  <summary markdown="span">
+  <font color="MediumBlue">
     Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
   </font> <br/>
   <font color="black">
-    <b>Macroeconomic Dynamics</b>. Volume 30, June 2026. 
+    <b>Macroeconomic Dynamics</b>. Volume 30, 2026. 
   </font>
   </summary>
     
@@ -176,7 +158,7 @@
     </font> <br/>
       (with Andrew Faris) <br/>
     <font color="black">
-      <b>Review of International Economics</b>. Volume 34, February 2026.
+      <b>Review of International Economics</b>. Volume 34, 2026.
     </font>
   </summary>
     
@@ -189,30 +171,12 @@
 
 <details>
   <summary markdown="span">
-    <font color="MediumBlue">
-      Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  
-    </font> <br/> 
-      (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
-    <font color="black">
-      <b>Journal of Financial Stability</b>. Volume 79, August 2025.
-    </font>
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">To rationalize the increased use of capital flows regulations in recent times, we study the capacity of capital flow management measures (CFMs) to insulate an economy from external shocks. We examine the extent to which CFMs mitigate the effects of US monetary shocks and whether measuring this mitigation at the net or gross level of flows matters. Our analysis is carried out for a panel of emerging market economies and for different disaggregations of the flows. Our results indicate that the level of aggregation matters for evaluating the effects of CFMs, and that analyses with excessively aggregated flows or with only net measures may lead to biases in assessing the insulation features of the CFMs. Furthermore, CFMs have insulation properties that mitigate capital repatriations; however, these are mostly related to risky portfolio and banking flows. </font> |
-  
-</details>
-<a href="https://doi.org/10.1016/j.jfs.2025.101433"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a>  
-
-<details>
-  <summary markdown="span">
   <font color="MediumBlue">
     Output Gap Measurement after COVID for Colombia: Lessons from a Permanent-Transitory Approach 
   </font> <br/> 
     (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
   <font color="black">
-    <b>Latin American Journal of Central Banking</b>. July 2025.
+    <b>Latin American Journal of Central Banking</b>. Volume 7, 2026.
   </font>
   </summary>
     
@@ -227,11 +191,29 @@
 <details>
   <summary markdown="span">
     <font color="MediumBlue">
+      Dissecting Capital Flows: Do Capital Controls Shield Against Foreign Shocks?  
+    </font> <br/> 
+      (with <a href="https://sites.google.com/view/kj-kwak" target="_blank"> Kyongjun Kwak </a>) <br/> 
+    <font color="black">
+      <b>Journal of Financial Stability</b>. Volume 79, 2025.
+    </font>
+  </summary>
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">To rationalize the increased use of capital flows regulations in recent times, we study the capacity of capital flow management measures (CFMs) to insulate an economy from external shocks. We examine the extent to which CFMs mitigate the effects of US monetary shocks and whether measuring this mitigation at the net or gross level of flows matters. Our analysis is carried out for a panel of emerging market economies and for different disaggregations of the flows. Our results indicate that the level of aggregation matters for evaluating the effects of CFMs, and that analyses with excessively aggregated flows or with only net measures may lead to biases in assessing the insulation features of the CFMs. Furthermore, CFMs have insulation properties that mitigate capital repatriations; however, these are mostly related to risky portfolio and banking flows. </font> |
+  
+</details>
+<a href="https://doi.org/10.1016/j.jfs.2025.101433"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/cfm_insulation.pdf"><u>[Working Paper]</u></a><a href="https://cagranados.github.io/files/papers/KG2025_replication.zip" target="_blank"><u>[replication file]</u></a>  
+
+<details>
+  <summary markdown="span">
+    <font color="MediumBlue">
       Exchange Rate Dynamics and the Central Bank’s Balance Sheet 
     </font> <br/>
       (with <a href="https://guillgall.github.io/" target="_blank">Guillermo Gallacher</a> and <a href="https://www.janellemann.com/" target="_blank">Janelle Mann</a>) <br/>
     <font color="black">
-      <b>Journal of International Money and Finance</b>. Volume 148, October 2024.
+      <b>Journal of International Money and Finance</b>. Volume 148, 2024.
     </font>
   </summary>
     
@@ -250,7 +232,7 @@
     </font> <br/>
       (with <a href="https://investiga.banrep.gov.co/es/profile/502" target="_blank">Daniel Parra</a>) <br/>
     <font color="black">
-      <b>Economic Modelling</b>. Volume 135, June 2024.
+      <b>Economic Modelling</b>. Volume 135, 2024.
     </font>
   </summary>
 	
@@ -260,7 +242,6 @@
     
 </details>
 <a href="https://doi.org/10.1016/j.econmod.2024.106711"><u>[Publisher]</u></a><a href="https://cagranados.github.io/files/papers/OutputGapAndCovid.pdf"><u>[Working Paper]</u></a>
-
 
 <br> 
  
