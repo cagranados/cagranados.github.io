@@ -124,7 +124,10 @@
   <font color="MediumBlue">
     CIP Deviations, Commodity Markets Shocks, and the Role of Macroprudential Policy 
   </font> <br/>
-    (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) <b>Journal of International Financial Markets, Institutions and Money</b>. Volume 113, 2026.
+    (with <a href="https://sites.google.com/view/julianfernandezmejia/" target="_blank">Julián Fernández</a>) <br/>
+  <font color="black">
+    <b>Journal of International Financial Markets, Institutions and Money</b>. Volume 113, 2026.
+  </font>
   </summary>
     
   | **Abstract**          |
