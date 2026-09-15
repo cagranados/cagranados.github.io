@@ -264,17 +264,23 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   
 </details>
 <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
- 
- 
+
 <details>
   <summary markdown="span">
-    <font color="MediumBlue">
-      Financial Regulation and Income Inequality 
-    </font> <br/>
+  <font color="MediumBlue">
+    Financial Regulation and Income Inequality 
+  </font> <br/>
     (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
   </summary>
-   
+    
+  | **Abstract**          |
+  |:---------------------------|
+  | <font color="black">Prudential regulation is designed for financial stability, yet the credit cycles it leans against fall unevenly across households---leaving its distributional footprint an open and contested question. Tracing that footprint across advanced, emerging, and developing economies over 1999--2024, we find that tighter macroprudential policy lowers income inequality, gradually and most clearly through the instruments that bear on banks rather than borrowers, and more so for inequality measured after taxes and transfers. To understand why, we build a closed-economy model with financial frictions and capital-skill complementarity in which prudential policy taxes the returns to intermediation. A tightening reduces inequality through three channels: it rebates revenue to households, cools the credit boom feeding financial rents, and compresses the skill premium accruing to high-income agents. Inequality moderation thus arises as a by-product of stability-oriented regulation---regulators tempering the distributional consequences of the credit cycle even when they only pursue financial stability.</font> |
+  
 </details>
+<!-- 
+<a href="https://cagranados.github.io/files/papers/FRI_main.pdf"><u>[Paper]</u></a>
+-->
 <a href=""><u> </u></a>
 
 
