@@ -50,7 +50,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 ### Assignments, Exams and Deadlines
 
-**Problem set 1:** due date 9/17 <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/intfinfall26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> --> \
+**Problem set 1:** due date 9/17 <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/intfinfall26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
 **Problem set 2:** due date 10/1 <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 3:** due date 10/15 <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 4:** due date 11/2 <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
@@ -64,8 +64,8 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Introduction \
-**Next:** Exchange Rate Fundamentals
+**Now:** Exchange Rates in the Long Run \
+**Next:** Exchange Rates in the Short Run
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
