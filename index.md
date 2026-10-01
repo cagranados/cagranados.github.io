@@ -87,20 +87,20 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 </details> 
 <a href="https://cagranados.github.io/files/papers/GOT.pdf"><u>[Paper]</u></a>
  
-<!-- <details>
+<details>
   <summary markdown="span">
   <font color="MediumBlue">
-    Macroprudential Policy Leakages in Open Economies: A Multiperipheral Approach.
+    The Distributional Dividend of Macroprudential Policy
   </font> <br/>
-    <i><u> R&R at Macroeconomic Dynamics</u></i>
+    (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
   </summary>
     
   | **Abstract**          |
   |:---------------------------|
-  | <font color="black">To understand the international nature of the macroprudential policy and the potential cross-border regulatory leakages these imply we develop a three-country center-periphery framework with financial frictions and limited financial intermediation in emerging economies. Each country has a macroprudential instrument to smooth credit spread distortions; however, the banking regulations can leak to other economies and be subject to costs. Our results show the presence of cross-border regulation spillovers that increase with the extent of financial frictions, that are driven by the capacity of the regulation to limit aggregate intermediation, and that can be magnified if policymakers are forward-looking. We discuss the policy implications of the resulting macroprudential interdependence and the potential scope for policy design that improves the management of the trade-off between mitigating the financial frictions and curtailing intermediation.</font> |
+  | <font color="black">Prudential regulation is designed for financial stability, yet the credit cycles it leans against fall unevenly across households—leaving its distributional footprint an open and contested question. Tracing that footprint across advanced, emerging, and developing economies over 1999-2024, we find that tighter macroprudential policy lowers income inequality, gradually and most clearly through the instruments that bear on banks rather than borrowers, and more so for inequality measured after taxes and transfers. To understand why, we build a closed-economy model with financial frictions and capital-skill complementarity in which prudential policy taxes the returns to intermediation. A tightening reduces inequality through three channels: it rebates revenue to households, cools the credit boom feeding financial rents, and compresses the skill premium accruing to high-income agents. Inequality moderation thus arises as a by-product of stability-oriented regulation—regulators tempering the distributional consequences of the credit cycle even when they only pursue financial stability.</font> |
   
 </details>
-<a href="https://cagranados.github.io/files/papers/MaPLeakages.pdf" target="_blank"><u>[Paper]</u></a>  -->
+<a href="https://cagranados.github.io/files/papers/FRI_main.pdf"><u>[Paper]</u></a>
 
  
 <br> 
@@ -264,21 +264,6 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
   
 </details>
 <a href="https://cagranados.github.io/files/papers/DynResilience.pdf"><u>[Paper]</u></a>
-
-<details>
-  <summary markdown="span">
-  <font color="MediumBlue">
-    Financial Regulation and Income Inequality 
-  </font> <br/>
-    (with <a href="https://www.jasminejiang.net/home-page" target="_blank">Jasmine Jiang</a>) <br/>
-  </summary>
-    
-  | **Abstract**          |
-  |:---------------------------|
-  | <font color="black">Prudential regulation is designed for financial stability, yet the credit cycles it leans against fall unevenly across households—leaving its distributional footprint an open and contested question. Tracing that footprint across advanced, emerging, and developing economies over 1999-2024, we find that tighter macroprudential policy lowers income inequality, gradually and most clearly through the instruments that bear on banks rather than borrowers, and more so for inequality measured after taxes and transfers. To understand why, we build a closed-economy model with financial frictions and capital-skill complementarity in which prudential policy taxes the returns to intermediation. A tightening reduces inequality through three channels: it rebates revenue to households, cools the credit boom feeding financial rents, and compresses the skill premium accruing to high-income agents. Inequality moderation thus arises as a by-product of stability-oriented regulation—regulators tempering the distributional consequences of the credit cycle even when they only pursue financial stability.</font> |
-  
-</details>
-<a href="https://cagranados.github.io/files/papers/FRI_main.pdf"><u>[Paper]</u></a>
 
 
 
