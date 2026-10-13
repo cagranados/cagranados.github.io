@@ -52,11 +52,11 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 **Problem set 1:** due date 9/17 <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall26/ps1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  <a href="https://cagranados.github.io/files/intfinfall26/ExchangeRatesFRED.xls"><u>[xls-Q1 Ans]</u></a> \
 **Problem set 2:** due date 10/1 <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin.pdf"><u>[Problem Set]</u></a> <a href="https://cagranados.github.io/files/intfinfall26/ps2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Problem set 3:** due date 10/15 <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Problem set 3:** due date 10/17 <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps3_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 4:** due date 11/2 <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps4_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Problem set 5:** due date 11/30 <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
-**Midterm 1:** 10/1 <!-- <a href="https://cagranados.github.io/files/intfinfall26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 1:** 10/1 <a href="https://cagranados.github.io/files/intfinfall26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 11/5  <!-- <a href="https://cagranados.github.io/files/intfinfall26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
 **Final exam:** <font color="scarlet"> 12/3 4:00pm-5:45pm (FN 2.202)</font> - last day of class (time permitting) or UTD-assigned time on examination week.  <!-- <a href="https://cagranados.github.io/files/intfinfall26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
@@ -108,8 +108,8 @@ These are some additional practice materials related to the lectures' topics.
 
 Part 1 - Chapters 12-15: <a href="https://cagranados.github.io/files/intfinfall26/practice_part1_opt2.pdf"><u>[pdf]</u></a>
 
-Next parts: TBA
+Part 2 - Chapters 16-18: <a href="https://cagranados.github.io/files/intfinfall26/practice_part2_opt1.pdf"><u>[pdf]</u></a>
 
-<!-- Part 2 - Chapters 16-18: <a href="https://cagranados.github.io/files/intfinfall26/practice_part2_opt1.pdf"><u>[pdf]</u></a> -->
+Next parts: TBA
 
 <!-- Part 3 - Chapters 19-20: <a href="https://cagranados.github.io/files/intfinfall26/practice_part3_opt1.pdf"><u>[pdf]</u></a> -->
