@@ -57,7 +57,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 **Problem set 5:** due date 11/30 <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin.pdf"><u>[Problem Set]</u></a> <!-- <a href="https://cagranados.github.io/files/intfinfall26/ps5_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> 
 
 **Midterm 1:** 10/1 <a href="https://cagranados.github.io/files/intfinfall26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
-**Midterm 2:** 11/5  <!-- <a href="https://cagranados.github.io/files/intfinfall26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
+**Midterm 2:** 11/5 <a href="https://cagranados.github.io/files/intfinfall26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Final exam:** <font color="scarlet"> 12/3 4:00pm-5:45pm (FN 2.202)</font> - last day of class (time permitting) or UTD-assigned time on examination week.  <!-- <a href="https://cagranados.github.io/files/intfinfall26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
