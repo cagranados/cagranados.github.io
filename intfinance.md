@@ -58,7 +58,7 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 **Midterm 1:** 10/1 <a href="https://cagranados.github.io/files/intfinfall26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 11/5 <!-- <a href="https://cagranados.github.io/files/intfinfall26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** <font color="scarlet"> 12/3 4:00pm-5:45pm (FN 2.202)</font> - last day of class (time permitting) or UTD-assigned time on examination week.  <!-- <a href="https://cagranados.github.io/files/intfinfall26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
+**Final exam:** <font color="scarlet"> 12/15 3:00pm-4:45pm (FN 2.202)</font> - UTD-assigned time on examination week. **NOTE THE TIME AND DAY IS DIFFERENT THAN THE LECTURE ONE**  <!-- <a href="https://cagranados.github.io/files/intfinfall26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
 ### Lectures and detailed outline: 
