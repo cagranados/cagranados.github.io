@@ -58,14 +58,15 @@ Part IV. RECENT RESEARCH ON INTERNATIONAL FINANCE (OPTIONAL PRESENTATIONS)
 
 **Midterm 1:** 10/1 <a href="https://cagranados.github.io/files/intfinfall26/midterm1_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> \
 **Midterm 2:** 11/5 <!-- <a href="https://cagranados.github.io/files/intfinfall26/midterm2_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a> --> \
-**Final exam:** <font color="scarlet"> 12/15 3:00pm-4:45pm (FN 2.202)</font> - UTD-assigned time on examination week. **NOTE THE TIME AND DAY IS DIFFERENT THAN THE LECTURE ONE**  <!-- <a href="https://cagranados.github.io/files/intfinfall26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
+**Final exam:** <font color="scarlet"> 12/15 3:00pm-4:45pm (FN 2.202)</font> - UTD-assigned time on examination week. \ 
+**NOTE THE TIME AND DAY IS DIFFERENT THAN THE LECTURE ONE**  <!-- <a href="https://cagranados.github.io/files/intfinfall26/FinalExam_IntFin_AnsKey.pdf"><u>[Answer Key]</u></a>  -->
 
 
 ### Lectures and detailed outline: 
 (this is updated on a regular basis)
 
-**Now:** Exchange Rates in the Long Run \
-**Next:** Exchange Rates in the Short Run
+**Now:** Stabilization policy \
+**Next:** Exam 2
 
 Lecture 1: <a href="https://cagranados.github.io/files/intfinfall26/L1_part1_Intro.pdf"><u>[Slides]</u></a> 
 
@@ -92,7 +93,7 @@ Lecture 9: <a href="https://cagranados.github.io/files/intfinfall26/L9_part3_ERP
 ### Optional presentation:
 (bonus —to be held on last weeks of classes and prior to the final exam)
 
-Deadline for opting to present: <font color="scarlet"> October 8th </font>
+Deadline for opting to present: <font color="black"> October 8th </font>
 
 Description: <a href="https://cagranados.github.io/files/intfinfall26/OptionalPresentationIntFin.pdf"><u>[pdf]</u></a> \
 Schedule: <a href="https://cagranados.github.io/files/intfinfall26/FinalPresentations_schedule.pdf"><u>[pdf]</u></a> 
