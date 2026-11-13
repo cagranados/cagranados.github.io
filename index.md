@@ -239,7 +239,7 @@ Professor <a href="https://econ.washington.edu/people/yu-chin-chen" target="_bla
 <details>
   <summary markdown="span">
   <font color="MediumBlue">
-    Prices Stability and Macroeconomic Volatility Spillovers in Latin America
+    Price Stability and Macroeconomic Volatility Spillovers in Latin America
   </font>
   </summary>
     

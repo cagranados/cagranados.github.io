@@ -92,7 +92,7 @@
 <details>
   <summary markdown="span">
   <font color="MediumBlue">
-    Prices Stability and Macroeconomic Volatility Spillovers in Latin America
+    Price Stability and Macroeconomic Volatility Spillovers in Latin America
   </font>
   </summary>
     
